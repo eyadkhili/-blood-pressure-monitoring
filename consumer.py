@@ -13,14 +13,13 @@ except ImportError:
 from elasticsearch import Elasticsearch
 
 # ============================================
-# CONFIGURATION
+# CONFIGURATION (CORRIGÉE EN 127.0.0.1)
 # ============================================
-KAFKA_BOOTSTRAP_SERVERS = 'localhost:9092'
+KAFKA_BOOTSTRAP_SERVERS = '127.0.0.1:9092'
 KAFKA_TOPIC = 'blood_pressure_topic'
-# Changement de group.id pour s'assurer de lire les nouveaux messages avec le bon mapping
 KAFKA_GROUP_ID = 'health-monitor-final-v9' 
 
-ELASTICSEARCH_HOST = 'http://localhost:9200'
+ELASTICSEARCH_HOST = 'http://127.0.0.1:9200'
 ELASTICSEARCH_INDEX = 'blood_pressure_anomalies'
 
 NORMAL_DATA_FOLDER = 'normal_data'
@@ -79,7 +78,7 @@ def index_to_elasticsearch(es, data):
         
         es.index(index=ELASTICSEARCH_INDEX, document=document)
         
-        # --- AFFICHAGE DÉTAILLÉ (COMME DANS VOTRE PRODUCER) ---
+        # --- AFFICHAGE DÉTAILLÉ RÉPUCÉRÉ ---
         emoji_map = {
             'Critical': '🚨', 'High': '🔴', 'Moderate': '🟠', 'Low': '🔵'
         }
@@ -93,7 +92,7 @@ def index_to_elasticsearch(es, data):
         print(f" Erreur Indexation ES: {e}")
 
 # ============================================
-# TRAITEMENT DES DONNÉES
+# TRAITEMENT DES DONNÉES (LOGIQUE FHIR RESTAURÉE)
 # ============================================
 
 def extract_fhir_data(fhir_msg):
@@ -111,7 +110,7 @@ def extract_fhir_data(fhir_msg):
             elif ext['url'] == 'blood-pressure-category':
                 category = ext['valueString']
 
-        # LOGIQUE DES 4 NIVEAUX DE RISQUE
+        # LOGIQUE DES 4 NIVEAUX DE RISQUE RESTAURÉE
         risk_level = "Low"
         if category == "hypertensive_crisis":
             risk_level = "Critical"
@@ -143,7 +142,7 @@ def save_normal_locally(data):
     filename = os.path.join(NORMAL_DATA_FOLDER, "patients_sains.json")
     with open(filename, "a", encoding="utf-8") as f:
         f.write(json.dumps(data) + "\n")
-    print(f" [{time.strftime('%H:%M:%S')}] {data['patient_name'][:25]:25} | Normal")
+    print(f" ✅ [{time.strftime('%H:%M:%S')}] {data['patient_name'][:25]:25} | Normal")
 
 # ============================================
 # BOUCLE PRINCIPALE
@@ -153,7 +152,6 @@ if __name__ == "__main__":
     es = Elasticsearch([ELASTICSEARCH_HOST])
     create_index_if_not_exists(es)
 
-    # Configuration correcte pour confluent-kafka (utilisation des points)
     conf = {
         'bootstrap.servers': KAFKA_BOOTSTRAP_SERVERS,
         'group.id': KAFKA_GROUP_ID, 
@@ -163,7 +161,7 @@ if __name__ == "__main__":
     consumer = Consumer(conf)
     consumer.subscribe([KAFKA_TOPIC])
 
-    print("📡 Consumer prêt. Affichage détaillé activé...")
+    print("📡 Consumer prêt. Affichage complet (City, Age, Risk) activé...")
 
     try:
         while True:
@@ -175,7 +173,6 @@ if __name__ == "__main__":
             data = extract_fhir_data(fhir_message)
 
             if data:
-                # Si ce n'est pas "normal", on indexe (anomalies)
                 if data['category'].lower() != "normal":
                     index_to_elasticsearch(es, data)
                 else:

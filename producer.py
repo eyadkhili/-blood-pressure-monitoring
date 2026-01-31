@@ -1,4 +1,3 @@
-
 import json
 import time
 import sys
@@ -13,9 +12,9 @@ except ImportError:
 from fhir_generator import generate_fhir_observation
 
 # ============================================
-# CONFIGURATION
+# CONFIGURATION (CORRIGÉE EN 127.0.0.1)
 # ============================================
-KAFKA_BOOTSTRAP_SERVERS = 'localhost:9092'
+KAFKA_BOOTSTRAP_SERVERS = '127.0.0.1:9092'
 KAFKA_TOPIC = 'blood_pressure_topic'
 MESSAGE_INTERVAL = 30
 PATIENTS_PER_BATCH = 10
@@ -36,7 +35,7 @@ def create_producer():
     
     try:
         producer = Producer(conf)
-        print(" Connexion à Kafka réussie!")
+        print(" Connexion à Kafka réussie (127.0.0.1)!")
         return producer
     except Exception as e:
         print(f" Erreur Kafka : {e}")
