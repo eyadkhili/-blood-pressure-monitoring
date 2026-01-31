@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0b39f1fd",
+  "patient_name": "Henriette-Chantal Tanguy",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.69809,
+    "lon": 7.225922
+  },
+  "observation_datetime": "2026-01-30T10:31:35.745082",
+  "saved_at": "2026-01-30T10:31:35.972663"
+}

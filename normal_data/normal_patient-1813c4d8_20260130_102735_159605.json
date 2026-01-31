@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-1813c4d8",
+  "patient_name": "Gabrielle Hebert",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.586651,
+    "lon": 7.764551
+  },
+  "observation_datetime": "2026-01-30T10:27:35.048664",
+  "saved_at": "2026-01-30T10:27:35.159643"
+}

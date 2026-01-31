@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-01fbbfe0",
+  "patient_name": "Thibaut Marty",
+  "systolic_pressure": 111,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.641893,
+    "lon": 3.860611
+  },
+  "observation_datetime": "2026-01-30T19:42:08.184444",
+  "saved_at": "2026-01-30T19:42:08.286361"
+}

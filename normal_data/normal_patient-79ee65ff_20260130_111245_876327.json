@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-79ee65ff",
+  "patient_name": "Olivier-Nicolas Mendès",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.806746,
+    "lon": 4.861735
+  },
+  "observation_datetime": "2026-01-30T11:12:45.552622",
+  "saved_at": "2026-01-30T11:12:45.876410"
+}

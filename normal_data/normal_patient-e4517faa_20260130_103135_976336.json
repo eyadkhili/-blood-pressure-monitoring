@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e4517faa",
+  "patient_name": "Olivier Allard",
+  "systolic_pressure": 103,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.781424,
+    "lon": 4.798027
+  },
+  "observation_datetime": "2026-01-30T10:31:35.757454",
+  "saved_at": "2026-01-30T10:31:35.976373"
+}

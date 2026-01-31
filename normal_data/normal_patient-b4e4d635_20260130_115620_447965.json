@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b4e4d635",
+  "patient_name": "Patricia-Noémi Salmon",
+  "systolic_pressure": 111,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.563311,
+    "lon": 7.744028
+  },
+  "observation_datetime": "2026-01-30T11:56:20.131392",
+  "saved_at": "2026-01-30T11:56:20.448012"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ce48a158",
+  "patient_name": "Patrick Pereira",
+  "systolic_pressure": 104,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.81851,
+    "lon": 2.398086
+  },
+  "observation_datetime": "2026-01-30T11:20:46.468758",
+  "saved_at": "2026-01-30T11:20:46.828592"
+}

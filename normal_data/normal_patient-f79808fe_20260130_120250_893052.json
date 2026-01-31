@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f79808fe",
+  "patient_name": "Olivier Fontaine de la Bruneau",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.823498,
+    "lon": 2.330486
+  },
+  "observation_datetime": "2026-01-30T12:02:50.779510",
+  "saved_at": "2026-01-30T12:02:50.893088"
+}

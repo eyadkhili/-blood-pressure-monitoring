@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e94f30a7",
+  "patient_name": "Nath Meyer",
+  "systolic_pressure": 98,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.6435,
+    "lon": 1.47762
+  },
+  "observation_datetime": "2026-01-30T11:59:20.428279",
+  "saved_at": "2026-01-30T11:59:20.531330"
+}

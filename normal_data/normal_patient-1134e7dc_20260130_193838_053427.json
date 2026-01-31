@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-1134e7dc",
+  "patient_name": "Arnaude Joubert",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.1465,
+    "lon": 5.716163
+  },
+  "observation_datetime": "2026-01-30T19:38:37.832245",
+  "saved_at": "2026-01-30T19:38:38.053449"
+}

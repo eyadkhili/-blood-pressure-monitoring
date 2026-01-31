@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b2364247",
+  "patient_name": "Jeannine Vallée",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.186748,
+    "lon": -1.577905
+  },
+  "observation_datetime": "2026-01-30T11:26:47.184810",
+  "saved_at": "2026-01-30T11:26:47.438012"
+}

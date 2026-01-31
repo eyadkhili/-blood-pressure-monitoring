@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-26963cba",
+  "patient_name": "Emmanuel Hoareau-Daniel",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.607111,
+    "lon": 7.760052
+  },
+  "observation_datetime": "2026-01-30T19:41:38.130025",
+  "saved_at": "2026-01-30T19:41:38.347245"
+}

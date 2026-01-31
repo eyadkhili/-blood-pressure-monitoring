@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3f0b638b",
+  "patient_name": "Bertrand Hardy-Robin",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.847967,
+    "lon": -0.609847
+  },
+  "observation_datetime": "2026-01-30T10:58:13.862396",
+  "saved_at": "2026-01-30T10:58:14.197896"
+}

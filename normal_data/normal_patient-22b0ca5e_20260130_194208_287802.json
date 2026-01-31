@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-22b0ca5e",
+  "patient_name": "Gérard Lacroix-Blin",
+  "systolic_pressure": 104,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.193357,
+    "lon": 5.718529
+  },
+  "observation_datetime": "2026-01-30T19:42:08.184760",
+  "saved_at": "2026-01-30T19:42:08.287843"
+}

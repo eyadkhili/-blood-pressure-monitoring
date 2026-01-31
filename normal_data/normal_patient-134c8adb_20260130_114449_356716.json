@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-134c8adb",
+  "patient_name": "Hélène Guérin",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.186381,
+    "lon": 5.723819
+  },
+  "observation_datetime": "2026-01-30T11:44:48.988124",
+  "saved_at": "2026-01-30T11:44:49.356743"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7173392e",
+  "patient_name": "Jeannine Lévêque",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.222614,
+    "lon": -1.58218
+  },
+  "observation_datetime": "2026-01-30T19:39:37.930123",
+  "saved_at": "2026-01-30T19:39:38.041921"
+}

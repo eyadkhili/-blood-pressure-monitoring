@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-25c31f7e",
+  "patient_name": "Louis Marques-Caron",
+  "systolic_pressure": 104,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.359449,
+    "lon": 5.047303
+  },
+  "observation_datetime": "2026-01-30T11:27:47.297598",
+  "saved_at": "2026-01-30T11:27:47.510545"
+}

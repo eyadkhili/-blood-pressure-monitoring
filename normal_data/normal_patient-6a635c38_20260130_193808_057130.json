@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6a635c38",
+  "patient_name": "Christelle Gonzalez",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.622958,
+    "lon": 1.41179
+  },
+  "observation_datetime": "2026-01-30T19:38:07.783516",
+  "saved_at": "2026-01-30T19:38:08.057162"
+}

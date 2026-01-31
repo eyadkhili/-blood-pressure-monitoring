@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-fbb5b0a6",
+  "patient_name": "Honoré Colin de Lemoine",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.785169,
+    "lon": 4.812445
+  },
+  "observation_datetime": "2026-01-30T10:59:13.973874",
+  "saved_at": "2026-01-30T10:59:14.283610"
+}

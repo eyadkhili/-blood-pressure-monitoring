@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0a3a1e21",
+  "patient_name": "Isaac-Charles Sauvage",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.750186,
+    "lon": 4.831942
+  },
+  "observation_datetime": "2026-01-30T11:50:19.534717",
+  "saved_at": "2026-01-30T11:50:19.643053"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-88568d56",
+  "patient_name": "Alain Paris",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.184975,
+    "lon": 5.674853
+  },
+  "observation_datetime": "2026-01-30T10:28:05.135600",
+  "saved_at": "2026-01-30T10:28:05.143418"
+}

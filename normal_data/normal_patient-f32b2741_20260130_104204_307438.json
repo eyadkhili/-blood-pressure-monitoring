@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f32b2741",
+  "patient_name": "Sébastien Blot",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.598989,
+    "lon": 1.47964
+  },
+  "observation_datetime": "2026-01-30T10:35:51.741518",
+  "saved_at": "2026-01-30T10:42:04.307512"
+}

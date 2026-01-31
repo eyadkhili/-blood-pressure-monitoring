@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a28c2768",
+  "patient_name": "Aurélie Moulin-De Oliveira",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.802987,
+    "lon": 4.812364
+  },
+  "observation_datetime": "2026-01-30T11:19:16.297772",
+  "saved_at": "2026-01-30T11:19:16.548778"
+}

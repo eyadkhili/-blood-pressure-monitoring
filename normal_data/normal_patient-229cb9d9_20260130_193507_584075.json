@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-229cb9d9",
+  "patient_name": "Thomas de la Sanchez",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.602474,
+    "lon": 3.081668
+  },
+  "observation_datetime": "2026-01-30T19:35:07.480989",
+  "saved_at": "2026-01-30T19:35:07.584101"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b18e0ae0",
+  "patient_name": "Capucine Sanchez",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.8655,
+    "lon": 2.373958
+  },
+  "observation_datetime": "2026-01-30T11:07:14.937108",
+  "saved_at": "2026-01-30T11:07:15.086754"
+}

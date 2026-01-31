@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-52e637aa",
+  "patient_name": "Marc Thomas",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.574976,
+    "lon": 3.854192
+  },
+  "observation_datetime": "2026-01-30T11:55:20.030094",
+  "saved_at": "2026-01-30T11:55:20.248464"
+}

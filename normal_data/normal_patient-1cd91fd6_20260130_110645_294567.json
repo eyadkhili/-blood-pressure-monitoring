@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-1cd91fd6",
+  "patient_name": "Léon-Olivier Thibault",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.140053,
+    "lon": 5.738143
+  },
+  "observation_datetime": "2026-01-30T11:06:44.884369",
+  "saved_at": "2026-01-30T11:06:45.294613"
+}

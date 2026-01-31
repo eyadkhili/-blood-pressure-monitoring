@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f7ae6804",
+  "patient_name": "Audrey Le Vallet",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.644144,
+    "lon": 1.423747
+  },
+  "observation_datetime": "2026-01-30T19:37:07.681097",
+  "saved_at": "2026-01-30T19:37:08.107330"
+}

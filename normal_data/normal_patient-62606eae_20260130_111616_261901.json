@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-62606eae",
+  "patient_name": "Suzanne Bonnin-Benard",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.530618,
+    "lon": 7.744666
+  },
+  "observation_datetime": "2026-01-30T11:16:15.950251",
+  "saved_at": "2026-01-30T11:16:16.261969"
+}

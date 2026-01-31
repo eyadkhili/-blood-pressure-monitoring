@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0859e35b",
+  "patient_name": "Suzanne Vincent",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.194417,
+    "lon": -1.584927
+  },
+  "observation_datetime": "2026-01-30T11:15:15.827354",
+  "saved_at": "2026-01-30T11:15:16.009114"
+}

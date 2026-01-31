@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-11f7314b",
+  "patient_name": "Éléonore De Oliveira",
+  "systolic_pressure": 92,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.823775,
+    "lon": -0.601493
+  },
+  "observation_datetime": "2026-01-30T11:23:16.743109",
+  "saved_at": "2026-01-30T11:23:16.869487"
+}

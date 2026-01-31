@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ea44207e",
+  "patient_name": "Frédéric Allain",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.080711,
+    "lon": 5.918224
+  },
+  "observation_datetime": "2026-01-30T10:45:12.332176",
+  "saved_at": "2026-01-30T10:45:12.503678"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f6e12a47",
+  "patient_name": "Anne-Martine Gonzalez",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.293529,
+    "lon": 5.396227
+  },
+  "observation_datetime": "2026-01-30T19:43:38.337076",
+  "saved_at": "2026-01-30T19:43:38.387707"
+}

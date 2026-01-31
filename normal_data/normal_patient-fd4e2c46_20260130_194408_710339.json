@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-fd4e2c46",
+  "patient_name": "Henri Coulon",
+  "systolic_pressure": 97,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.184975,
+    "lon": 5.765984
+  },
+  "observation_datetime": "2026-01-30T19:44:08.387561",
+  "saved_at": "2026-01-30T19:44:08.710363"
+}

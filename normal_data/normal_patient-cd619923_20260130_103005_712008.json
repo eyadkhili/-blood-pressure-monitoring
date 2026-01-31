@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-cd619923",
+  "patient_name": "Antoine Legros",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.600812,
+    "lon": 3.918312
+  },
+  "observation_datetime": "2026-01-30T10:30:05.542317",
+  "saved_at": "2026-01-30T10:30:05.712063"
+}

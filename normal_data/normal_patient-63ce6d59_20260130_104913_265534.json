@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-63ce6d59",
+  "patient_name": "Grégoire Devaux",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.59254,
+    "lon": 3.857743
+  },
+  "observation_datetime": "2026-01-30T10:49:12.799155",
+  "saved_at": "2026-01-30T10:49:13.265646"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e8ca2f41",
+  "patient_name": "Susanne Briand",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.575813,
+    "lon": 3.827273
+  },
+  "observation_datetime": "2026-01-30T11:55:20.030369",
+  "saved_at": "2026-01-30T11:55:20.249920"
+}

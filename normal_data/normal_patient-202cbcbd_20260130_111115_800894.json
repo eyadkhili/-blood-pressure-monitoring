@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-202cbcbd",
+  "patient_name": "Élodie Aubert-Marie",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.282847,
+    "lon": 5.00825
+  },
+  "observation_datetime": "2026-01-30T11:11:15.385717",
+  "saved_at": "2026-01-30T11:11:15.800952"
+}

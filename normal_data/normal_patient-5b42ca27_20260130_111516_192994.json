@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-5b42ca27",
+  "patient_name": "Patrick Guillot",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.525117,
+    "lon": -0.549
+  },
+  "observation_datetime": "2026-01-30T11:15:15.831760",
+  "saved_at": "2026-01-30T11:15:16.193068"
+}

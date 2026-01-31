@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-43248527",
+  "patient_name": "Frédéric Pierre de Bernard",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.854749,
+    "lon": 2.33184
+  },
+  "observation_datetime": "2026-01-30T19:36:07.581095",
+  "saved_at": "2026-01-30T19:36:07.947767"
+}

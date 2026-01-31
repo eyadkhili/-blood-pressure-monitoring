@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4bd1e4c3",
+  "patient_name": "Audrey Antoine",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.573999,
+    "lon": 1.436583
+  },
+  "observation_datetime": "2026-01-30T10:35:51.829614",
+  "saved_at": "2026-01-30T10:42:04.655607"
+}

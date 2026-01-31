@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e29bc5d5",
+  "patient_name": "Christelle Renault",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.616624,
+    "lon": 7.795728
+  },
+  "observation_datetime": "2026-01-30T10:38:22.286232",
+  "saved_at": "2026-01-30T10:42:06.002996"
+}

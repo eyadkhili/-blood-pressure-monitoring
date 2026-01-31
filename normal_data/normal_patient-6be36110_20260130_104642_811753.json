@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6be36110",
+  "patient_name": "William Dijoux",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.167181,
+    "lon": 5.716001
+  },
+  "observation_datetime": "2026-01-30T10:46:42.514153",
+  "saved_at": "2026-01-30T10:46:42.811847"
+}

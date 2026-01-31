@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-fec7c10c",
+  "patient_name": "Jacques Diaz",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.43984,
+    "lon": -0.550741
+  },
+  "observation_datetime": "2026-01-30T12:05:21.030074",
+  "saved_at": "2026-01-30T12:05:21.231367"
+}

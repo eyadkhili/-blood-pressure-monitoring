@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7bb4d11b",
+  "patient_name": "Isaac-Gérard Vallet",
+  "systolic_pressure": 97,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.619761,
+    "lon": 3.028653
+  },
+  "observation_datetime": "2026-01-30T11:57:20.230465",
+  "saved_at": "2026-01-30T11:57:20.648665"
+}

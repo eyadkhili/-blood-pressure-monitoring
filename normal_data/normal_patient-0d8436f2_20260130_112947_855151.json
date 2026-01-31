@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0d8436f2",
+  "patient_name": "Agnès Renaud-Labbé",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.60852,
+    "lon": 1.476114
+  },
+  "observation_datetime": "2026-01-30T11:29:47.491320",
+  "saved_at": "2026-01-30T11:29:47.855193"
+}

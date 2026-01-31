@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-bd55fc44",
+  "patient_name": "Alexandria-Camille Godard",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.638261,
+    "lon": 3.876766
+  },
+  "observation_datetime": "2026-01-30T10:53:43.315847",
+  "saved_at": "2026-01-30T10:53:43.625485"
+}

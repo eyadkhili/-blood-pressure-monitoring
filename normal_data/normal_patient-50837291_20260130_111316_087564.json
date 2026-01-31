@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-50837291",
+  "patient_name": "Gilles Clément",
+  "systolic_pressure": 103,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.621272,
+    "lon": 3.013685
+  },
+  "observation_datetime": "2026-01-30T11:13:15.608971",
+  "saved_at": "2026-01-30T11:13:16.087613"
+}

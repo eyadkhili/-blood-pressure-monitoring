@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4cf93269",
+  "patient_name": "Thibaut Rivière",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.358642,
+    "lon": 5.049983
+  },
+  "observation_datetime": "2026-01-30T11:25:17.006717",
+  "saved_at": "2026-01-30T11:25:17.315939"
+}

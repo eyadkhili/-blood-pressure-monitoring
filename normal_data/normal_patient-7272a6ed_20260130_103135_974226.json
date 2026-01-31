@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7272a6ed",
+  "patient_name": "Sylvie Rodrigues",
+  "systolic_pressure": 98,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.658461,
+    "lon": 3.093466
+  },
+  "observation_datetime": "2026-01-30T10:31:35.751275",
+  "saved_at": "2026-01-30T10:31:35.974262"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-9755430b",
+  "patient_name": "René Labbé",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.098834,
+    "lon": -1.701138
+  },
+  "observation_datetime": "2026-01-30T11:52:19.733130",
+  "saved_at": "2026-01-30T11:52:19.903027"
+}

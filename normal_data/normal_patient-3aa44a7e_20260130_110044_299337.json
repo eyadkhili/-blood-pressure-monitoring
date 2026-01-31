@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3aa44a7e",
+  "patient_name": "Benoît Barbe",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.611504,
+    "lon": 3.899902
+  },
+  "observation_datetime": "2026-01-30T11:00:44.167610",
+  "saved_at": "2026-01-30T11:00:44.299405"
+}

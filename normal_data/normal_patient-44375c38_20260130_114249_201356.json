@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-44375c38",
+  "patient_name": "Vincent Texier",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.455437,
+    "lon": -0.605418
+  },
+  "observation_datetime": "2026-01-30T11:42:48.789656",
+  "saved_at": "2026-01-30T11:42:49.201380"
+}

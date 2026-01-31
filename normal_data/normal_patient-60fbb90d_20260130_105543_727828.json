@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-60fbb90d",
+  "patient_name": "Margot Laroche",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.297305,
+    "lon": 5.043233
+  },
+  "observation_datetime": "2026-01-30T10:55:43.538549",
+  "saved_at": "2026-01-30T10:55:43.727900"
+}

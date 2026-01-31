@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-01646bd7",
+  "patient_name": "Xavier Faivre",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.341633,
+    "lon": 5.023114
+  },
+  "observation_datetime": "2026-01-30T11:58:50.381615",
+  "saved_at": "2026-01-30T11:58:50.761211"
+}

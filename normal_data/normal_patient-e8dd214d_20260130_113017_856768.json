@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e8dd214d",
+  "patient_name": "Anne Lelièvre",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.495904,
+    "lon": -0.603259
+  },
+  "observation_datetime": "2026-01-30T11:30:17.541029",
+  "saved_at": "2026-01-30T11:30:17.856808"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-eeda09f4",
+  "patient_name": "Éléonore Loiseau",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.17953,
+    "lon": -1.566013
+  },
+  "observation_datetime": "2026-01-30T11:10:15.278216",
+  "saved_at": "2026-01-30T11:10:15.420464"
+}

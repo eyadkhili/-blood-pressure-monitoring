@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-edf1ea4d",
+  "patient_name": "Henri Garnier",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.84837,
+    "lon": 2.3734
+  },
+  "observation_datetime": "2026-01-30T11:34:47.985441",
+  "saved_at": "2026-01-30T11:34:48.259422"
+}

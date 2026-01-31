@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-45ac48b0",
+  "patient_name": "Franck Bazin",
+  "systolic_pressure": 103,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.324414,
+    "lon": 5.028456
+  },
+  "observation_datetime": "2026-01-30T12:04:50.978233",
+  "saved_at": "2026-01-30T12:04:51.027970"
+}

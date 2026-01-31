@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2439c48c",
+  "patient_name": "Émile Jacquet",
+  "systolic_pressure": 110,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.781375,
+    "lon": 4.792147
+  },
+  "observation_datetime": "2026-01-30T19:37:07.681554",
+  "saved_at": "2026-01-30T19:37:08.109211"
+}

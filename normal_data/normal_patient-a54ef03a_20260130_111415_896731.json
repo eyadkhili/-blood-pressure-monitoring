@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a54ef03a",
+  "patient_name": "Élise Goncalves",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.850471,
+    "lon": -0.575715
+  },
+  "observation_datetime": "2026-01-30T11:14:15.716644",
+  "saved_at": "2026-01-30T11:14:15.896826"
+}

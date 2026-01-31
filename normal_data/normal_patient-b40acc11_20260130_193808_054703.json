@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b40acc11",
+  "patient_name": "Noël Pinto-Pineau",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.172159,
+    "lon": 5.892745
+  },
+  "observation_datetime": "2026-01-30T19:38:07.783049",
+  "saved_at": "2026-01-30T19:38:08.054730"
+}

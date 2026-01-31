@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-cc344e9f",
+  "patient_name": "Thomas Morin-Chauvet",
+  "systolic_pressure": 93,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.619243,
+    "lon": 3.873703
+  },
+  "observation_datetime": "2026-01-30T10:49:42.850509",
+  "saved_at": "2026-01-30T10:49:42.979404"
+}

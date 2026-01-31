@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2ee60e96",
+  "patient_name": "Caroline Ledoux-Maury",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.603159,
+    "lon": 3.878828
+  },
+  "observation_datetime": "2026-01-30T19:42:08.186407",
+  "saved_at": "2026-01-30T19:42:08.503144"
+}

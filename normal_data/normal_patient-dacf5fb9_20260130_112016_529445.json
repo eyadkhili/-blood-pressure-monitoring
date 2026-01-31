@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-dacf5fb9",
+  "patient_name": "Matthieu Auger",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.141798,
+    "lon": 5.881339
+  },
+  "observation_datetime": "2026-01-30T11:20:16.408431",
+  "saved_at": "2026-01-30T11:20:16.529493"
+}

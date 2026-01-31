@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a74f59ea",
+  "patient_name": "Léon Bousquet",
+  "systolic_pressure": 93,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.13959,
+    "lon": 5.97276
+  },
+  "observation_datetime": "2026-01-30T10:39:22.508193",
+  "saved_at": "2026-01-30T10:42:06.770186"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7cbfeb5e",
+  "patient_name": "Danielle Delorme-Ferrand",
+  "systolic_pressure": 93,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.56182,
+    "lon": 3.850045
+  },
+  "observation_datetime": "2026-01-30T19:43:38.336104",
+  "saved_at": "2026-01-30T19:43:38.385415"
+}

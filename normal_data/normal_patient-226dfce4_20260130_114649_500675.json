@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-226dfce4",
+  "patient_name": "Gérard Ollivier",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.849918,
+    "lon": 2.357268
+  },
+  "observation_datetime": "2026-01-30T11:46:49.187978",
+  "saved_at": "2026-01-30T11:46:49.500701"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-d7e9babb",
+  "patient_name": "Manon Bègue",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.261343,
+    "lon": 5.350858
+  },
+  "observation_datetime": "2026-01-30T11:54:49.980704",
+  "saved_at": "2026-01-30T11:54:50.132427"
+}

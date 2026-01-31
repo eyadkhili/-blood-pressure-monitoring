@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-16a56ac3",
+  "patient_name": "Paul Vasseur",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.085435,
+    "lon": -1.684546
+  },
+  "observation_datetime": "2026-01-30T11:25:16.998379",
+  "saved_at": "2026-01-30T11:25:17.127893"
+}

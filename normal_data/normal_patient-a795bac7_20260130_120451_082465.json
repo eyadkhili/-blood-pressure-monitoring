@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a795bac7",
+  "patient_name": "Zoé Merle",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.848105,
+    "lon": -0.597445
+  },
+  "observation_datetime": "2026-01-30T12:04:50.978765",
+  "saved_at": "2026-01-30T12:04:51.082491"
+}

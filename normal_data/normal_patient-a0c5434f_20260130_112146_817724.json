@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a0c5434f",
+  "patient_name": "Louis Vallée-Dubois",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.261011,
+    "lon": 5.353138
+  },
+  "observation_datetime": "2026-01-30T11:21:46.572481",
+  "saved_at": "2026-01-30T11:21:46.817817"
+}

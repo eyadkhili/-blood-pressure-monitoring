@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-23734a2b",
+  "patient_name": "Michelle Georges",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.584329,
+    "lon": 7.77802
+  },
+  "observation_datetime": "2026-01-30T10:29:35.469653",
+  "saved_at": "2026-01-30T10:29:35.731059"
+}

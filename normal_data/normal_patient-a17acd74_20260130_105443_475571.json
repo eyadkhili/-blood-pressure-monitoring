@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a17acd74",
+  "patient_name": "Luc Rodriguez",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.195543,
+    "lon": 5.675282
+  },
+  "observation_datetime": "2026-01-30T10:54:43.418865",
+  "saved_at": "2026-01-30T10:54:43.475654"
+}

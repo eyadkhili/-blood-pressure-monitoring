@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3a7cda62",
+  "patient_name": "Maggie Bonnet",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.809968,
+    "lon": 2.364203
+  },
+  "observation_datetime": "2026-01-30T11:43:48.888047",
+  "saved_at": "2026-01-30T11:43:49.313646"
+}

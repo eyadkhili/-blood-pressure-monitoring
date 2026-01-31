@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-655211ef",
+  "patient_name": "Sabine Colas",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.599817,
+    "lon": 7.776262
+  },
+  "observation_datetime": "2026-01-30T10:22:33.913438",
+  "saved_at": "2026-01-30T10:22:34.065100"
+}

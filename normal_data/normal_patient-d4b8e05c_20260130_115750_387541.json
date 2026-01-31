@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-d4b8e05c",
+  "patient_name": "Édith Lebreton",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.67685,
+    "lon": 3.063042
+  },
+  "observation_datetime": "2026-01-30T11:57:50.278001",
+  "saved_at": "2026-01-30T11:57:50.387577"
+}

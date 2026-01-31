@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-69c8684e",
+  "patient_name": "Camille Perez",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.518585,
+    "lon": -0.585869
+  },
+  "observation_datetime": "2026-01-30T11:24:16.886336",
+  "saved_at": "2026-01-30T11:24:17.360324"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-c16138d9",
+  "patient_name": "Martine Laporte",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.528969,
+    "lon": 7.76097
+  },
+  "observation_datetime": "2026-01-30T19:40:07.979617",
+  "saved_at": "2026-01-30T19:40:08.092016"
+}

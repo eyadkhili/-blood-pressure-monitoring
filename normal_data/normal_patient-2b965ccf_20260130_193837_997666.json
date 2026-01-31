@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2b965ccf",
+  "patient_name": "Alain Lefort",
+  "systolic_pressure": 103,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.192078,
+    "lon": -1.594582
+  },
+  "observation_datetime": "2026-01-30T19:38:37.831655",
+  "saved_at": "2026-01-30T19:38:37.997697"
+}

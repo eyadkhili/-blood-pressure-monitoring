@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-56287579",
+  "patient_name": "Dorothée Lopez",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.319489,
+    "lon": 5.349306
+  },
+  "observation_datetime": "2026-01-30T11:08:15.062480",
+  "saved_at": "2026-01-30T11:08:15.319415"
+}

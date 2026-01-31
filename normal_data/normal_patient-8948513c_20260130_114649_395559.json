@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8948513c",
+  "patient_name": "Georges Pires-Hoarau",
+  "systolic_pressure": 110,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.607445,
+    "lon": 3.908697
+  },
+  "observation_datetime": "2026-01-30T11:46:49.186290",
+  "saved_at": "2026-01-30T11:46:49.395600"
+}

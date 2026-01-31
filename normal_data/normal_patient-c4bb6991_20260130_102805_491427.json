@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-c4bb6991",
+  "patient_name": "Raymond Lenoir",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.294089,
+    "lon": 5.090737
+  },
+  "observation_datetime": "2026-01-30T10:28:05.188352",
+  "saved_at": "2026-01-30T10:28:05.491473"
+}

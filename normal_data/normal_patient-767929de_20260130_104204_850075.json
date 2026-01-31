@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-767929de",
+  "patient_name": "Vincent Vincent",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.801659,
+    "lon": 4.876242
+  },
+  "observation_datetime": "2026-01-30T10:36:21.924622",
+  "saved_at": "2026-01-30T10:42:04.850168"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-13b32238",
+  "patient_name": "Patricia Cohen-Legrand",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.654833,
+    "lon": 3.828186
+  },
+  "observation_datetime": "2026-01-30T11:16:46.003353",
+  "saved_at": "2026-01-30T11:16:46.250648"
+}

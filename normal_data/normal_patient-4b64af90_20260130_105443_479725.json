@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4b64af90",
+  "patient_name": "Zacharie Aubert Le Joubert",
+  "systolic_pressure": 92,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.289864,
+    "lon": 5.336923
+  },
+  "observation_datetime": "2026-01-30T10:54:43.420107",
+  "saved_at": "2026-01-30T10:54:43.479815"
+}

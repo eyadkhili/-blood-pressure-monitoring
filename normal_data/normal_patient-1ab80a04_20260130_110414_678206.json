@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-1ab80a04",
+  "patient_name": "Frédérique Besnard-Menard",
+  "systolic_pressure": 98,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.594963,
+    "lon": 1.398455
+  },
+  "observation_datetime": "2026-01-30T11:04:14.599695",
+  "saved_at": "2026-01-30T11:04:14.678304"
+}

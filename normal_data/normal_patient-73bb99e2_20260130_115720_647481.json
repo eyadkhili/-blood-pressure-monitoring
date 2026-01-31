@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-73bb99e2",
+  "patient_name": "Marine Lemonnier",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.180276,
+    "lon": 5.703945
+  },
+  "observation_datetime": "2026-01-30T11:57:20.230278",
+  "saved_at": "2026-01-30T11:57:20.647508"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0de1fb17",
+  "patient_name": "Margaud Barbier",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.219133,
+    "lon": 5.677927
+  },
+  "observation_datetime": "2026-01-30T19:32:07.178548",
+  "saved_at": "2026-01-30T19:32:07.228885"
+}

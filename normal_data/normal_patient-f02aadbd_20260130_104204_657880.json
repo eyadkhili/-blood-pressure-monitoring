@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f02aadbd",
+  "patient_name": "Michèle Ferrand",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.561458,
+    "lon": 1.42022
+  },
+  "observation_datetime": "2026-01-30T10:35:51.839669",
+  "saved_at": "2026-01-30T10:42:04.657961"
+}

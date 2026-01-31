@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e4845162",
+  "patient_name": "Daniel Guillet",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.592605,
+    "lon": 1.426112
+  },
+  "observation_datetime": "2026-01-30T11:37:48.288481",
+  "saved_at": "2026-01-30T11:37:48.554988"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f5d5d0cc",
+  "patient_name": "Catherine Martin de Bruneau",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.33518,
+    "lon": 5.329027
+  },
+  "observation_datetime": "2026-01-30T11:05:44.769456",
+  "saved_at": "2026-01-30T11:05:44.938634"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-dcc9043c",
+  "patient_name": "Susan-Christiane Gilles",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.760919,
+    "lon": 4.878333
+  },
+  "observation_datetime": "2026-01-30T10:29:05.369679",
+  "saved_at": "2026-01-30T10:29:05.603162"
+}

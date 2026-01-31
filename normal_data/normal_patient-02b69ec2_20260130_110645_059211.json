@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-02b69ec2",
+  "patient_name": "Charles-Éric Boulanger",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.692817,
+    "lon": 7.217844
+  },
+  "observation_datetime": "2026-01-30T11:06:44.880322",
+  "saved_at": "2026-01-30T11:06:45.059277"
+}

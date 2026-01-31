@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-15bf0329",
+  "patient_name": "Noémi Durand",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.317813,
+    "lon": 5.026874
+  },
+  "observation_datetime": "2026-01-30T11:33:47.886682",
+  "saved_at": "2026-01-30T11:33:48.148216"
+}

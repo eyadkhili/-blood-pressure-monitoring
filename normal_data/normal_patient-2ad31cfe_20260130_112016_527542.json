@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2ad31cfe",
+  "patient_name": "Sébastien Vincent",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.855425,
+    "lon": -0.61698
+  },
+  "observation_datetime": "2026-01-30T11:20:16.408056",
+  "saved_at": "2026-01-30T11:20:16.527586"
+}

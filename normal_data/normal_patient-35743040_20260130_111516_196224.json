@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-35743040",
+  "patient_name": "André-Maurice Lacombe",
+  "systolic_pressure": 92,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.653576,
+    "lon": 1.432526
+  },
+  "observation_datetime": "2026-01-30T11:15:15.833422",
+  "saved_at": "2026-01-30T11:15:16.196300"
+}

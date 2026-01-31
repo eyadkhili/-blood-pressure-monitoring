@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-dbe69f5d",
+  "patient_name": "Louis Dos Santos",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.875895,
+    "lon": 2.343078
+  },
+  "observation_datetime": "2026-01-30T11:31:17.636687",
+  "saved_at": "2026-01-30T11:31:17.686547"
+}

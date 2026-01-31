@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-fbe417b2",
+  "patient_name": "Charlotte de Olivier",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.231068,
+    "lon": 5.713351
+  },
+  "observation_datetime": "2026-01-30T10:49:42.854026",
+  "saved_at": "2026-01-30T10:49:43.106004"
+}

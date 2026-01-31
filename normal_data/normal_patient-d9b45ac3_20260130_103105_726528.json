@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-d9b45ac3",
+  "patient_name": "Théodore Payet",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.636107,
+    "lon": 3.032416
+  },
+  "observation_datetime": "2026-01-30T10:31:05.658105",
+  "saved_at": "2026-01-30T10:31:05.726569"
+}

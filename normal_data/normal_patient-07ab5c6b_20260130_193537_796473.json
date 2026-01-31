@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-07ab5c6b",
+  "patient_name": "Agnès Boulanger",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.864297,
+    "lon": -0.611965
+  },
+  "observation_datetime": "2026-01-30T19:35:37.533134",
+  "saved_at": "2026-01-30T19:35:37.796502"
+}

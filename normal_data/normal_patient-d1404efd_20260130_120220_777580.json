@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-d1404efd",
+  "patient_name": "Pauline Bourdon de Ramos",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.854077,
+    "lon": -0.551075
+  },
+  "observation_datetime": "2026-01-30T12:02:20.727876",
+  "saved_at": "2026-01-30T12:02:20.777606"
+}

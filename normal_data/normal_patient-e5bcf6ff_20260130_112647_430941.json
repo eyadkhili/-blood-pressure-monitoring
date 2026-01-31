@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e5bcf6ff",
+  "patient_name": "Stéphanie Gay",
+  "systolic_pressure": 104,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.67495,
+    "lon": 3.054907
+  },
+  "observation_datetime": "2026-01-30T11:26:47.183027",
+  "saved_at": "2026-01-30T11:26:47.431026"
+}

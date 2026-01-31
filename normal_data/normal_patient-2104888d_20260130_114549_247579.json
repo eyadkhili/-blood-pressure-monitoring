@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2104888d",
+  "patient_name": "Agathe Maréchal",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.18528,
+    "lon": -1.520491
+  },
+  "observation_datetime": "2026-01-30T11:45:49.086038",
+  "saved_at": "2026-01-30T11:45:49.247612"
+}

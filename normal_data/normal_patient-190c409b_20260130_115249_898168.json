@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-190c409b",
+  "patient_name": "Paul Barbe",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.606963,
+    "lon": 1.417346
+  },
+  "observation_datetime": "2026-01-30T11:52:49.784551",
+  "saved_at": "2026-01-30T11:52:49.898190"
+}

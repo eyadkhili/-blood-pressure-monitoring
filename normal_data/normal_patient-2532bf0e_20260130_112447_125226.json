@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2532bf0e",
+  "patient_name": "Hugues Germain",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.254689,
+    "lon": 5.355413
+  },
+  "observation_datetime": "2026-01-30T11:24:46.942170",
+  "saved_at": "2026-01-30T11:24:47.125290"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-44deaeea",
+  "patient_name": "Marcelle Marion",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.361295,
+    "lon": 5.020377
+  },
+  "observation_datetime": "2026-01-30T11:55:50.079949",
+  "saved_at": "2026-01-30T11:55:50.280812"
+}

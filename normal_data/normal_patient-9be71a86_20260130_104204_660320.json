@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-9be71a86",
+  "patient_name": "Dominique Lecoq",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.602395,
+    "lon": 7.77
+  },
+  "observation_datetime": "2026-01-30T10:36:21.851587",
+  "saved_at": "2026-01-30T10:42:04.660495"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-83ad6acd",
+  "patient_name": "Augustin Lacroix",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.561713,
+    "lon": 1.457059
+  },
+  "observation_datetime": "2026-01-30T11:47:19.236295",
+  "saved_at": "2026-01-30T11:47:19.618593"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-421d7070",
+  "patient_name": "Émile Schneider",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.78923,
+    "lon": -0.596031
+  },
+  "observation_datetime": "2026-01-30T11:39:48.486495",
+  "saved_at": "2026-01-30T11:39:48.802303"
+}

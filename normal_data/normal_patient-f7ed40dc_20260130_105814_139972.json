@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f7ed40dc",
+  "patient_name": "Capucine Perrot",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.231994,
+    "lon": 5.759779
+  },
+  "observation_datetime": "2026-01-30T10:58:13.857943",
+  "saved_at": "2026-01-30T10:58:14.140042"
+}

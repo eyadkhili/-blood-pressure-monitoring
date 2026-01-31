@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3d0ab9fe",
+  "patient_name": "Arnaude Vallet",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.866037,
+    "lon": 2.341148
+  },
+  "observation_datetime": "2026-01-30T12:00:20.528717",
+  "saved_at": "2026-01-30T12:00:20.732093"
+}

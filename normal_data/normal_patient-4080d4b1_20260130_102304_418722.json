@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4080d4b1",
+  "patient_name": "Antoine Evrard",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.58028,
+    "lon": 3.017614
+  },
+  "observation_datetime": "2026-01-30T10:23:04.072064",
+  "saved_at": "2026-01-30T10:23:04.418769"
+}

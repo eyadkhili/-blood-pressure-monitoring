@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a8cceb08",
+  "patient_name": "Émile Normand",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.115864,
+    "lon": -1.714221
+  },
+  "observation_datetime": "2026-01-30T10:59:13.972312",
+  "saved_at": "2026-01-30T10:59:14.151526"
+}

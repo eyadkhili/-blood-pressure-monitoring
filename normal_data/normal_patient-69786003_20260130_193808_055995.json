@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-69786003",
+  "patient_name": "Sébastien Tanguy",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.793587,
+    "lon": 4.821728
+  },
+  "observation_datetime": "2026-01-30T19:38:07.783293",
+  "saved_at": "2026-01-30T19:38:08.056026"
+}

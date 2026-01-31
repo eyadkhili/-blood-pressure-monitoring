@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8370049c",
+  "patient_name": "Matthieu Petit",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.564192,
+    "lon": 1.412202
+  },
+  "observation_datetime": "2026-01-30T11:51:49.684453",
+  "saved_at": "2026-01-30T11:51:49.851303"
+}

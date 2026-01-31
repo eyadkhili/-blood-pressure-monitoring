@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2bd27235",
+  "patient_name": "Alphonse Nicolas",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.759305,
+    "lon": 4.866279
+  },
+  "observation_datetime": "2026-01-30T11:40:48.590961",
+  "saved_at": "2026-01-30T11:40:48.811093"
+}

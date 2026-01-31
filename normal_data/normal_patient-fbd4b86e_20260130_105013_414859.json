@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-fbd4b86e",
+  "patient_name": "Guillaume Marques",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.806386,
+    "lon": -0.565818
+  },
+  "observation_datetime": "2026-01-30T10:50:12.933714",
+  "saved_at": "2026-01-30T10:50:13.414930"
+}

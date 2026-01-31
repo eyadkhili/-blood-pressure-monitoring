@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6da7c7ea",
+  "patient_name": "Joseph Morin",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.297231,
+    "lon": 5.080448
+  },
+  "observation_datetime": "2026-01-30T11:25:17.001525",
+  "saved_at": "2026-01-30T11:25:17.257173"
+}

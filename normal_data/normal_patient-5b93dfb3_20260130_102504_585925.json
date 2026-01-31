@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-5b93dfb3",
+  "patient_name": "Aimée Valentin",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.117272,
+    "lon": 5.913737
+  },
+  "observation_datetime": "2026-01-30T10:25:04.525681",
+  "saved_at": "2026-01-30T10:25:04.585974"
+}

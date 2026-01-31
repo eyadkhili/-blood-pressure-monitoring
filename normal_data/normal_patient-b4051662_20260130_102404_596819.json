@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b4051662",
+  "patient_name": "Susan du Blondel",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.720508,
+    "lon": 4.845449
+  },
+  "observation_datetime": "2026-01-30T10:24:04.389501",
+  "saved_at": "2026-01-30T10:24:04.596899"
+}

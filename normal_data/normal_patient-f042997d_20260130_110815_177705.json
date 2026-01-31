@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f042997d",
+  "patient_name": "Aimé Samson-Pires",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.588318,
+    "lon": 1.429718
+  },
+  "observation_datetime": "2026-01-30T11:08:15.059527",
+  "saved_at": "2026-01-30T11:08:15.177758"
+}

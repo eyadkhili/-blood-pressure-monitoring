@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0c38bece",
+  "patient_name": "Stéphane Gérard",
+  "systolic_pressure": 110,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.791697,
+    "lon": -0.541763
+  },
+  "observation_datetime": "2026-01-30T10:51:13.030514",
+  "saved_at": "2026-01-30T10:51:13.269925"
+}

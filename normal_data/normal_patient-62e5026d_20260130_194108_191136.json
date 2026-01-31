@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-62e5026d",
+  "patient_name": "Joseph Lemonnier",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.151962,
+    "lon": -1.686797
+  },
+  "observation_datetime": "2026-01-30T19:41:08.079696",
+  "saved_at": "2026-01-30T19:41:08.191170"
+}

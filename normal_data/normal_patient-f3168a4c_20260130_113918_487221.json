@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f3168a4c",
+  "patient_name": "Aurélie Marchal-Le Gall",
+  "systolic_pressure": 104,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.163527,
+    "lon": 5.718933
+  },
+  "observation_datetime": "2026-01-30T11:39:18.435895",
+  "saved_at": "2026-01-30T11:39:18.487261"
+}

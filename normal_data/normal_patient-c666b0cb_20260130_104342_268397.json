@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-c666b0cb",
+  "patient_name": "Jacqueline Meunier-De Oliveira",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.653432,
+    "lon": 1.439482
+  },
+  "observation_datetime": "2026-01-30T10:43:42.145643",
+  "saved_at": "2026-01-30T10:43:42.268440"
+}

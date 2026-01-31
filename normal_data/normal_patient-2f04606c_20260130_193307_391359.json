@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2f04606c",
+  "patient_name": "Aurélie Laine",
+  "systolic_pressure": 111,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.796363,
+    "lon": 4.836912
+  },
+  "observation_datetime": "2026-01-30T19:33:07.279657",
+  "saved_at": "2026-01-30T19:33:07.391388"
+}

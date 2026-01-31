@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-10d25156",
+  "patient_name": "Alphonse Langlois du Lecomte",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.20297,
+    "lon": -1.599364
+  },
+  "observation_datetime": "2026-01-30T11:10:15.281403",
+  "saved_at": "2026-01-30T11:10:15.543589"
+}

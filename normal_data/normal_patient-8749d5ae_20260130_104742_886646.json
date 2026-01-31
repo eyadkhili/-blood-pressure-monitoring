@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8749d5ae",
+  "patient_name": "Yves Renard",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.124752,
+    "lon": -1.669202
+  },
+  "observation_datetime": "2026-01-30T10:47:42.634473",
+  "saved_at": "2026-01-30T10:47:42.886717"
+}

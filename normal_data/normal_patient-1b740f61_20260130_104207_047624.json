@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-1b740f61",
+  "patient_name": "Matthieu Bouvier de la Marty",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.595924,
+    "lon": 1.433298
+  },
+  "observation_datetime": "2026-01-30T10:39:52.591572",
+  "saved_at": "2026-01-30T10:42:07.047661"
+}

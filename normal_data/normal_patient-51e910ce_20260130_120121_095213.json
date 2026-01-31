@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-51e910ce",
+  "patient_name": "Matthieu Fontaine-Peron",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.592785,
+    "lon": 3.007577
+  },
+  "observation_datetime": "2026-01-30T12:01:20.630706",
+  "saved_at": "2026-01-30T12:01:21.095247"
+}

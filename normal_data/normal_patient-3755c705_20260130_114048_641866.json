@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3755c705",
+  "patient_name": "Aimée Evrard",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.371815,
+    "lon": 5.065455
+  },
+  "observation_datetime": "2026-01-30T11:40:48.589513",
+  "saved_at": "2026-01-30T11:40:48.641907"
+}

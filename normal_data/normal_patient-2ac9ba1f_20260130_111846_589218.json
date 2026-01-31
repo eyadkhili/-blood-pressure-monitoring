@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2ac9ba1f",
+  "patient_name": "Suzanne Guilbert",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.170471,
+    "lon": 5.687942
+  },
+  "observation_datetime": "2026-01-30T11:18:46.242217",
+  "saved_at": "2026-01-30T11:18:46.589289"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-126ce496",
+  "patient_name": "Nathalie Goncalves",
+  "systolic_pressure": 93,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.181567,
+    "lon": 5.763834
+  },
+  "observation_datetime": "2026-01-30T11:00:14.120883",
+  "saved_at": "2026-01-30T11:00:14.546581"
+}

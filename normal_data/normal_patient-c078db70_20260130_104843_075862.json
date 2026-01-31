@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-c078db70",
+  "patient_name": "Suzanne-Danielle Fernandez",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.323346,
+    "lon": 5.332107
+  },
+  "observation_datetime": "2026-01-30T10:48:42.749202",
+  "saved_at": "2026-01-30T10:48:43.075991"
+}

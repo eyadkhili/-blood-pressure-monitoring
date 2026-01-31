@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a6ff2002",
+  "patient_name": "Nathalie Buisson de Hamel",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.188526,
+    "lon": -1.516615
+  },
+  "observation_datetime": "2026-01-30T12:02:50.780715",
+  "saved_at": "2026-01-30T12:02:50.999554"
+}

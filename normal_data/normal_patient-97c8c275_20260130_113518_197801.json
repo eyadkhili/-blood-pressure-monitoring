@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-97c8c275",
+  "patient_name": "William Munoz",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.865863,
+    "lon": -0.559431
+  },
+  "observation_datetime": "2026-01-30T11:35:18.035755",
+  "saved_at": "2026-01-30T11:35:18.197827"
+}

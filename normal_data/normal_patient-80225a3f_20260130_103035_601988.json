@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-80225a3f",
+  "patient_name": "Corinne de Robin",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.127006,
+    "lon": 5.906331
+  },
+  "observation_datetime": "2026-01-30T10:30:35.591986",
+  "saved_at": "2026-01-30T10:30:35.602036"
+}

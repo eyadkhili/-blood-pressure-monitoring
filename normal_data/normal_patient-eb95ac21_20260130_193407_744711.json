@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-eb95ac21",
+  "patient_name": "Étienne Bertin-Humbert",
+  "systolic_pressure": 111,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.154226,
+    "lon": -1.686679
+  },
+  "observation_datetime": "2026-01-30T19:34:07.384561",
+  "saved_at": "2026-01-30T19:34:07.744745"
+}

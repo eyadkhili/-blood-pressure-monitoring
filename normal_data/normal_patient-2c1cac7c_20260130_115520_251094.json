@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2c1cac7c",
+  "patient_name": "Emmanuel Diaz",
+  "systolic_pressure": 110,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.602982,
+    "lon": 3.027993
+  },
+  "observation_datetime": "2026-01-30T11:55:20.030625",
+  "saved_at": "2026-01-30T11:55:20.251129"
+}

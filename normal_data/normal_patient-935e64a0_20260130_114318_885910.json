@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-935e64a0",
+  "patient_name": "Jérôme Bonnet",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.113651,
+    "lon": 5.909984
+  },
+  "observation_datetime": "2026-01-30T11:43:18.837263",
+  "saved_at": "2026-01-30T11:43:18.885947"
+}

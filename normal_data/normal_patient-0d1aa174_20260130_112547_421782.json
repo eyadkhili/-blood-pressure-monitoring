@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0d1aa174",
+  "patient_name": "Patrick-Théophile Peltier",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.756036,
+    "lon": 7.310675
+  },
+  "observation_datetime": "2026-01-30T11:25:47.062003",
+  "saved_at": "2026-01-30T11:25:47.421836"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2930bd7e",
+  "patient_name": "Benjamin Samson",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.621638,
+    "lon": 3.888767
+  },
+  "observation_datetime": "2026-01-30T11:12:15.490708",
+  "saved_at": "2026-01-30T11:12:15.928960"
+}

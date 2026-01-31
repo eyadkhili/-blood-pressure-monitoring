@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-adc2c204",
+  "patient_name": "Margot François-Bousquet",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.792272,
+    "lon": 4.802906
+  },
+  "observation_datetime": "2026-01-30T19:38:37.832765",
+  "saved_at": "2026-01-30T19:38:38.108553"
+}

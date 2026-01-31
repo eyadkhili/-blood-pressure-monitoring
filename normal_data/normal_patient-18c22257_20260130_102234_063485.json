@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-18c22257",
+  "patient_name": "Élise Dupuy",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.228337,
+    "lon": -1.584688
+  },
+  "observation_datetime": "2026-01-30T10:22:33.904873",
+  "saved_at": "2026-01-30T10:22:34.063534"
+}

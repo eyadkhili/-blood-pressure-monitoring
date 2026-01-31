@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-827c5251",
+  "patient_name": "Matthieu Mace",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.584949,
+    "lon": 7.76579
+  },
+  "observation_datetime": "2026-01-30T11:37:48.287250",
+  "saved_at": "2026-01-30T11:37:48.549771"
+}

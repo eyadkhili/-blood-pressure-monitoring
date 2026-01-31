@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6a1cf205",
+  "patient_name": "Constance Albert",
+  "systolic_pressure": 103,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.682529,
+    "lon": 7.236749
+  },
+  "observation_datetime": "2026-01-30T11:59:20.427603",
+  "saved_at": "2026-01-30T11:59:20.476884"
+}

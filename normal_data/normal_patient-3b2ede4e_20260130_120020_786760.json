@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3b2ede4e",
+  "patient_name": "Catherine du Fontaine",
+  "systolic_pressure": 103,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.643419,
+    "lon": 1.462502
+  },
+  "observation_datetime": "2026-01-30T12:00:20.529892",
+  "saved_at": "2026-01-30T12:00:20.786786"
+}

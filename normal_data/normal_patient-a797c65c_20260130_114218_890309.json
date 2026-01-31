@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a797c65c",
+  "patient_name": "Zacharie David",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.803025,
+    "lon": -0.59671
+  },
+  "observation_datetime": "2026-01-30T11:42:18.737204",
+  "saved_at": "2026-01-30T11:42:18.890346"
+}

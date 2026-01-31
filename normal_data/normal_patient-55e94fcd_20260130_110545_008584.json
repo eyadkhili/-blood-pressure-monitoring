@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-55e94fcd",
+  "patient_name": "Pierre Bailly",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.688685,
+    "lon": 7.215557
+  },
+  "observation_datetime": "2026-01-30T11:05:44.772688",
+  "saved_at": "2026-01-30T11:05:45.008649"
+}

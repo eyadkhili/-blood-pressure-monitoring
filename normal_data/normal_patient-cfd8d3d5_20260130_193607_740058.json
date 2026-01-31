@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-cfd8d3d5",
+  "patient_name": "Gabriel Pages du Lebon",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.250382,
+    "lon": -1.53761
+  },
+  "observation_datetime": "2026-01-30T19:36:07.580027",
+  "saved_at": "2026-01-30T19:36:07.740090"
+}

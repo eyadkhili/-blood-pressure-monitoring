@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b5673d10",
+  "patient_name": "Zacharie Faure",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.264755,
+    "lon": 5.322738
+  },
+  "observation_datetime": "2026-01-30T11:33:47.886400",
+  "saved_at": "2026-01-30T11:33:48.146975"
+}

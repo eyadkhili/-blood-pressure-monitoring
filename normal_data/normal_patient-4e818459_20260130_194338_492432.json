@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4e818459",
+  "patient_name": "David Lecoq",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.232738,
+    "lon": -1.539636
+  },
+  "observation_datetime": "2026-01-30T19:43:38.338345",
+  "saved_at": "2026-01-30T19:43:38.492457"
+}

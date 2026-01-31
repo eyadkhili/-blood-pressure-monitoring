@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-551e3a72",
+  "patient_name": "Denise Gérard",
+  "systolic_pressure": 110,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.276831,
+    "lon": 5.372071
+  },
+  "observation_datetime": "2026-01-30T19:41:38.128673",
+  "saved_at": "2026-01-30T19:41:38.241005"
+}

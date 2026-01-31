@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-115d893f",
+  "patient_name": "Alix Lévy",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.786728,
+    "lon": 4.842696
+  },
+  "observation_datetime": "2026-01-30T10:38:22.317520",
+  "saved_at": "2026-01-30T10:42:06.111197"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-94690e06",
+  "patient_name": "Célina Dumont",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.069776,
+    "lon": -1.632461
+  },
+  "observation_datetime": "2026-01-30T11:14:45.775352",
+  "saved_at": "2026-01-30T11:14:45.938745"
+}

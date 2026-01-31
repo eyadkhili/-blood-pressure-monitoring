@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f1a07a8f",
+  "patient_name": "Roland Benard-Bruneau",
+  "systolic_pressure": 98,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.585818,
+    "lon": 1.450365
+  },
+  "observation_datetime": "2026-01-30T11:03:44.536607",
+  "saved_at": "2026-01-30T11:03:44.596247"
+}

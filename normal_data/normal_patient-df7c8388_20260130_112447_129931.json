@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-df7c8388",
+  "patient_name": "Chantal Baudry",
+  "systolic_pressure": 93,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.608608,
+    "lon": 3.830293
+  },
+  "observation_datetime": "2026-01-30T11:24:46.955429",
+  "saved_at": "2026-01-30T11:24:47.130006"
+}

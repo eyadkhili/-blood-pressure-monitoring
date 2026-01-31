@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-fdd71026",
+  "patient_name": "Jean-Bertrand Charles",
+  "systolic_pressure": 98,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.661368,
+    "lon": 3.098096
+  },
+  "observation_datetime": "2026-01-30T19:36:37.631871",
+  "saved_at": "2026-01-30T19:36:37.790348"
+}

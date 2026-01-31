@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-aff405cd",
+  "patient_name": "Léon Baudry",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.56673,
+    "lon": 3.887228
+  },
+  "observation_datetime": "2026-01-30T11:23:16.746423",
+  "saved_at": "2026-01-30T11:23:17.125290"
+}

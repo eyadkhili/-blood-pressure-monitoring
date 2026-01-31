@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6780c00a",
+  "patient_name": "Philippine François",
+  "systolic_pressure": 98,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.327008,
+    "lon": 5.340269
+  },
+  "observation_datetime": "2026-01-30T10:29:05.378508",
+  "saved_at": "2026-01-30T10:29:05.605371"
+}

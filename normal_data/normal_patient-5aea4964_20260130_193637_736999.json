@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-5aea4964",
+  "patient_name": "Michelle Laroche",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.612417,
+    "lon": 3.099715
+  },
+  "observation_datetime": "2026-01-30T19:36:37.630763",
+  "saved_at": "2026-01-30T19:36:37.737029"
+}

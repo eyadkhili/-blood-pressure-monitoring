@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-fa25dd1a",
+  "patient_name": "Rémy Joly",
+  "systolic_pressure": 93,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.686688,
+    "lon": 7.278458
+  },
+  "observation_datetime": "2026-01-30T12:04:20.929371",
+  "saved_at": "2026-01-30T12:04:21.140413"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-9899f33c",
+  "patient_name": "David de la Mathieu",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.58722,
+    "lon": 3.846055
+  },
+  "observation_datetime": "2026-01-30T11:57:20.228921",
+  "saved_at": "2026-01-30T11:57:20.388821"
+}

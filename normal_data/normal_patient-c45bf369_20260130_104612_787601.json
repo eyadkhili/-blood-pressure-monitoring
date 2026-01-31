@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-c45bf369",
+  "patient_name": "Claire Chevalier",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.240296,
+    "lon": -1.533686
+  },
+  "observation_datetime": "2026-01-30T10:46:12.454158",
+  "saved_at": "2026-01-30T10:46:12.787692"
+}

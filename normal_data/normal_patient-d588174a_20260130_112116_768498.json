@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-d588174a",
+  "patient_name": "Pierre Benard",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.10634,
+    "lon": -1.677877
+  },
+  "observation_datetime": "2026-01-30T11:21:16.519407",
+  "saved_at": "2026-01-30T11:21:16.768567"
+}

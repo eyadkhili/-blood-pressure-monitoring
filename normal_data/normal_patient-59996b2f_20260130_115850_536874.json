@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-59996b2f",
+  "patient_name": "Yves Le Gall",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.646665,
+    "lon": 1.42539
+  },
+  "observation_datetime": "2026-01-30T11:58:50.379079",
+  "saved_at": "2026-01-30T11:58:50.536913"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-984faf30",
+  "patient_name": "Anne Denis Le Gimenez",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.115552,
+    "lon": 5.932043
+  },
+  "observation_datetime": "2026-01-30T12:02:50.779157",
+  "saved_at": "2026-01-30T12:02:50.829624"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8232b24f",
+  "patient_name": "Paul-Robert Duval",
+  "systolic_pressure": 103,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.647164,
+    "lon": 3.077393
+  },
+  "observation_datetime": "2026-01-30T11:12:15.485906",
+  "saved_at": "2026-01-30T11:12:15.542696"
+}

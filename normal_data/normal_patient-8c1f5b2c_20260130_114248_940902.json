@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8c1f5b2c",
+  "patient_name": "Thierry-Rémy Adam",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.158018,
+    "lon": 5.918344
+  },
+  "observation_datetime": "2026-01-30T11:42:48.787075",
+  "saved_at": "2026-01-30T11:42:48.940938"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3ac892b4",
+  "patient_name": "Denis Laporte-Langlois",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.580894,
+    "lon": 3.904198
+  },
+  "observation_datetime": "2026-01-30T11:49:49.484533",
+  "saved_at": "2026-01-30T11:49:49.536296"
+}

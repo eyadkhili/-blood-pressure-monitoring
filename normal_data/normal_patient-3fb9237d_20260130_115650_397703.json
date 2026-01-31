@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3fb9237d",
+  "patient_name": "Cécile-Pénélope Klein",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.663093,
+    "lon": 3.033865
+  },
+  "observation_datetime": "2026-01-30T11:56:50.179602",
+  "saved_at": "2026-01-30T11:56:50.397728"
+}

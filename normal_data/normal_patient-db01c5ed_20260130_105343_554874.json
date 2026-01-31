@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-db01c5ed",
+  "patient_name": "Benjamin Boucher de la Bodin",
+  "systolic_pressure": 104,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.548117,
+    "lon": 7.720727
+  },
+  "observation_datetime": "2026-01-30T10:53:43.314394",
+  "saved_at": "2026-01-30T10:53:43.554954"
+}

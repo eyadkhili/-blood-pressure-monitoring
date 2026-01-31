@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7666dd3f",
+  "patient_name": "Laurent Bourdon du Lopes",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.60365,
+    "lon": 3.903045
+  },
+  "observation_datetime": "2026-01-30T10:30:05.495627",
+  "saved_at": "2026-01-30T10:30:05.506805"
+}

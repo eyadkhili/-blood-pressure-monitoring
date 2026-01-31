@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8c03c9ae",
+  "patient_name": "Anne Gillet-Laine",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.497483,
+    "lon": -0.605398
+  },
+  "observation_datetime": "2026-01-30T19:33:37.331008",
+  "saved_at": "2026-01-30T19:33:37.542923"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b96a8802",
+  "patient_name": "Amélie Vallée",
+  "systolic_pressure": 111,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.351625,
+    "lon": 5.011084
+  },
+  "observation_datetime": "2026-01-30T19:38:07.782114",
+  "saved_at": "2026-01-30T19:38:08.001153"
+}

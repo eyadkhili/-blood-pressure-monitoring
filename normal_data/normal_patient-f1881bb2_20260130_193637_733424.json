@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f1881bb2",
+  "patient_name": "Michelle Lefebvre",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.212781,
+    "lon": 5.772794
+  },
+  "observation_datetime": "2026-01-30T19:36:37.630065",
+  "saved_at": "2026-01-30T19:36:37.733460"
+}

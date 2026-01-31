@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7f580f01",
+  "patient_name": "Bertrand-Jean Chartier",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.182586,
+    "lon": -1.603381
+  },
+  "observation_datetime": "2026-01-30T11:23:46.807799",
+  "saved_at": "2026-01-30T11:23:47.258148"
+}

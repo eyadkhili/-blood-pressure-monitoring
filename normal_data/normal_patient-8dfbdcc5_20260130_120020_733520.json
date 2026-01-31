@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8dfbdcc5",
+  "patient_name": "Alain du Delahaye",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.865602,
+    "lon": 2.342914
+  },
+  "observation_datetime": "2026-01-30T12:00:20.529098",
+  "saved_at": "2026-01-30T12:00:20.733541"
+}

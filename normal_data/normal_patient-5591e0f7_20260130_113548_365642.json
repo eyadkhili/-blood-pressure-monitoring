@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-5591e0f7",
+  "patient_name": "Aimé Guillet",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.080047,
+    "lon": -1.684031
+  },
+  "observation_datetime": "2026-01-30T11:35:48.084761",
+  "saved_at": "2026-01-30T11:35:48.365667"
+}

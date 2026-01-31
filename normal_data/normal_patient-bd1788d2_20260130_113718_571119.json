@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-bd1788d2",
+  "patient_name": "Margaud de Dumont",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.848067,
+    "lon": -0.577215
+  },
+  "observation_datetime": "2026-01-30T11:37:18.238019",
+  "saved_at": "2026-01-30T11:37:18.571153"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ad089b09",
+  "patient_name": "Guillaume Guyot",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.604478,
+    "lon": 3.079849
+  },
+  "observation_datetime": "2026-01-30T19:39:37.929132",
+  "saved_at": "2026-01-30T19:39:37.978225"
+}

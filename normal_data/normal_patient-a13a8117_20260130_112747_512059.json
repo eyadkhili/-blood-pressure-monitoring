@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a13a8117",
+  "patient_name": "Gérard Lejeune",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.849352,
+    "lon": -0.567445
+  },
+  "observation_datetime": "2026-01-30T11:27:47.297881",
+  "saved_at": "2026-01-30T11:27:47.512085"
+}

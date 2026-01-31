@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-fbae059f",
+  "patient_name": "Michel Jacquet",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.325143,
+    "lon": 5.088093
+  },
+  "observation_datetime": "2026-01-30T11:44:48.986729",
+  "saved_at": "2026-01-30T11:44:49.304002"
+}

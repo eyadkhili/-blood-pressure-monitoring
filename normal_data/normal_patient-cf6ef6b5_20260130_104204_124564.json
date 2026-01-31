@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-cf6ef6b5",
+  "patient_name": "Margaret Munoz-Texier",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.795915,
+    "lon": 4.799808
+  },
+  "observation_datetime": "2026-01-30T10:35:21.650977",
+  "saved_at": "2026-01-30T10:42:04.124635"
+}

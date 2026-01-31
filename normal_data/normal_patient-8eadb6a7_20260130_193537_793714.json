@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8eadb6a7",
+  "patient_name": "Maggie Denis",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.322093,
+    "lon": 5.392465
+  },
+  "observation_datetime": "2026-01-30T19:35:37.532677",
+  "saved_at": "2026-01-30T19:35:37.793739"
+}

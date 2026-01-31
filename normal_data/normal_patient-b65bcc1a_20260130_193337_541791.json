@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b65bcc1a",
+  "patient_name": "Marcelle Duhamel du Vidal",
+  "systolic_pressure": 110,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.326926,
+    "lon": 5.367798
+  },
+  "observation_datetime": "2026-01-30T19:33:37.330690",
+  "saved_at": "2026-01-30T19:33:37.541818"
+}

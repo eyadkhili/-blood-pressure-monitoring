@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b420909a",
+  "patient_name": "Gabrielle Briand",
+  "systolic_pressure": 98,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.267194,
+    "lon": 5.386776
+  },
+  "observation_datetime": "2026-01-30T10:57:13.715278",
+  "saved_at": "2026-01-30T10:57:14.189433"
+}

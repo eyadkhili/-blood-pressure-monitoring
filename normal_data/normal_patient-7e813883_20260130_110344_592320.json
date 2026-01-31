@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7e813883",
+  "patient_name": "Valentine Ribeiro",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.250986,
+    "lon": 5.378583
+  },
+  "observation_datetime": "2026-01-30T11:03:44.535135",
+  "saved_at": "2026-01-30T11:03:44.592390"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a4eae0bc",
+  "patient_name": "Isabelle Ruiz de la Lambert",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.625536,
+    "lon": 3.831942
+  },
+  "observation_datetime": "2026-01-30T12:01:50.680789",
+  "saved_at": "2026-01-30T12:01:51.144356"
+}

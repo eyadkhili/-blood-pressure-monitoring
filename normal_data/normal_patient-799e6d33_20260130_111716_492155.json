@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-799e6d33",
+  "patient_name": "Nicole Le Philippe",
+  "systolic_pressure": 93,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.571235,
+    "lon": 3.919488
+  },
+  "observation_datetime": "2026-01-30T11:17:16.060474",
+  "saved_at": "2026-01-30T11:17:16.492228"
+}

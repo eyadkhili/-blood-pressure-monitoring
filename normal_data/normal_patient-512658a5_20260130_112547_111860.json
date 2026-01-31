@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-512658a5",
+  "patient_name": "Franck Breton de Texier",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.64836,
+    "lon": 1.427734
+  },
+  "observation_datetime": "2026-01-30T11:25:47.054545",
+  "saved_at": "2026-01-30T11:25:47.112011"
+}

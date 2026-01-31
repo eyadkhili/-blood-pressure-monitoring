@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-c43d2008",
+  "patient_name": "Constance Diallo",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.326454,
+    "lon": 5.365265
+  },
+  "observation_datetime": "2026-01-30T11:18:16.184530",
+  "saved_at": "2026-01-30T11:18:16.429391"
+}

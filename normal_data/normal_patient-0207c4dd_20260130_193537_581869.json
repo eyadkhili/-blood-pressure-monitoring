@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0207c4dd",
+  "patient_name": "Thibaut Descamps-Maury",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.140638,
+    "lon": 5.738487
+  },
+  "observation_datetime": "2026-01-30T19:35:37.530963",
+  "saved_at": "2026-01-30T19:35:37.581914"
+}

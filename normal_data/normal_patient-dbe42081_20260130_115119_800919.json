@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-dbe42081",
+  "patient_name": "Roger Benard de Guibert",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.807428,
+    "lon": 4.83324
+  },
+  "observation_datetime": "2026-01-30T11:51:19.633720",
+  "saved_at": "2026-01-30T11:51:19.800960"
+}

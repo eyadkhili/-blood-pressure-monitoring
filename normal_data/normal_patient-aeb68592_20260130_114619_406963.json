@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-aeb68592",
+  "patient_name": "William Jacques",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.6253,
+    "lon": 3.865986
+  },
+  "observation_datetime": "2026-01-30T11:46:19.137069",
+  "saved_at": "2026-01-30T11:46:19.406986"
+}

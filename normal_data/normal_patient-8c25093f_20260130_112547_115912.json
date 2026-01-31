@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8c25093f",
+  "patient_name": "Timothée-Jules Pelletier",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.835186,
+    "lon": 2.318649
+  },
+  "observation_datetime": "2026-01-30T11:25:47.055404",
+  "saved_at": "2026-01-30T11:25:47.116027"
+}

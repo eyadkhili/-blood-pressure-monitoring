@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6c6b446c",
+  "patient_name": "Martin Pascal",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.765094,
+    "lon": 4.832368
+  },
+  "observation_datetime": "2026-01-30T11:55:50.079044",
+  "saved_at": "2026-01-30T11:55:50.228624"
+}

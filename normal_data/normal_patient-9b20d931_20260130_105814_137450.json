@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-9b20d931",
+  "patient_name": "Chantal-Nath Dupont",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.114766,
+    "lon": 5.938423
+  },
+  "observation_datetime": "2026-01-30T10:58:13.857068",
+  "saved_at": "2026-01-30T10:58:14.137534"
+}

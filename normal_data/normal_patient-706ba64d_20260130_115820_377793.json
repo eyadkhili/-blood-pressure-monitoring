@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-706ba64d",
+  "patient_name": "Roland Ferrand",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.481242,
+    "lon": -0.556643
+  },
+  "observation_datetime": "2026-01-30T11:58:20.327897",
+  "saved_at": "2026-01-30T11:58:20.377824"
+}

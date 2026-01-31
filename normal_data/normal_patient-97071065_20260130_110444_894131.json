@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-97071065",
+  "patient_name": "Anne Le Delannoy",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.213115,
+    "lon": 5.725104
+  },
+  "observation_datetime": "2026-01-30T11:04:44.663305",
+  "saved_at": "2026-01-30T11:04:44.894187"
+}

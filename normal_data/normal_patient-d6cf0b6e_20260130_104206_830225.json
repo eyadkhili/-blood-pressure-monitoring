@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-d6cf0b6e",
+  "patient_name": "Vincent Regnier Le Lopes",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.462079,
+    "lon": -0.589511
+  },
+  "observation_datetime": "2026-01-30T10:39:22.528320",
+  "saved_at": "2026-01-30T10:42:06.830262"
+}

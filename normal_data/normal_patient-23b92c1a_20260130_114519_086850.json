@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-23b92c1a",
+  "patient_name": "Madeleine Lefebvre",
+  "systolic_pressure": 93,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.867679,
+    "lon": -0.543422
+  },
+  "observation_datetime": "2026-01-30T11:45:19.036460",
+  "saved_at": "2026-01-30T11:45:19.086884"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-fd1d17ff",
+  "patient_name": "William-Raymond Guérin",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.846046,
+    "lon": -0.586487
+  },
+  "observation_datetime": "2026-01-30T11:27:17.241398",
+  "saved_at": "2026-01-30T11:27:17.418035"
+}

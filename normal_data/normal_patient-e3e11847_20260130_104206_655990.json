@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e3e11847",
+  "patient_name": "Emmanuel Giraud",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.88576,
+    "lon": 2.324698
+  },
+  "observation_datetime": "2026-01-30T10:39:22.485095",
+  "saved_at": "2026-01-30T10:42:06.656035"
+}

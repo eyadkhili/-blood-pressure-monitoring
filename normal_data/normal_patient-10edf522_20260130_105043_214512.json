@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-10edf522",
+  "patient_name": "Benjamin Bernard",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.583634,
+    "lon": 3.076715
+  },
+  "observation_datetime": "2026-01-30T10:50:42.982461",
+  "saved_at": "2026-01-30T10:50:43.214562"
+}

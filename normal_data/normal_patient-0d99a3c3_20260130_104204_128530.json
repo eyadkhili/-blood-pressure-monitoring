@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0d99a3c3",
+  "patient_name": "Valentine Caron",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.279924,
+    "lon": 5.073823
+  },
+  "observation_datetime": "2026-01-30T10:35:21.669886",
+  "saved_at": "2026-01-30T10:42:04.128585"
+}

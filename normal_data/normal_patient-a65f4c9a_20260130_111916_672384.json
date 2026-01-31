@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a65f4c9a",
+  "patient_name": "Caroline de la Teixeira",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.814027,
+    "lon": -0.575298
+  },
+  "observation_datetime": "2026-01-30T11:19:16.300942",
+  "saved_at": "2026-01-30T11:19:16.672449"
+}

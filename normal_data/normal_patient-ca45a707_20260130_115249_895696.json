@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ca45a707",
+  "patient_name": "Charles Boucher-Morin",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.122421,
+    "lon": 5.92651
+  },
+  "observation_datetime": "2026-01-30T11:52:49.783797",
+  "saved_at": "2026-01-30T11:52:49.895720"
+}

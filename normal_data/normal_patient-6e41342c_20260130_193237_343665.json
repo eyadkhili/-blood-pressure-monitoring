@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6e41342c",
+  "patient_name": "Emmanuelle De Oliveira",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.086804,
+    "lon": -1.705683
+  },
+  "observation_datetime": "2026-01-30T19:32:37.229457",
+  "saved_at": "2026-01-30T19:32:37.343693"
+}

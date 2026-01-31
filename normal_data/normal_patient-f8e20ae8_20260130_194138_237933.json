@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f8e20ae8",
+  "patient_name": "Alain Rossi-Benoit",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.112931,
+    "lon": 5.944794
+  },
+  "observation_datetime": "2026-01-30T19:41:38.128105",
+  "saved_at": "2026-01-30T19:41:38.237956"
+}

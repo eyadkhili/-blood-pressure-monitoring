@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e829fbe7",
+  "patient_name": "Louis du Muller",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.588114,
+    "lon": 3.027033
+  },
+  "observation_datetime": "2026-01-30T19:39:07.882318",
+  "saved_at": "2026-01-30T19:39:08.102462"
+}

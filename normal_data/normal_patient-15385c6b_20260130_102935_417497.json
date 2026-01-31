@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-15385c6b",
+  "patient_name": "Raymond Allain",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.599187,
+    "lon": 3.877647
+  },
+  "observation_datetime": "2026-01-30T10:29:35.409860",
+  "saved_at": "2026-01-30T10:29:35.417550"
+}

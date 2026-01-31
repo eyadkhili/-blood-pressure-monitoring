@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-30b08b35",
+  "patient_name": "Auguste du Petitjean",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.331935,
+    "lon": 5.057523
+  },
+  "observation_datetime": "2026-01-30T10:58:43.896568",
+  "saved_at": "2026-01-30T10:58:44.089803"
+}

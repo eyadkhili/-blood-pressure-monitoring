@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-921fba54",
+  "patient_name": "Alexandria Lefèvre",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.173147,
+    "lon": -1.555597
+  },
+  "observation_datetime": "2026-01-30T11:39:18.437374",
+  "saved_at": "2026-01-30T11:39:18.609648"
+}

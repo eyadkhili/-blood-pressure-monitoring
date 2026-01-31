@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-559aa584",
+  "patient_name": "Xavier Renard",
+  "systolic_pressure": 103,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.739172,
+    "lon": 4.801133
+  },
+  "observation_datetime": "2026-01-30T11:17:46.114735",
+  "saved_at": "2026-01-30T11:17:46.251481"
+}

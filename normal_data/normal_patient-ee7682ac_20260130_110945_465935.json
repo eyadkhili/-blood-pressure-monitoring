@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ee7682ac",
+  "patient_name": "Jules Bourdon",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.658209,
+    "lon": 3.090461
+  },
+  "observation_datetime": "2026-01-30T11:09:45.221413",
+  "saved_at": "2026-01-30T11:09:45.465994"
+}

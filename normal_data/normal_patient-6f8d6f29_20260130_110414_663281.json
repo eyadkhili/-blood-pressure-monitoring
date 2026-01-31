@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6f8d6f29",
+  "patient_name": "Luc Teixeira",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.340333,
+    "lon": 5.346201
+  },
+  "observation_datetime": "2026-01-30T11:04:14.598393",
+  "saved_at": "2026-01-30T11:04:14.663472"
+}

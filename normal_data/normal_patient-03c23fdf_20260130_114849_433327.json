@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-03c23fdf",
+  "patient_name": "Gérard Brunet de Fernandez",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.369365,
+    "lon": 5.017161
+  },
+  "observation_datetime": "2026-01-30T11:48:49.382930",
+  "saved_at": "2026-01-30T11:48:49.433362"
+}

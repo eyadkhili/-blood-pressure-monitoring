@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-29f77886",
+  "patient_name": "Emmanuelle Le Fleury",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.448789,
+    "lon": -0.551073
+  },
+  "observation_datetime": "2026-01-30T11:39:48.485652",
+  "saved_at": "2026-01-30T11:39:48.798659"
+}

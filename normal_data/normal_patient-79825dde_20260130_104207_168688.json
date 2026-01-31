@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-79825dde",
+  "patient_name": "Benoît Weiss",
+  "systolic_pressure": 110,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.121626,
+    "lon": 5.895491
+  },
+  "observation_datetime": "2026-01-30T10:40:22.664961",
+  "saved_at": "2026-01-30T10:42:07.168722"
+}

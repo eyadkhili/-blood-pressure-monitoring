@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-61ef249c",
+  "patient_name": "Claude Neveu",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.191289,
+    "lon": 5.774236
+  },
+  "observation_datetime": "2026-01-30T11:44:48.987673",
+  "saved_at": "2026-01-30T11:44:49.355649"
+}

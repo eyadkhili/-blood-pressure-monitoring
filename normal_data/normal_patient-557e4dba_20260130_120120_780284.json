@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-557e4dba",
+  "patient_name": "Madeleine Marion",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.642909,
+    "lon": 3.873407
+  },
+  "observation_datetime": "2026-01-30T12:01:20.628686",
+  "saved_at": "2026-01-30T12:01:20.780313"
+}

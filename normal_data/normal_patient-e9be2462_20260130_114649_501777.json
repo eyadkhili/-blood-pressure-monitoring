@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e9be2462",
+  "patient_name": "Rémy Legrand Le Neveu",
+  "systolic_pressure": 104,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.510413,
+    "lon": -0.533001
+  },
+  "observation_datetime": "2026-01-30T11:46:49.188183",
+  "saved_at": "2026-01-30T11:46:49.501803"
+}

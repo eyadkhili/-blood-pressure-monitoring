@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b3288767",
+  "patient_name": "Pierre Henry-Laroche",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.577377,
+    "lon": 1.411518
+  },
+  "observation_datetime": "2026-01-30T10:22:33.928172",
+  "saved_at": "2026-01-30T10:22:34.115025"
+}

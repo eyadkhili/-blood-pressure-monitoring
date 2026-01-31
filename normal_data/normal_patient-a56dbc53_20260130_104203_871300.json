@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a56dbc53",
+  "patient_name": "Anouk Fleury",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.091479,
+    "lon": 5.963957
+  },
+  "observation_datetime": "2026-01-30T10:34:21.545946",
+  "saved_at": "2026-01-30T10:42:03.871357"
+}

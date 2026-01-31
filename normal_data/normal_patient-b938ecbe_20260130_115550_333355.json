@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b938ecbe",
+  "patient_name": "Margot Da Costa",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.632544,
+    "lon": 1.421821
+  },
+  "observation_datetime": "2026-01-30T11:55:50.080596",
+  "saved_at": "2026-01-30T11:55:50.333392"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6b16de39",
+  "patient_name": "Guy Briand",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.20979,
+    "lon": 5.704877
+  },
+  "observation_datetime": "2026-01-30T11:18:16.183882",
+  "saved_at": "2026-01-30T11:18:16.427514"
+}

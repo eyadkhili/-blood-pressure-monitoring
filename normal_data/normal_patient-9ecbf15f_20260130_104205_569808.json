@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-9ecbf15f",
+  "patient_name": "Arnaude Picard",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.588398,
+    "lon": 7.756559
+  },
+  "observation_datetime": "2026-01-30T10:37:22.130170",
+  "saved_at": "2026-01-30T10:42:05.569863"
+}

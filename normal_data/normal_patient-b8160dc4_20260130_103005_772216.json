@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b8160dc4",
+  "patient_name": "Amélie Godard",
+  "systolic_pressure": 110,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.664468,
+    "lon": 7.262536
+  },
+  "observation_datetime": "2026-01-30T10:30:05.558994",
+  "saved_at": "2026-01-30T10:30:05.772269"
+}

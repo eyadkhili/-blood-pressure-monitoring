@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e1b7a7f2",
+  "patient_name": "William Lemoine",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.09473,
+    "lon": -1.665238
+  },
+  "observation_datetime": "2026-01-30T10:43:42.148163",
+  "saved_at": "2026-01-30T10:43:42.386868"
+}

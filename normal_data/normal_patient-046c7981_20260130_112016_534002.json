@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-046c7981",
+  "patient_name": "Honoré Legrand",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.899169,
+    "lon": 2.349998
+  },
+  "observation_datetime": "2026-01-30T11:20:16.409366",
+  "saved_at": "2026-01-30T11:20:16.534059"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6263a667",
+  "patient_name": "William Pineau-Giraud",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.70288,
+    "lon": 7.258989
+  },
+  "observation_datetime": "2026-01-30T10:39:52.585645",
+  "saved_at": "2026-01-30T10:42:07.046140"
+}

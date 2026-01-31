@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-9400d285",
+  "patient_name": "Sébastien Hervé",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.628562,
+    "lon": 1.395755
+  },
+  "observation_datetime": "2026-01-30T11:59:50.478784",
+  "saved_at": "2026-01-30T11:59:50.734121"
+}

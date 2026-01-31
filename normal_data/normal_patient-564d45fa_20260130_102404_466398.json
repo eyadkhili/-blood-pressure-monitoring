@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-564d45fa",
+  "patient_name": "Astrid Joly",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.294949,
+    "lon": 4.994344
+  },
+  "observation_datetime": "2026-01-30T10:24:04.329091",
+  "saved_at": "2026-01-30T10:24:04.466482"
+}

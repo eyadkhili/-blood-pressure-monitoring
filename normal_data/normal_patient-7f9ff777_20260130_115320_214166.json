@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7f9ff777",
+  "patient_name": "Marthe Gay",
+  "systolic_pressure": 92,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.156118,
+    "lon": 5.957
+  },
+  "observation_datetime": "2026-01-30T11:53:19.835187",
+  "saved_at": "2026-01-30T11:53:20.214190"
+}

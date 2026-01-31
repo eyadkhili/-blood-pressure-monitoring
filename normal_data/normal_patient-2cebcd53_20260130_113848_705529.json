@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2cebcd53",
+  "patient_name": "René Potier de la Lemaître",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.531158,
+    "lon": 7.749945
+  },
+  "observation_datetime": "2026-01-30T11:38:48.387861",
+  "saved_at": "2026-01-30T11:38:48.705556"
+}

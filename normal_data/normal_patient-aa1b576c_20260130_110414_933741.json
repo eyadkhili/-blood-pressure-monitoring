@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-aa1b576c",
+  "patient_name": "Christiane Cousin",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.585909,
+    "lon": 1.47537
+  },
+  "observation_datetime": "2026-01-30T11:04:14.609419",
+  "saved_at": "2026-01-30T11:04:14.933794"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-29dee1b2",
+  "patient_name": "Aimée-Emmanuelle Camus",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.173304,
+    "lon": 5.902649
+  },
+  "observation_datetime": "2026-01-30T11:52:19.735350",
+  "saved_at": "2026-01-30T11:52:20.113622"
+}

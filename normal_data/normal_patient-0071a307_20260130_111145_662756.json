@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0071a307",
+  "patient_name": "Édouard Didier",
+  "systolic_pressure": 92,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.826424,
+    "lon": -0.546842
+  },
+  "observation_datetime": "2026-01-30T11:11:45.436908",
+  "saved_at": "2026-01-30T11:11:45.662800"
+}

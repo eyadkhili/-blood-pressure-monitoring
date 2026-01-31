@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7b49f697",
+  "patient_name": "Eugène Marques",
+  "systolic_pressure": 110,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.482548,
+    "lon": -0.520542
+  },
+  "observation_datetime": "2026-01-30T10:34:21.514034",
+  "saved_at": "2026-01-30T10:42:03.623742"
+}

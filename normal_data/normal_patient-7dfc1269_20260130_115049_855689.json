@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7dfc1269",
+  "patient_name": "Susan Brun",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.581106,
+    "lon": 3.903116
+  },
+  "observation_datetime": "2026-01-30T11:50:49.586347",
+  "saved_at": "2026-01-30T11:50:49.855722"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-34f9022e",
+  "patient_name": "Grégoire Lenoir",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.17535,
+    "lon": -1.509823
+  },
+  "observation_datetime": "2026-01-30T11:31:17.637726",
+  "saved_at": "2026-01-30T11:31:17.802284"
+}

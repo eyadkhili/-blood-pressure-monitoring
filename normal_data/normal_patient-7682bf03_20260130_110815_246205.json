@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7682bf03",
+  "patient_name": "Susanne Gallet",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.579462,
+    "lon": 1.398956
+  },
+  "observation_datetime": "2026-01-30T11:08:15.060764",
+  "saved_at": "2026-01-30T11:08:15.246288"
+}

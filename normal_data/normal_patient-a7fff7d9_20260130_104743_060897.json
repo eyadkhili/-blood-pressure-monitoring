@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a7fff7d9",
+  "patient_name": "Thibaut Dijoux",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.494266,
+    "lon": -0.528012
+  },
+  "observation_datetime": "2026-01-30T10:47:42.639103",
+  "saved_at": "2026-01-30T10:47:43.060949"
+}

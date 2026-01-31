@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-37c7405c",
+  "patient_name": "Marianne Diallo",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.584509,
+    "lon": 1.486101
+  },
+  "observation_datetime": "2026-01-30T11:58:50.380169",
+  "saved_at": "2026-01-30T11:58:50.591616"
+}

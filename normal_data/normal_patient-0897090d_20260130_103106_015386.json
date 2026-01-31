@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0897090d",
+  "patient_name": "Inès Lecoq",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.199216,
+    "lon": 5.701211
+  },
+  "observation_datetime": "2026-01-30T10:31:05.696711",
+  "saved_at": "2026-01-30T10:31:06.015434"
+}

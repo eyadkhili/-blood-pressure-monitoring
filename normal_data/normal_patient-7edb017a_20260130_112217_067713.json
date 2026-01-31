@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7edb017a",
+  "patient_name": "Matthieu David",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.766349,
+    "lon": 4.807173
+  },
+  "observation_datetime": "2026-01-30T11:22:16.634447",
+  "saved_at": "2026-01-30T11:22:17.067778"
+}

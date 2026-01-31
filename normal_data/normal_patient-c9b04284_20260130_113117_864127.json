@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-c9b04284",
+  "patient_name": "Paul Lucas",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.692782,
+    "lon": 7.237691
+  },
+  "observation_datetime": "2026-01-30T11:31:17.639172",
+  "saved_at": "2026-01-30T11:31:17.864163"
+}

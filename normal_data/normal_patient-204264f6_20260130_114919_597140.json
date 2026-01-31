@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-204264f6",
+  "patient_name": "Anaïs Brunel",
+  "systolic_pressure": 103,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.255741,
+    "lon": 5.333633
+  },
+  "observation_datetime": "2026-01-30T11:49:19.434430",
+  "saved_at": "2026-01-30T11:49:19.597164"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8a15b82e",
+  "patient_name": "Léon Aubry",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.743941,
+    "lon": 4.833916
+  },
+  "observation_datetime": "2026-01-30T10:43:12.089948",
+  "saved_at": "2026-01-30T10:43:12.353641"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-327ff95b",
+  "patient_name": "Rémy Delahaye",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.100899,
+    "lon": -1.660551
+  },
+  "observation_datetime": "2026-01-30T11:34:47.985833",
+  "saved_at": "2026-01-30T11:34:48.260637"
+}

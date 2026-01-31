@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-59e79a09",
+  "patient_name": "Bernard Gillet-Mercier",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.576209,
+    "lon": 1.474036
+  },
+  "observation_datetime": "2026-01-30T11:49:49.485600",
+  "saved_at": "2026-01-30T11:49:49.755908"
+}

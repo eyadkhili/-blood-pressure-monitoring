@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-fd823ea9",
+  "patient_name": "Anouk Menard-Launay",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.884665,
+    "lon": 2.32235
+  },
+  "observation_datetime": "2026-01-30T12:02:50.780085",
+  "saved_at": "2026-01-30T12:02:50.997305"
+}

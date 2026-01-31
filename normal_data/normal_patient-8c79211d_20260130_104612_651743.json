@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8c79211d",
+  "patient_name": "Gérard-Olivier Olivier",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.490752,
+    "lon": -0.575882
+  },
+  "observation_datetime": "2026-01-30T10:46:12.452187",
+  "saved_at": "2026-01-30T10:46:12.651843"
+}

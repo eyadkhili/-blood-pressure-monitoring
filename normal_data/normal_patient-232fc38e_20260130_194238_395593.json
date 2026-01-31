@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-232fc38e",
+  "patient_name": "Guillaume Coulon",
+  "systolic_pressure": 104,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.61245,
+    "lon": 7.723356
+  },
+  "observation_datetime": "2026-01-30T19:42:38.232937",
+  "saved_at": "2026-01-30T19:42:38.395618"
+}

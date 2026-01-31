@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4cee7932",
+  "patient_name": "Thibault Pichon",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.739284,
+    "lon": 4.88306
+  },
+  "observation_datetime": "2026-01-30T12:04:20.927806",
+  "saved_at": "2026-01-30T12:04:20.978467"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3ca897f1",
+  "patient_name": "Stéphane Delahaye",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.083011,
+    "lon": 5.941243
+  },
+  "observation_datetime": "2026-01-30T19:39:07.879794",
+  "saved_at": "2026-01-30T19:39:07.929596"
+}

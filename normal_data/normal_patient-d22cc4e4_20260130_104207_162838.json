@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-d22cc4e4",
+  "patient_name": "Manon Da Costa",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.572183,
+    "lon": 1.479688
+  },
+  "observation_datetime": "2026-01-30T10:40:22.635388",
+  "saved_at": "2026-01-30T10:42:07.162872"
+}

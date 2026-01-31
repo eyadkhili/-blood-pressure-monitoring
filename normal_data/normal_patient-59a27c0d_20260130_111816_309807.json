@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-59a27c0d",
+  "patient_name": "Nicolas Lambert",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.637306,
+    "lon": 3.049517
+  },
+  "observation_datetime": "2026-01-30T11:18:16.180218",
+  "saved_at": "2026-01-30T11:18:16.309840"
+}

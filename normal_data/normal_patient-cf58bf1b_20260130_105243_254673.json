@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-cf58bf1b",
+  "patient_name": "Arthur Lévy de Hardy",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.653795,
+    "lon": 3.02597
+  },
+  "observation_datetime": "2026-01-30T10:52:43.195298",
+  "saved_at": "2026-01-30T10:52:43.254769"
+}

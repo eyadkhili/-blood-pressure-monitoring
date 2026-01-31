@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b1d455c8",
+  "patient_name": "Philippine Perez",
+  "systolic_pressure": 92,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.158234,
+    "lon": -1.694982
+  },
+  "observation_datetime": "2026-01-30T19:34:37.431563",
+  "saved_at": "2026-01-30T19:34:37.481054"
+}

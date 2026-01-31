@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2d70d0bc",
+  "patient_name": "Audrey Rivière",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.148428,
+    "lon": 5.726376
+  },
+  "observation_datetime": "2026-01-30T11:18:16.180676",
+  "saved_at": "2026-01-30T11:18:16.312705"
+}

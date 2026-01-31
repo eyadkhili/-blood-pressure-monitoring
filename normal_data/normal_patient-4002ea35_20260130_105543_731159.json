@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4002ea35",
+  "patient_name": "David Labbé-Briand",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.570816,
+    "lon": 7.780305
+  },
+  "observation_datetime": "2026-01-30T10:55:43.539212",
+  "saved_at": "2026-01-30T10:55:43.731250"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0fdd2f65",
+  "patient_name": "Benjamin Hoareau",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.714865,
+    "lon": 4.832619
+  },
+  "observation_datetime": "2026-01-30T11:58:20.330011",
+  "saved_at": "2026-01-30T11:58:20.551274"
+}

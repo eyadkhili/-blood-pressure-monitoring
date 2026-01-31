@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e18738fc",
+  "patient_name": "Auguste Millet",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.08787,
+    "lon": 5.900958
+  },
+  "observation_datetime": "2026-01-30T11:51:19.633917",
+  "saved_at": "2026-01-30T11:51:19.802323"
+}

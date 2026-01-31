@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-67d51f81",
+  "patient_name": "Émile Peron",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.738132,
+    "lon": 7.249402
+  },
+  "observation_datetime": "2026-01-30T10:28:05.183066",
+  "saved_at": "2026-01-30T10:28:05.489493"
+}

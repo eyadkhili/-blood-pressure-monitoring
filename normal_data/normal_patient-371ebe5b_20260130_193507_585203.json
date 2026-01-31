@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-371ebe5b",
+  "patient_name": "Dominique Hamon",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.8815,
+    "lon": -0.531997
+  },
+  "observation_datetime": "2026-01-30T19:35:07.481155",
+  "saved_at": "2026-01-30T19:35:07.585234"
+}

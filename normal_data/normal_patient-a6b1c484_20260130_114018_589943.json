@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a6b1c484",
+  "patient_name": "Capucine Parent",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.293201,
+    "lon": 5.387612
+  },
+  "observation_datetime": "2026-01-30T11:40:18.537980",
+  "saved_at": "2026-01-30T11:40:18.589977"
+}

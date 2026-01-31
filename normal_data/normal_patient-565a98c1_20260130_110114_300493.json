@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-565a98c1",
+  "patient_name": "Guy Hubert-Ruiz",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.511466,
+    "lon": -0.547276
+  },
+  "observation_datetime": "2026-01-30T11:01:14.226142",
+  "saved_at": "2026-01-30T11:01:14.300594"
+}

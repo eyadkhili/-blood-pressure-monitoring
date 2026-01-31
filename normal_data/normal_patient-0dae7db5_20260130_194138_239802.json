@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0dae7db5",
+  "patient_name": "Nath Nicolas",
+  "systolic_pressure": 104,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.192575,
+    "lon": 5.677729
+  },
+  "observation_datetime": "2026-01-30T19:41:38.128342",
+  "saved_at": "2026-01-30T19:41:38.239839"
+}

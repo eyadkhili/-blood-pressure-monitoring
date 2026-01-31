@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ed6b3070",
+  "patient_name": "Charlotte Martinez",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.613551,
+    "lon": 7.773519
+  },
+  "observation_datetime": "2026-01-30T11:11:15.384896",
+  "saved_at": "2026-01-30T11:11:15.738465"
+}

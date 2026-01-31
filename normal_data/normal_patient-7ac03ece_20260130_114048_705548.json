@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7ac03ece",
+  "patient_name": "Gabriel Rousset Le Pierre",
+  "systolic_pressure": 110,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.127467,
+    "lon": -1.687279
+  },
+  "observation_datetime": "2026-01-30T11:40:48.590201",
+  "saved_at": "2026-01-30T11:40:48.705597"
+}

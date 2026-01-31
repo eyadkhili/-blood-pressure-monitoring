@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-84287d4e",
+  "patient_name": "Amélie de Foucher",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.287935,
+    "lon": 5.417442
+  },
+  "observation_datetime": "2026-01-30T11:28:17.343302",
+  "saved_at": "2026-01-30T11:28:17.452381"
+}

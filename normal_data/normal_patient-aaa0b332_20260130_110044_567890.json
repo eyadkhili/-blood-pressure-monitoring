@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-aaa0b332",
+  "patient_name": "Charlotte Mathieu",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.511815,
+    "lon": -0.551272
+  },
+  "observation_datetime": "2026-01-30T11:00:44.171217",
+  "saved_at": "2026-01-30T11:00:44.567935"
+}

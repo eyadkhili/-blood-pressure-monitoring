@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-42a56dfb",
+  "patient_name": "Marie Schneider",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.85657,
+    "lon": -0.530357
+  },
+  "observation_datetime": "2026-01-30T11:04:14.606517",
+  "saved_at": "2026-01-30T11:04:14.814600"
+}

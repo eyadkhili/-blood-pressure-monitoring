@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4ad6c618",
+  "patient_name": "Sylvie Muller",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.194363,
+    "lon": -1.513332
+  },
+  "observation_datetime": "2026-01-30T19:38:37.829660",
+  "saved_at": "2026-01-30T19:38:37.879429"
+}

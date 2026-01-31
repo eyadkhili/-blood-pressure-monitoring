@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-30dda93d",
+  "patient_name": "Luce du Bodin",
+  "systolic_pressure": 111,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.614175,
+    "lon": 3.095145
+  },
+  "observation_datetime": "2026-01-30T12:05:21.028184",
+  "saved_at": "2026-01-30T12:05:21.127027"
+}

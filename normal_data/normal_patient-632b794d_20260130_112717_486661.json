@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-632b794d",
+  "patient_name": "Paulette Hoarau",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.247027,
+    "lon": -1.569176
+  },
+  "observation_datetime": "2026-01-30T11:27:17.242294",
+  "saved_at": "2026-01-30T11:27:17.486729"
+}

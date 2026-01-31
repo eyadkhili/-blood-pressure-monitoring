@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-10b2bbbe",
+  "patient_name": "Alexandria Rey",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.622733,
+    "lon": 7.720836
+  },
+  "observation_datetime": "2026-01-30T10:51:13.031240",
+  "saved_at": "2026-01-30T10:51:13.271621"
+}

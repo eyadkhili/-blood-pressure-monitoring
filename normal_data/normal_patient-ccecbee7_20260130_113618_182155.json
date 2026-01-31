@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ccecbee7",
+  "patient_name": "Sabine Bertin",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.146728,
+    "lon": 5.69097
+  },
+  "observation_datetime": "2026-01-30T11:36:18.132779",
+  "saved_at": "2026-01-30T11:36:18.182195"
+}

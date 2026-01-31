@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8e10295f",
+  "patient_name": "Pierre Vasseur",
+  "systolic_pressure": 93,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.324569,
+    "lon": 4.996362
+  },
+  "observation_datetime": "2026-01-30T11:07:14.933316",
+  "saved_at": "2026-01-30T11:07:14.991182"
+}

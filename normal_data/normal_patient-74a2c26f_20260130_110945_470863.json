@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-74a2c26f",
+  "patient_name": "Grégoire Boulanger",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.65003,
+    "lon": 3.876674
+  },
+  "observation_datetime": "2026-01-30T11:09:45.223385",
+  "saved_at": "2026-01-30T11:09:45.470948"
+}

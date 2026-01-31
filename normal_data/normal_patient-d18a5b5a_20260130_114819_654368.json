@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-d18a5b5a",
+  "patient_name": "Nicole de la Bonnet",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.461005,
+    "lon": -0.598439
+  },
+  "observation_datetime": "2026-01-30T11:48:19.336903",
+  "saved_at": "2026-01-30T11:48:19.654409"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-03a0b00e",
+  "patient_name": "Julie Martin",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.069715,
+    "lon": -1.666255
+  },
+  "observation_datetime": "2026-01-30T11:00:14.109803",
+  "saved_at": "2026-01-30T11:00:14.172864"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-52034311",
+  "patient_name": "Auguste Gros Le Langlois",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.643485,
+    "lon": 3.104999
+  },
+  "observation_datetime": "2026-01-30T11:43:48.887888",
+  "saved_at": "2026-01-30T11:43:49.312569"
+}

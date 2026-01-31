@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3015e4a2",
+  "patient_name": "Jules Le Pasquier",
+  "systolic_pressure": 111,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.877552,
+    "lon": 2.384432
+  },
+  "observation_datetime": "2026-01-30T10:50:42.982874",
+  "saved_at": "2026-01-30T10:50:43.216171"
+}

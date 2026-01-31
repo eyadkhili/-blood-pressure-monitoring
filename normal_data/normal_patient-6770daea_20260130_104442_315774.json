@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6770daea",
+  "patient_name": "Juliette Sanchez",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.315299,
+    "lon": 5.017181
+  },
+  "observation_datetime": "2026-01-30T10:44:42.256449",
+  "saved_at": "2026-01-30T10:44:42.315875"
+}

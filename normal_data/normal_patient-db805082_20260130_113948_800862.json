@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-db805082",
+  "patient_name": "Gabriel Bruneau Le Bodin",
+  "systolic_pressure": 103,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.228143,
+    "lon": -1.526488
+  },
+  "observation_datetime": "2026-01-30T11:39:48.486219",
+  "saved_at": "2026-01-30T11:39:48.800897"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-c1973047",
+  "patient_name": "Éric de Baudry",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.659385,
+    "lon": 3.907492
+  },
+  "observation_datetime": "2026-01-30T11:34:17.935321",
+  "saved_at": "2026-01-30T11:34:18.094153"
+}

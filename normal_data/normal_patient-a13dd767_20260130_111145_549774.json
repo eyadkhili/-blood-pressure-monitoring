@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a13dd767",
+  "patient_name": "Aimé Toussaint",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.59595,
+    "lon": 1.451477
+  },
+  "observation_datetime": "2026-01-30T11:11:45.434565",
+  "saved_at": "2026-01-30T11:11:45.549824"
+}

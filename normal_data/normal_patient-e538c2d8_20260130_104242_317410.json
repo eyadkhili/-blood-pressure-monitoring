@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e538c2d8",
+  "patient_name": "Dominique Joubert",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.860167,
+    "lon": -0.539993
+  },
+  "observation_datetime": "2026-01-30T10:42:42.027974",
+  "saved_at": "2026-01-30T10:42:42.317457"
+}

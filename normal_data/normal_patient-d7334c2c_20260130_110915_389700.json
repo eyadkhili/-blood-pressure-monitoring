@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-d7334c2c",
+  "patient_name": "René-Adrien Marchand",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.670772,
+    "lon": 3.046005
+  },
+  "observation_datetime": "2026-01-30T11:09:15.167129",
+  "saved_at": "2026-01-30T11:09:15.389791"
+}

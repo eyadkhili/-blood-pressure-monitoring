@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7df94376",
+  "patient_name": "Sylvie Chauvin",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.657194,
+    "lon": 3.102711
+  },
+  "observation_datetime": "2026-01-30T11:42:18.738308",
+  "saved_at": "2026-01-30T11:42:19.099224"
+}

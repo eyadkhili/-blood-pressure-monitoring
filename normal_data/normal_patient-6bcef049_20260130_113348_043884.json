@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6bcef049",
+  "patient_name": "Denis Courtois de Leleu",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.180492,
+    "lon": -1.516812
+  },
+  "observation_datetime": "2026-01-30T11:33:47.885587",
+  "saved_at": "2026-01-30T11:33:48.043922"
+}

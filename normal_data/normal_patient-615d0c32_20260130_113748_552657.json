@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-615d0c32",
+  "patient_name": "Antoine Marin",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.555755,
+    "lon": 7.78518
+  },
+  "observation_datetime": "2026-01-30T11:37:48.287889",
+  "saved_at": "2026-01-30T11:37:48.552696"
+}

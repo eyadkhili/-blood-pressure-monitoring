@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4ceada79",
+  "patient_name": "Tristan Lefèvre de Dias",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.570858,
+    "lon": 7.782681
+  },
+  "observation_datetime": "2026-01-30T19:36:07.581318",
+  "saved_at": "2026-01-30T19:36:07.948707"
+}

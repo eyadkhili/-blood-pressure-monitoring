@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-1f5017d3",
+  "patient_name": "Nicolas Aubry",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.611218,
+    "lon": 1.472994
+  },
+  "observation_datetime": "2026-01-30T11:49:19.435008",
+  "saved_at": "2026-01-30T11:49:19.649635"
+}

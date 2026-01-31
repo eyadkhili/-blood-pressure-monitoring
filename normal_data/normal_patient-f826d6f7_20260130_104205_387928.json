@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f826d6f7",
+  "patient_name": "Jacques Berger",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.44908,
+    "lon": -0.527344
+  },
+  "observation_datetime": "2026-01-30T10:37:22.069290",
+  "saved_at": "2026-01-30T10:42:05.388049"
+}

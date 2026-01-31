@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-94cae8e6",
+  "patient_name": "Victor Renard Le Roux",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.653381,
+    "lon": 3.857468
+  },
+  "observation_datetime": "2026-01-30T10:34:51.614060",
+  "saved_at": "2026-01-30T10:42:03.950760"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-75d9f077",
+  "patient_name": "Georges Delattre",
+  "systolic_pressure": 111,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.765296,
+    "lon": 4.791026
+  },
+  "observation_datetime": "2026-01-30T11:17:46.112379",
+  "saved_at": "2026-01-30T11:17:46.170393"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4285295a",
+  "patient_name": "Raymond Jean",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.128891,
+    "lon": -1.66112
+  },
+  "observation_datetime": "2026-01-30T11:51:49.685489",
+  "saved_at": "2026-01-30T11:51:50.008934"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ad58dd27",
+  "patient_name": "Adèle Pascal",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.100689,
+    "lon": -1.629713
+  },
+  "observation_datetime": "2026-01-30T10:55:13.486033",
+  "saved_at": "2026-01-30T10:55:13.858447"
+}

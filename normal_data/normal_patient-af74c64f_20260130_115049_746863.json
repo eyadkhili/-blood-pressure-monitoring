@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-af74c64f",
+  "patient_name": "Laetitia Vincent-Hubert",
+  "systolic_pressure": 93,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.268234,
+    "lon": -1.557569
+  },
+  "observation_datetime": "2026-01-30T11:50:49.584736",
+  "saved_at": "2026-01-30T11:50:49.746890"
+}

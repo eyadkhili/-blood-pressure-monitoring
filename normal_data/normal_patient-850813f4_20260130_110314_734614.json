@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-850813f4",
+  "patient_name": "Henriette Labbé",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.515043,
+    "lon": -0.56229
+  },
+  "observation_datetime": "2026-01-30T11:03:14.474876",
+  "saved_at": "2026-01-30T11:03:14.734687"
+}

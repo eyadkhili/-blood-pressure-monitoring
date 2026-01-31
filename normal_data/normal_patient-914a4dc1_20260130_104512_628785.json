@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-914a4dc1",
+  "patient_name": "Michelle Mallet",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.644724,
+    "lon": 3.913107
+  },
+  "observation_datetime": "2026-01-30T10:45:12.351773",
+  "saved_at": "2026-01-30T10:45:12.628838"
+}

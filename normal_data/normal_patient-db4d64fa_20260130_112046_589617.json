@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-db4d64fa",
+  "patient_name": "François Roy",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.165937,
+    "lon": 5.951991
+  },
+  "observation_datetime": "2026-01-30T11:20:46.464495",
+  "saved_at": "2026-01-30T11:20:46.589670"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-c280964b",
+  "patient_name": "Adèle Lefèvre",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.178984,
+    "lon": 5.74257
+  },
+  "observation_datetime": "2026-01-30T11:53:19.832833",
+  "saved_at": "2026-01-30T11:53:19.881987"
+}

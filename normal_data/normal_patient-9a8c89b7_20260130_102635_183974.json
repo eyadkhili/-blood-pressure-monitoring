@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-9a8c89b7",
+  "patient_name": "Hugues du Lévy",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.645213,
+    "lon": 3.875654
+  },
+  "observation_datetime": "2026-01-30T10:26:34.891592",
+  "saved_at": "2026-01-30T10:26:35.184057"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-580c2d8d",
+  "patient_name": "Margaud Monnier de la Hamon",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.143918,
+    "lon": 5.736219
+  },
+  "observation_datetime": "2026-01-30T19:40:38.028584",
+  "saved_at": "2026-01-30T19:40:38.295696"
+}

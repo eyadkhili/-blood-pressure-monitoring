@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-9c420a25",
+  "patient_name": "Margot Bourdon",
+  "systolic_pressure": 97,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.603208,
+    "lon": 3.089971
+  },
+  "observation_datetime": "2026-01-30T10:56:43.654056",
+  "saved_at": "2026-01-30T10:56:44.024629"
+}

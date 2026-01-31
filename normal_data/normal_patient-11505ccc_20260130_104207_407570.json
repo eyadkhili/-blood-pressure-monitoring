@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-11505ccc",
+  "patient_name": "Anastasie du Guillon",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.717853,
+    "lon": 7.241687
+  },
+  "observation_datetime": "2026-01-30T10:40:52.706263",
+  "saved_at": "2026-01-30T10:42:07.407629"
+}

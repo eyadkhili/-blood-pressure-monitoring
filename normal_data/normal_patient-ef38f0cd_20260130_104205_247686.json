@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ef38f0cd",
+  "patient_name": "Vincent Lebon",
+  "systolic_pressure": 103,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.29331,
+    "lon": 5.026736
+  },
+  "observation_datetime": "2026-01-30T10:36:52.013607",
+  "saved_at": "2026-01-30T10:42:05.247763"
+}

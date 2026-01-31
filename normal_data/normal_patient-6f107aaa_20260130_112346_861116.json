@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6f107aaa",
+  "patient_name": "Nicolas Courtois",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.126282,
+    "lon": 5.89733
+  },
+  "observation_datetime": "2026-01-30T11:23:46.799406",
+  "saved_at": "2026-01-30T11:23:46.861218"
+}

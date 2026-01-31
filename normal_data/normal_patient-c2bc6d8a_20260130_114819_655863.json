@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-c2bc6d8a",
+  "patient_name": "Éléonore Rivière-Renaud",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.342894,
+    "lon": 5.040846
+  },
+  "observation_datetime": "2026-01-30T11:48:19.337066",
+  "saved_at": "2026-01-30T11:48:19.655900"
+}

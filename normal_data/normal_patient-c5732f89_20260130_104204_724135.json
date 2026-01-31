@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-c5732f89",
+  "patient_name": "Margaux Gérard",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.66918,
+    "lon": 3.013867
+  },
+  "observation_datetime": "2026-01-30T10:36:21.880595",
+  "saved_at": "2026-01-30T10:42:04.724205"
+}

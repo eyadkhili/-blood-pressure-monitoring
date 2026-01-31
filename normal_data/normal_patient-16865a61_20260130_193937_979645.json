@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-16865a61",
+  "patient_name": "Isabelle Collin-Allard",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.807442,
+    "lon": -0.583511
+  },
+  "observation_datetime": "2026-01-30T19:39:37.929519",
+  "saved_at": "2026-01-30T19:39:37.979669"
+}

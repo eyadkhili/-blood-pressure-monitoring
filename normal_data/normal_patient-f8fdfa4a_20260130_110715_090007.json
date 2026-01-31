@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f8fdfa4a",
+  "patient_name": "Charles Cordier",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.586052,
+    "lon": 3.895427
+  },
+  "observation_datetime": "2026-01-30T11:07:14.937834",
+  "saved_at": "2026-01-30T11:07:15.090095"
+}

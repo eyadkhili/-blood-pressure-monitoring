@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-70956c23",
+  "patient_name": "Lucas Da Costa",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.638723,
+    "lon": 3.035474
+  },
+  "observation_datetime": "2026-01-30T11:05:14.718661",
+  "saved_at": "2026-01-30T11:05:15.046672"
+}

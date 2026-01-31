@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-d382acc7",
+  "patient_name": "Christine Lacombe",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.880981,
+    "lon": 2.33405
+  },
+  "observation_datetime": "2026-01-30T10:29:05.315912",
+  "saved_at": "2026-01-30T10:29:05.334688"
+}

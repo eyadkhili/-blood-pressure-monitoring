@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b38806de",
+  "patient_name": "Isabelle Gosselin",
+  "systolic_pressure": 97,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.658754,
+    "lon": 3.055011
+  },
+  "observation_datetime": "2026-01-30T11:35:48.085747",
+  "saved_at": "2026-01-30T11:35:48.470671"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-75a1954f",
+  "patient_name": "Adrien-Gabriel Voisin",
+  "systolic_pressure": 103,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.359694,
+    "lon": 5.040964
+  },
+  "observation_datetime": "2026-01-30T11:53:19.833172",
+  "saved_at": "2026-01-30T11:53:19.883040"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-19ecfe02",
+  "patient_name": "Alice Rolland de Lopez",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.143182,
+    "lon": 5.735227
+  },
+  "observation_datetime": "2026-01-30T10:36:21.860763",
+  "saved_at": "2026-01-30T10:42:04.664013"
+}

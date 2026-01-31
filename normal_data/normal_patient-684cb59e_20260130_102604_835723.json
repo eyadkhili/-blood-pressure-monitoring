@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-684cb59e",
+  "patient_name": "Gilbert de la Lagarde",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.546122,
+    "lon": 7.801906
+  },
+  "observation_datetime": "2026-01-30T10:26:04.690632",
+  "saved_at": "2026-01-30T10:26:04.835780"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f52a86bb",
+  "patient_name": "Marcel Voisin du Morel",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.78638,
+    "lon": 4.826721
+  },
+  "observation_datetime": "2026-01-30T10:24:34.474747",
+  "saved_at": "2026-01-30T10:24:34.656190"
+}

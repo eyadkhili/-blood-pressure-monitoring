@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-12816e49",
+  "patient_name": "Margot Le Rivière",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.604468,
+    "lon": 3.102232
+  },
+  "observation_datetime": "2026-01-30T11:26:47.180244",
+  "saved_at": "2026-01-30T11:26:47.305234"
+}

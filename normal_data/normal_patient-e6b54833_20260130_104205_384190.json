@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e6b54833",
+  "patient_name": "André Arnaud",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.659417,
+    "lon": 3.046849
+  },
+  "observation_datetime": "2026-01-30T10:37:22.058453",
+  "saved_at": "2026-01-30T10:42:05.384351"
+}

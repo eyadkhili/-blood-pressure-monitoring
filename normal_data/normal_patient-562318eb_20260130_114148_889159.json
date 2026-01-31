@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-562318eb",
+  "patient_name": "Louis du Lecoq",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.650375,
+    "lon": 3.912943
+  },
+  "observation_datetime": "2026-01-30T11:41:48.688464",
+  "saved_at": "2026-01-30T11:41:48.889195"
+}

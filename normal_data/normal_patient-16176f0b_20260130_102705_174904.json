@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-16176f0b",
+  "patient_name": "Émile Merle de Thibault",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.087529,
+    "lon": 5.898581
+  },
+  "observation_datetime": "2026-01-30T10:27:04.972532",
+  "saved_at": "2026-01-30T10:27:05.174963"
+}

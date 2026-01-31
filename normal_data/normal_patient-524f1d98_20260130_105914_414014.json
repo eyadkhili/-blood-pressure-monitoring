@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-524f1d98",
+  "patient_name": "Gilles Rivière",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.863505,
+    "lon": 2.363052
+  },
+  "observation_datetime": "2026-01-30T10:59:13.976193",
+  "saved_at": "2026-01-30T10:59:14.414120"
+}

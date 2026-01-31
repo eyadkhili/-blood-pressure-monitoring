@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6d95e862",
+  "patient_name": "Laurent Rodriguez",
+  "systolic_pressure": 104,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.19961,
+    "lon": -1.527067
+  },
+  "observation_datetime": "2026-01-30T12:02:50.780377",
+  "saved_at": "2026-01-30T12:02:50.998533"
+}

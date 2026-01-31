@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-5c2f70ac",
+  "patient_name": "Jacqueline du Dupont",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.151298,
+    "lon": 5.690107
+  },
+  "observation_datetime": "2026-01-30T11:29:17.441067",
+  "saved_at": "2026-01-30T11:29:17.549425"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4ec29253",
+  "patient_name": "Léon Da Costa-Moreno",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.181133,
+    "lon": 5.694115
+  },
+  "observation_datetime": "2026-01-30T11:37:18.238375",
+  "saved_at": "2026-01-30T11:37:18.572517"
+}

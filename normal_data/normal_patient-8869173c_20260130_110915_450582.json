@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8869173c",
+  "patient_name": "Charlotte Fleury",
+  "systolic_pressure": 103,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.147133,
+    "lon": -1.662964
+  },
+  "observation_datetime": "2026-01-30T11:09:15.168046",
+  "saved_at": "2026-01-30T11:09:15.450642"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b8091166",
+  "patient_name": "Émile Perrin",
+  "systolic_pressure": 92,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.127332,
+    "lon": 5.920503
+  },
+  "observation_datetime": "2026-01-30T10:53:43.312898",
+  "saved_at": "2026-01-30T10:53:43.435074"
+}

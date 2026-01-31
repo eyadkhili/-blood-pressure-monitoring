@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b096ca4e",
+  "patient_name": "Sabine Loiseau de la Marchal",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.119931,
+    "lon": -1.681143
+  },
+  "observation_datetime": "2026-01-30T11:13:45.669706",
+  "saved_at": "2026-01-30T11:13:45.951948"
+}

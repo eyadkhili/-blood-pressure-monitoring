@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8f9e5711",
+  "patient_name": "Jules Lévy",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.751746,
+    "lon": 4.804076
+  },
+  "observation_datetime": "2026-01-30T19:39:07.879256",
+  "saved_at": "2026-01-30T19:39:07.928162"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f5b9b8b5",
+  "patient_name": "Stéphane Traore",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.464151,
+    "lon": -0.574255
+  },
+  "observation_datetime": "2026-01-30T10:43:42.146084",
+  "saved_at": "2026-01-30T10:43:42.270552"
+}

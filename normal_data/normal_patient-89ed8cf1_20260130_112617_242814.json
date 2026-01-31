@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-89ed8cf1",
+  "patient_name": "Hugues Simon",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.164729,
+    "lon": 5.951913
+  },
+  "observation_datetime": "2026-01-30T11:26:17.115042",
+  "saved_at": "2026-01-30T11:26:17.242880"
+}

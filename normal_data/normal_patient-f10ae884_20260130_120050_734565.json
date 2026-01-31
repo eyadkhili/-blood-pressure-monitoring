@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f10ae884",
+  "patient_name": "Arnaude Blin",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.20247,
+    "lon": -1.577715
+  },
+  "observation_datetime": "2026-01-30T12:00:50.579933",
+  "saved_at": "2026-01-30T12:00:50.734593"
+}

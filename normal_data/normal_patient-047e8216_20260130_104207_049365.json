@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-047e8216",
+  "patient_name": "Susan Guillot",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.633977,
+    "lon": 3.09215
+  },
+  "observation_datetime": "2026-01-30T10:39:52.597676",
+  "saved_at": "2026-01-30T10:42:07.049408"
+}

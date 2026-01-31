@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-10a56647",
+  "patient_name": "Vincent Ruiz",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.581622,
+    "lon": 3.842652
+  },
+  "observation_datetime": "2026-01-30T10:51:13.029340",
+  "saved_at": "2026-01-30T10:51:13.210094"
+}

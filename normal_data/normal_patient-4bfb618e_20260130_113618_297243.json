@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4bfb618e",
+  "patient_name": "Jacques Denis",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.889665,
+    "lon": 2.363132
+  },
+  "observation_datetime": "2026-01-30T11:36:18.133998",
+  "saved_at": "2026-01-30T11:36:18.297282"
+}

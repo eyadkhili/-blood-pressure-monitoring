@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4c15acc0",
+  "patient_name": "Auguste-Aimé Maillet",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.640628,
+    "lon": 1.467295
+  },
+  "observation_datetime": "2026-01-30T11:38:18.335194",
+  "saved_at": "2026-01-30T11:38:18.445524"
+}

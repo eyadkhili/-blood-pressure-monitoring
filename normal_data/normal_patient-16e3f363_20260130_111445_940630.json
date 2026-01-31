@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-16e3f363",
+  "patient_name": "Simone Laine",
+  "systolic_pressure": 98,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.269496,
+    "lon": 5.391375
+  },
+  "observation_datetime": "2026-01-30T11:14:45.775659",
+  "saved_at": "2026-01-30T11:14:45.940674"
+}

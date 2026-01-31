@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2c6a31f8",
+  "patient_name": "Philippine Jacquot de Dos Santos",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.148589,
+    "lon": 5.904369
+  },
+  "observation_datetime": "2026-01-30T10:58:43.894987",
+  "saved_at": "2026-01-30T10:58:44.028829"
+}

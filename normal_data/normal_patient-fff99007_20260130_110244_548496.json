@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-fff99007",
+  "patient_name": "Catherine-Nicole Benoit",
+  "systolic_pressure": 98,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.813918,
+    "lon": 4.881125
+  },
+  "observation_datetime": "2026-01-30T11:02:44.417180",
+  "saved_at": "2026-01-30T11:02:44.548578"
+}

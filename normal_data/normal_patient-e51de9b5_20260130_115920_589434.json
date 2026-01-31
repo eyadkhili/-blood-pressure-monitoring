@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e51de9b5",
+  "patient_name": "Léon Pineau",
+  "systolic_pressure": 97,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.296974,
+    "lon": 5.072978
+  },
+  "observation_datetime": "2026-01-30T11:59:20.429206",
+  "saved_at": "2026-01-30T11:59:20.589461"
+}

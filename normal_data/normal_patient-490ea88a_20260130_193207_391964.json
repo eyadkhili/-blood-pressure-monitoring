@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-490ea88a",
+  "patient_name": "Yves Joly",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.838858,
+    "lon": -0.531011
+  },
+  "observation_datetime": "2026-01-30T19:32:07.180336",
+  "saved_at": "2026-01-30T19:32:07.392008"
+}

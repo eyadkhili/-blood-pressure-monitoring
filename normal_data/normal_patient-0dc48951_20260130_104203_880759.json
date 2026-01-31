@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0dc48951",
+  "patient_name": "David Barbe-Bourdon",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.742829,
+    "lon": 4.883226
+  },
+  "observation_datetime": "2026-01-30T10:34:51.574251",
+  "saved_at": "2026-01-30T10:42:03.880831"
+}

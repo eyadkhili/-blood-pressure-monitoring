@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-27b49f9c",
+  "patient_name": "Astrid Leclerc",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.109863,
+    "lon": 5.972877
+  },
+  "observation_datetime": "2026-01-30T11:49:19.433841",
+  "saved_at": "2026-01-30T11:49:19.543685"
+}

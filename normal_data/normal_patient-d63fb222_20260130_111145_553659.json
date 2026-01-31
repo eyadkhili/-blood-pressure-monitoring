@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-d63fb222",
+  "patient_name": "Gabrielle-Aurore Dupré",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.312262,
+    "lon": 5.077402
+  },
+  "observation_datetime": "2026-01-30T11:11:45.435646",
+  "saved_at": "2026-01-30T11:11:45.553698"
+}

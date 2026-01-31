@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0aa507c7",
+  "patient_name": "Marcelle Legendre",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.65372,
+    "lon": 3.855978
+  },
+  "observation_datetime": "2026-01-30T11:05:44.771904",
+  "saved_at": "2026-01-30T11:05:45.005511"
+}

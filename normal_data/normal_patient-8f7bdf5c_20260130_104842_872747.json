@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8f7bdf5c",
+  "patient_name": "Brigitte Lombard",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.297606,
+    "lon": 5.056768
+  },
+  "observation_datetime": "2026-01-30T10:48:42.741038",
+  "saved_at": "2026-01-30T10:48:42.872813"
+}

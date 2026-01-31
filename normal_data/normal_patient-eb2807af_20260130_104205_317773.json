@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-eb2807af",
+  "patient_name": "Andrée Schneider",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.582925,
+    "lon": 3.064893
+  },
+  "observation_datetime": "2026-01-30T10:36:52.037602",
+  "saved_at": "2026-01-30T10:42:05.317860"
+}

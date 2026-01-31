@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-1aaac232",
+  "patient_name": "Margot de la Lefort",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.590761,
+    "lon": 7.780149
+  },
+  "observation_datetime": "2026-01-30T11:38:48.386008",
+  "saved_at": "2026-01-30T11:38:48.548356"
+}

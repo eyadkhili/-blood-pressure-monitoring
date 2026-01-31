@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ae2a7b47",
+  "patient_name": "Olivier Le Maurice",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.073672,
+    "lon": -1.703655
+  },
+  "observation_datetime": "2026-01-30T19:33:37.332086",
+  "saved_at": "2026-01-30T19:33:37.546418"
+}

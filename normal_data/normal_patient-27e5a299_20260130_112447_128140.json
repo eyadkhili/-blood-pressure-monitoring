@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-27e5a299",
+  "patient_name": "Roland Pasquier",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.807072,
+    "lon": 4.856516
+  },
+  "observation_datetime": "2026-01-30T11:24:46.953217",
+  "saved_at": "2026-01-30T11:24:47.128185"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f93de098",
+  "patient_name": "Laurence Labbé",
+  "systolic_pressure": 93,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.61897,
+    "lon": 3.09203
+  },
+  "observation_datetime": "2026-01-30T11:34:47.984386",
+  "saved_at": "2026-01-30T11:34:48.154892"
+}

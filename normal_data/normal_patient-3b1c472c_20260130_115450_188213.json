@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3b1c472c",
+  "patient_name": "Marc Bernier",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.068347,
+    "lon": -1.664584
+  },
+  "observation_datetime": "2026-01-30T11:54:49.981137",
+  "saved_at": "2026-01-30T11:54:50.188248"
+}

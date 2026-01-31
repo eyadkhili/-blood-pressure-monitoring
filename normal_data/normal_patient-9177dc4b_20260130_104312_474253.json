@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-9177dc4b",
+  "patient_name": "Laure Guibert",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.109487,
+    "lon": 5.913798
+  },
+  "observation_datetime": "2026-01-30T10:43:12.096468",
+  "saved_at": "2026-01-30T10:43:12.474308"
+}

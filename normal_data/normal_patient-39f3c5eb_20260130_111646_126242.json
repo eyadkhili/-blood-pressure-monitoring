@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-39f3c5eb",
+  "patient_name": "Grégoire Pelletier-Bazin",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.744799,
+    "lon": 7.234492
+  },
+  "observation_datetime": "2026-01-30T11:16:46.000976",
+  "saved_at": "2026-01-30T11:16:46.126320"
+}

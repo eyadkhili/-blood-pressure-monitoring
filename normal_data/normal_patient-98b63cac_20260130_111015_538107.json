@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-98b63cac",
+  "patient_name": "Odette Vallet",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.187975,
+    "lon": 5.702336
+  },
+  "observation_datetime": "2026-01-30T11:10:15.279610",
+  "saved_at": "2026-01-30T11:10:15.538183"
+}

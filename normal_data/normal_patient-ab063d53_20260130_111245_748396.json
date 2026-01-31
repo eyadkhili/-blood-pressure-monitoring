@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ab063d53",
+  "patient_name": "Adrienne Bodin du Thibault",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.21328,
+    "lon": 5.732471
+  },
+  "observation_datetime": "2026-01-30T11:12:45.548196",
+  "saved_at": "2026-01-30T11:12:45.748474"
+}

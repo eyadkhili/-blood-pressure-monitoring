@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-77d9ee38",
+  "patient_name": "Arnaude Delattre",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.100815,
+    "lon": 5.94639
+  },
+  "observation_datetime": "2026-01-30T10:38:52.422180",
+  "saved_at": "2026-01-30T10:42:06.438757"
+}

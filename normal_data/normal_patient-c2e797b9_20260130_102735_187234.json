@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-c2e797b9",
+  "patient_name": "Benoît Rossi",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.831404,
+    "lon": -0.536325
+  },
+  "observation_datetime": "2026-01-30T10:27:35.090303",
+  "saved_at": "2026-01-30T10:27:35.187318"
+}

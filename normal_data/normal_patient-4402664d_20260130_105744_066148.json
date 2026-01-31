@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4402664d",
+  "patient_name": "Émile Bousquet",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.104927,
+    "lon": 5.880393
+  },
+  "observation_datetime": "2026-01-30T10:57:43.771115",
+  "saved_at": "2026-01-30T10:57:44.066200"
+}

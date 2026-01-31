@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-353228d8",
+  "patient_name": "Honoré Potier",
+  "systolic_pressure": 92,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.468784,
+    "lon": -0.537485
+  },
+  "observation_datetime": "2026-01-30T19:41:08.078778",
+  "saved_at": "2026-01-30T19:41:08.130202"
+}

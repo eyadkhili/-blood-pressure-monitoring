@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e806094b",
+  "patient_name": "Lucas de Texier",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.844271,
+    "lon": -0.614235
+  },
+  "observation_datetime": "2026-01-30T19:35:07.480126",
+  "saved_at": "2026-01-30T19:35:07.531045"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-448fe1c1",
+  "patient_name": "Margaux Ledoux",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.585215,
+    "lon": 3.062871
+  },
+  "observation_datetime": "2026-01-30T19:43:38.339210",
+  "saved_at": "2026-01-30T19:43:38.547843"
+}

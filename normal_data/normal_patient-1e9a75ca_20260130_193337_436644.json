@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-1e9a75ca",
+  "patient_name": "Lucas Lacroix",
+  "systolic_pressure": 111,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.84789,
+    "lon": 2.340906
+  },
+  "observation_datetime": "2026-01-30T19:33:37.329608",
+  "saved_at": "2026-01-30T19:33:37.436670"
+}

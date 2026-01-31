@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-07fdccc1",
+  "patient_name": "Victor Gimenez",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.625606,
+    "lon": 3.839214
+  },
+  "observation_datetime": "2026-01-30T10:24:04.369831",
+  "saved_at": "2026-01-30T10:24:04.592158"
+}

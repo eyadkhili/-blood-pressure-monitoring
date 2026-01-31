@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-fb97b78f",
+  "patient_name": "Valentine Guillon",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.68086,
+    "lon": 7.276581
+  },
+  "observation_datetime": "2026-01-30T11:45:19.035724",
+  "saved_at": "2026-01-30T11:45:19.084511"
+}

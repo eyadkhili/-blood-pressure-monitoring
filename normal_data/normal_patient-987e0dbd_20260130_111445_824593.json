@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-987e0dbd",
+  "patient_name": "Robert de Fleury",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.882276,
+    "lon": -0.529566
+  },
+  "observation_datetime": "2026-01-30T11:14:45.773265",
+  "saved_at": "2026-01-30T11:14:45.824642"
+}

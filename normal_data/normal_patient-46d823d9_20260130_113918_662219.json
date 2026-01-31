@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-46d823d9",
+  "patient_name": "Laurent Pinto de la Peltier",
+  "systolic_pressure": 93,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.215419,
+    "lon": -1.572179
+  },
+  "observation_datetime": "2026-01-30T11:39:18.437868",
+  "saved_at": "2026-01-30T11:39:18.662257"
+}

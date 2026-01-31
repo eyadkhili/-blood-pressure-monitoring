@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a87a67d3",
+  "patient_name": "Philippe-Éric Legendre",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.651255,
+    "lon": 1.424108
+  },
+  "observation_datetime": "2026-01-30T10:55:43.540939",
+  "saved_at": "2026-01-30T10:55:43.795984"
+}

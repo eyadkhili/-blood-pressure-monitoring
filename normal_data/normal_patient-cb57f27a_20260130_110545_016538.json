@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-cb57f27a",
+  "patient_name": "Sébastien Meyer Le Martins",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.282089,
+    "lon": 5.045019
+  },
+  "observation_datetime": "2026-01-30T11:05:44.775128",
+  "saved_at": "2026-01-30T11:05:45.016607"
+}

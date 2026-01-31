@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-902a5f08",
+  "patient_name": "Philippe-Paul Faivre",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.678195,
+    "lon": 7.270151
+  },
+  "observation_datetime": "2026-01-30T11:37:18.236931",
+  "saved_at": "2026-01-30T11:37:18.408818"
+}

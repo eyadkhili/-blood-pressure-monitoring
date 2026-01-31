@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-fadc08ac",
+  "patient_name": "Gabriel Rossi",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.211871,
+    "lon": 5.697251
+  },
+  "observation_datetime": "2026-01-30T19:33:37.331668",
+  "saved_at": "2026-01-30T19:33:37.545134"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-d8eaff19",
+  "patient_name": "Anouk Rolland du Noël",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.850758,
+    "lon": 2.395295
+  },
+  "observation_datetime": "2026-01-30T19:39:07.880966",
+  "saved_at": "2026-01-30T19:39:07.992689"
+}

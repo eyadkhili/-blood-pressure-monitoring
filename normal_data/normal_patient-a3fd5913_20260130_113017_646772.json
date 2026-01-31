@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a3fd5913",
+  "patient_name": "Marcelle Lefort",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.758057,
+    "lon": 4.851083
+  },
+  "observation_datetime": "2026-01-30T11:30:17.538825",
+  "saved_at": "2026-01-30T11:30:17.646795"
+}

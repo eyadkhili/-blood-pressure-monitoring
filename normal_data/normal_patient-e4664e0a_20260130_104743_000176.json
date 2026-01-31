@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e4664e0a",
+  "patient_name": "Joséphine Charpentier de la Vidal",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.160605,
+    "lon": -1.636723
+  },
+  "observation_datetime": "2026-01-30T10:47:42.637825",
+  "saved_at": "2026-01-30T10:47:43.000234"
+}

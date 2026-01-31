@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-eece799c",
+  "patient_name": "Suzanne Le Henry",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.576164,
+    "lon": 3.903948
+  },
+  "observation_datetime": "2026-01-30T10:37:52.278692",
+  "saved_at": "2026-01-30T10:42:06.001453"
+}

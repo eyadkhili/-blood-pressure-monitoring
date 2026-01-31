@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-99bd4d93",
+  "patient_name": "Arthur Camus",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.654689,
+    "lon": 3.921566
+  },
+  "observation_datetime": "2026-01-30T11:55:20.028947",
+  "saved_at": "2026-01-30T11:55:20.136288"
+}

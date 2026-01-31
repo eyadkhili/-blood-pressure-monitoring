@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-94965a43",
+  "patient_name": "Thierry Blin",
+  "systolic_pressure": 98,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.325534,
+    "lon": 5.055157
+  },
+  "observation_datetime": "2026-01-30T19:42:38.232079",
+  "saved_at": "2026-01-30T19:42:38.339713"
+}

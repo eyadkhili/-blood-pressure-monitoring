@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-78569351",
+  "patient_name": "Thérèse Bourgeois",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.097747,
+    "lon": -1.663843
+  },
+  "observation_datetime": "2026-01-30T10:51:43.080972",
+  "saved_at": "2026-01-30T10:51:43.209737"
+}

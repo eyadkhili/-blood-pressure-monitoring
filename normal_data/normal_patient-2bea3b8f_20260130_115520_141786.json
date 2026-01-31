@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2bea3b8f",
+  "patient_name": "Alex Laroche-Schneider",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.690993,
+    "lon": 7.215736
+  },
+  "observation_datetime": "2026-01-30T11:55:20.029214",
+  "saved_at": "2026-01-30T11:55:20.141827"
+}

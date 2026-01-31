@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7759ec8d",
+  "patient_name": "Paul Descamps",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.80901,
+    "lon": -0.61377
+  },
+  "observation_datetime": "2026-01-30T10:40:22.649908",
+  "saved_at": "2026-01-30T10:42:07.165779"
+}

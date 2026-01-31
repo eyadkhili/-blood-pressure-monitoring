@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-34320200",
+  "patient_name": "Hélène Bourdon",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.547694,
+    "lon": 7.754442
+  },
+  "observation_datetime": "2026-01-30T11:55:20.029390",
+  "saved_at": "2026-01-30T11:55:20.143493"
+}

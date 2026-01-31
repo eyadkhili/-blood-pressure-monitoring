@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3d76c273",
+  "patient_name": "Joséphine-Renée Joly",
+  "systolic_pressure": 104,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.333781,
+    "lon": 5.359129
+  },
+  "observation_datetime": "2026-01-30T19:33:37.331323",
+  "saved_at": "2026-01-30T19:33:37.544041"
+}

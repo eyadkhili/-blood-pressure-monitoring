@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ba1a83ff",
+  "patient_name": "Luc Lefort",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.73795,
+    "lon": 7.212473
+  },
+  "observation_datetime": "2026-01-30T11:08:15.063415",
+  "saved_at": "2026-01-30T11:08:15.378118"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3547ec61",
+  "patient_name": "Françoise Pereira-Barbe",
+  "systolic_pressure": 110,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.214842,
+    "lon": -1.547272
+  },
+  "observation_datetime": "2026-01-30T11:22:46.694844",
+  "saved_at": "2026-01-30T11:22:47.139719"
+}

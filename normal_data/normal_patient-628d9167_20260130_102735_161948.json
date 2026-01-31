@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-628d9167",
+  "patient_name": "Roger Lesage de Chevallier",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.902191,
+    "lon": 2.351298
+  },
+  "observation_datetime": "2026-01-30T10:27:35.059871",
+  "saved_at": "2026-01-30T10:27:35.162035"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-1a1896dd",
+  "patient_name": "Théodore-Xavier Auger",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.802785,
+    "lon": 4.877836
+  },
+  "observation_datetime": "2026-01-30T10:42:42.026555",
+  "saved_at": "2026-01-30T10:42:42.260733"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-616f79d8",
+  "patient_name": "Marcel Roussel",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.654467,
+    "lon": 3.029923
+  },
+  "observation_datetime": "2026-01-30T11:04:44.665862",
+  "saved_at": "2026-01-30T11:04:45.010776"
+}

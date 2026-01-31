@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a14820fb",
+  "patient_name": "Philippine Giraud",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.466896,
+    "lon": -0.605529
+  },
+  "observation_datetime": "2026-01-30T10:51:43.088951",
+  "saved_at": "2026-01-30T10:51:43.526203"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8bb43bfd",
+  "patient_name": "Adélaïde Le Delmas",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.629602,
+    "lon": 3.081208
+  },
+  "observation_datetime": "2026-01-30T11:56:20.131659",
+  "saved_at": "2026-01-30T11:56:20.449657"
+}

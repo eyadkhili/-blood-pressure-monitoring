@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-84068b89",
+  "patient_name": "Martine Texier-Aubry",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.117683,
+    "lon": 5.910437
+  },
+  "observation_datetime": "2026-01-30T11:56:50.180432",
+  "saved_at": "2026-01-30T11:56:50.452606"
+}

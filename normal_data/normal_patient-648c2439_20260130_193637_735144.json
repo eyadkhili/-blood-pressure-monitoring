@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-648c2439",
+  "patient_name": "Henriette Pons",
+  "systolic_pressure": 92,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.31749,
+    "lon": 4.992817
+  },
+  "observation_datetime": "2026-01-30T19:36:37.630384",
+  "saved_at": "2026-01-30T19:36:37.735206"
+}

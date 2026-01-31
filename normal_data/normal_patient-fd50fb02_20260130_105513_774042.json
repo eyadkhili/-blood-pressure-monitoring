@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-fd50fb02",
+  "patient_name": "Théophile Pasquier",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.581976,
+    "lon": 7.741744
+  },
+  "observation_datetime": "2026-01-30T10:55:13.481559",
+  "saved_at": "2026-01-30T10:55:13.774125"
+}

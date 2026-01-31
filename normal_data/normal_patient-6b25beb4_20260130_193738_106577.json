@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6b25beb4",
+  "patient_name": "Alexandre Moulin",
+  "systolic_pressure": 110,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.848435,
+    "lon": -0.60217
+  },
+  "observation_datetime": "2026-01-30T19:37:37.732378",
+  "saved_at": "2026-01-30T19:37:38.106638"
+}

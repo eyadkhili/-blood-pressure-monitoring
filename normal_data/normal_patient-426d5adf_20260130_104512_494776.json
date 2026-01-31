@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-426d5adf",
+  "patient_name": "Virginie Le Lenoir",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.507401,
+    "lon": -0.521846
+  },
+  "observation_datetime": "2026-01-30T10:45:12.322741",
+  "saved_at": "2026-01-30T10:45:12.494892"
+}

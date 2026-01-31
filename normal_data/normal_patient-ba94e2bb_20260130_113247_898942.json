@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ba94e2bb",
+  "patient_name": "Thierry Toussaint",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.606919,
+    "lon": 3.861004
+  },
+  "observation_datetime": "2026-01-30T11:32:47.786160",
+  "saved_at": "2026-01-30T11:32:47.898978"
+}

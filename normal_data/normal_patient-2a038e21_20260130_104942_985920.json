@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2a038e21",
+  "patient_name": "Amélie de la Sanchez",
+  "systolic_pressure": 98,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.610633,
+    "lon": 3.892583
+  },
+  "observation_datetime": "2026-01-30T10:49:42.851892",
+  "saved_at": "2026-01-30T10:49:42.986003"
+}

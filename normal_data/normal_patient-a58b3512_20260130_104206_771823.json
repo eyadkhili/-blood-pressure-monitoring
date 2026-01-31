@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a58b3512",
+  "patient_name": "Zoé Robin de Mallet",
+  "systolic_pressure": 103,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.50966,
+    "lon": -0.537579
+  },
+  "observation_datetime": "2026-01-30T10:39:22.513175",
+  "saved_at": "2026-01-30T10:42:06.771865"
+}

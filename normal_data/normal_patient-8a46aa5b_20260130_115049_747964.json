@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8a46aa5b",
+  "patient_name": "Constance Blanchet",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.200156,
+    "lon": -1.550598
+  },
+  "observation_datetime": "2026-01-30T11:50:49.585191",
+  "saved_at": "2026-01-30T11:50:49.747987"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-84df81e7",
+  "patient_name": "Pauline du Paul",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.306099,
+    "lon": 5.010515
+  },
+  "observation_datetime": "2026-01-30T11:46:19.136877",
+  "saved_at": "2026-01-30T11:46:19.405954"
+}

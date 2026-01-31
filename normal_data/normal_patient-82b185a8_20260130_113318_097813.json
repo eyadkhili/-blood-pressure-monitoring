@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-82b185a8",
+  "patient_name": "Alex Vallée",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.760564,
+    "lon": 4.820801
+  },
+  "observation_datetime": "2026-01-30T11:33:17.836979",
+  "saved_at": "2026-01-30T11:33:18.097838"
+}

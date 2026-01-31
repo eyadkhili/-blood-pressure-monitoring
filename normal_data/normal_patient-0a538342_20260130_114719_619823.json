@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0a538342",
+  "patient_name": "Victoire Petit",
+  "systolic_pressure": 97,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.09721,
+    "lon": -1.703625
+  },
+  "observation_datetime": "2026-01-30T11:47:19.236576",
+  "saved_at": "2026-01-30T11:47:19.619845"
+}

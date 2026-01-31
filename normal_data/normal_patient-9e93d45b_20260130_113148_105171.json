@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-9e93d45b",
+  "patient_name": "Pierre François",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.605076,
+    "lon": 1.488193
+  },
+  "observation_datetime": "2026-01-30T11:31:47.691442",
+  "saved_at": "2026-01-30T11:31:48.105194"
+}

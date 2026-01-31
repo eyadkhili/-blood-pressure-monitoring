@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-673d51de",
+  "patient_name": "Thibaut-Michel Bruneau",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.279857,
+    "lon": 5.026212
+  },
+  "observation_datetime": "2026-01-30T10:39:52.603763",
+  "saved_at": "2026-01-30T10:42:07.050983"
+}

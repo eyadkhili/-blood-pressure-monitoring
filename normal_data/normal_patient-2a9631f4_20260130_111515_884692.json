@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2a9631f4",
+  "patient_name": "Thierry Martinez-Dupré",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.332648,
+    "lon": 5.000178
+  },
+  "observation_datetime": "2026-01-30T11:15:15.825069",
+  "saved_at": "2026-01-30T11:15:15.884809"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6bdd986c",
+  "patient_name": "Honoré-Joseph Brun",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.657982,
+    "lon": 3.040734
+  },
+  "observation_datetime": "2026-01-30T11:41:18.640100",
+  "saved_at": "2026-01-30T11:41:18.945977"
+}

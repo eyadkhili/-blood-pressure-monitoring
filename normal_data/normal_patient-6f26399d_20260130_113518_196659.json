@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6f26399d",
+  "patient_name": "Alphonse Auger",
+  "systolic_pressure": 103,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.60824,
+    "lon": 3.869642
+  },
+  "observation_datetime": "2026-01-30T11:35:18.035490",
+  "saved_at": "2026-01-30T11:35:18.196688"
+}

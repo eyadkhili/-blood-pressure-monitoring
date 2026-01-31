@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e7fe3caa",
+  "patient_name": "Marianne de Ramos",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.527422,
+    "lon": -0.581153
+  },
+  "observation_datetime": "2026-01-30T19:37:37.732157",
+  "saved_at": "2026-01-30T19:37:38.105063"
+}

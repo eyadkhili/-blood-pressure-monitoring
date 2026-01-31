@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ce9807d8",
+  "patient_name": "Bernard Buisson",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.342287,
+    "lon": 4.997106
+  },
+  "observation_datetime": "2026-01-30T11:48:19.334168",
+  "saved_at": "2026-01-30T11:48:19.383045"
+}

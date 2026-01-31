@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-624bfd0b",
+  "patient_name": "Gabrielle-Christelle Marchal",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.576068,
+    "lon": 1.421934
+  },
+  "observation_datetime": "2026-01-30T10:56:43.650642",
+  "saved_at": "2026-01-30T10:56:43.896063"
+}

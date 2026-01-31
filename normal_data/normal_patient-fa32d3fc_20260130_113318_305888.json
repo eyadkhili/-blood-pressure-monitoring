@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-fa32d3fc",
+  "patient_name": "Gabrielle Leclercq-Mallet",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.582488,
+    "lon": 3.049789
+  },
+  "observation_datetime": "2026-01-30T11:33:17.838639",
+  "saved_at": "2026-01-30T11:33:18.305926"
+}

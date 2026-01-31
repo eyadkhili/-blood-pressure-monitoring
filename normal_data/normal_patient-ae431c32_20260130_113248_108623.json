@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ae431c32",
+  "patient_name": "David-Alain Toussaint",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.625093,
+    "lon": 1.455042
+  },
+  "observation_datetime": "2026-01-30T11:32:47.788315",
+  "saved_at": "2026-01-30T11:32:48.108660"
+}

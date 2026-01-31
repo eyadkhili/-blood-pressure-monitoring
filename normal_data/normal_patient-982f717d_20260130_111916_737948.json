@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-982f717d",
+  "patient_name": "Luc-Théophile Pottier",
+  "systolic_pressure": 92,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.565491,
+    "lon": 7.763233
+  },
+  "observation_datetime": "2026-01-30T11:19:16.303177",
+  "saved_at": "2026-01-30T11:19:16.738039"
+}

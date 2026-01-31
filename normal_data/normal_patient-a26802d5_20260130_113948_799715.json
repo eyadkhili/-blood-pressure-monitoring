@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a26802d5",
+  "patient_name": "Jacques Dupont-Carlier",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.21149,
+    "lon": 5.754043
+  },
+  "observation_datetime": "2026-01-30T11:39:48.485914",
+  "saved_at": "2026-01-30T11:39:48.799739"
+}

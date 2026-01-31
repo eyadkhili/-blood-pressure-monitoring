@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ca86e15b",
+  "patient_name": "Aimée Daniel du Dos Santos",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.648424,
+    "lon": 3.898576
+  },
+  "observation_datetime": "2026-01-30T11:18:16.181247",
+  "saved_at": "2026-01-30T11:18:16.315896"
+}

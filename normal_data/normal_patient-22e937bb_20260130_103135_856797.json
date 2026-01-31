@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-22e937bb",
+  "patient_name": "Nicole Jean-Leblanc",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.123418,
+    "lon": 5.908347
+  },
+  "observation_datetime": "2026-01-30T10:31:35.721342",
+  "saved_at": "2026-01-30T10:31:35.856839"
+}

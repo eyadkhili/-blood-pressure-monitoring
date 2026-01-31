@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a37bda95",
+  "patient_name": "Bernard Wagner",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.48473,
+    "lon": -0.574195
+  },
+  "observation_datetime": "2026-01-30T11:59:50.480374",
+  "saved_at": "2026-01-30T11:59:50.840884"
+}

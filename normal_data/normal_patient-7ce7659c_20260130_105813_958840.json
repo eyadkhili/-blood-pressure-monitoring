@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7ce7659c",
+  "patient_name": "Eugène Navarro",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.863019,
+    "lon": 2.312549
+  },
+  "observation_datetime": "2026-01-30T10:58:13.833553",
+  "saved_at": "2026-01-30T10:58:13.958917"
+}

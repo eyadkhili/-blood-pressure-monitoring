@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4d00b2a8",
+  "patient_name": "Aimé Thierry-Rodrigues",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.083423,
+    "lon": 5.937843
+  },
+  "observation_datetime": "2026-01-30T10:40:22.672165",
+  "saved_at": "2026-01-30T10:42:07.170807"
+}

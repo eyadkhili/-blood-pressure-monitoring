@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-24672753",
+  "patient_name": "Virginie Gérard",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.64098,
+    "lon": 3.882675
+  },
+  "observation_datetime": "2026-01-30T11:31:17.638053",
+  "saved_at": "2026-01-30T11:31:17.804018"
+}

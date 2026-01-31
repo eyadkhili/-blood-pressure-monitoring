@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-c9f8d118",
+  "patient_name": "Frédéric-Guy Adam",
+  "systolic_pressure": 103,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.283635,
+    "lon": 5.365129
+  },
+  "observation_datetime": "2026-01-30T11:09:15.168472",
+  "saved_at": "2026-01-30T11:09:15.453125"
+}

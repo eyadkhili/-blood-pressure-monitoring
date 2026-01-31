@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-1c5e736d",
+  "patient_name": "Susan Vidal",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.737163,
+    "lon": 7.294389
+  },
+  "observation_datetime": "2026-01-30T11:37:48.288208",
+  "saved_at": "2026-01-30T11:37:48.553853"
+}

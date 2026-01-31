@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ee3dc114",
+  "patient_name": "Capucine Lambert",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.237065,
+    "lon": 5.716447
+  },
+  "observation_datetime": "2026-01-30T10:45:42.399996",
+  "saved_at": "2026-01-30T10:45:42.739503"
+}

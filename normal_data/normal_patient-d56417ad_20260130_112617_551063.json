@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-d56417ad",
+  "patient_name": "Alexandrie Dos Santos",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.868608,
+    "lon": 2.378961
+  },
+  "observation_datetime": "2026-01-30T11:26:17.119018",
+  "saved_at": "2026-01-30T11:26:17.551113"
+}

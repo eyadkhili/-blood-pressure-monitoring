@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3fef8794",
+  "patient_name": "Sophie Noël",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.523675,
+    "lon": -0.58283
+  },
+  "observation_datetime": "2026-01-30T11:11:45.433115",
+  "saved_at": "2026-01-30T11:11:45.485373"
+}

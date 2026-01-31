@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7b3a8ba4",
+  "patient_name": "Marc Gilles-Pereira",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.732464,
+    "lon": 4.810222
+  },
+  "observation_datetime": "2026-01-30T19:44:08.387119",
+  "saved_at": "2026-01-30T19:44:08.709118"
+}

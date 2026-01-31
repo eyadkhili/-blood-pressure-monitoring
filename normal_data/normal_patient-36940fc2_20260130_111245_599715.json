@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-36940fc2",
+  "patient_name": "Roland Le Gauthier",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.266027,
+    "lon": -1.585082
+  },
+  "observation_datetime": "2026-01-30T11:12:45.543546",
+  "saved_at": "2026-01-30T11:12:45.599931"
+}

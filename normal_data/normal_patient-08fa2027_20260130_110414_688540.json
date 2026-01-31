@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-08fa2027",
+  "patient_name": "Frédérique Joseph",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.589214,
+    "lon": 7.777023
+  },
+  "observation_datetime": "2026-01-30T11:04:14.600469",
+  "saved_at": "2026-01-30T11:04:14.688639"
+}

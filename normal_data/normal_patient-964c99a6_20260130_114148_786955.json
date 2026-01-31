@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-964c99a6",
+  "patient_name": "Nicole Lejeune",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.867555,
+    "lon": 2.34568
+  },
+  "observation_datetime": "2026-01-30T11:41:48.687240",
+  "saved_at": "2026-01-30T11:41:48.786975"
+}

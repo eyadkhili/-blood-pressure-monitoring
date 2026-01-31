@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-dd9f84ac",
+  "patient_name": "Océane Delattre",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.49094,
+    "lon": -0.595947
+  },
+  "observation_datetime": "2026-01-30T11:23:46.800939",
+  "saved_at": "2026-01-30T11:23:46.949856"
+}

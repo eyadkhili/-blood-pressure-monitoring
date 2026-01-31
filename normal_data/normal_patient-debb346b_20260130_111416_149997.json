@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-debb346b",
+  "patient_name": "François Letellier",
+  "systolic_pressure": 93,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.180324,
+    "lon": 5.686562
+  },
+  "observation_datetime": "2026-01-30T11:14:15.722739",
+  "saved_at": "2026-01-30T11:14:16.150069"
+}

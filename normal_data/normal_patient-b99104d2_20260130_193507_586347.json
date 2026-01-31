@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b99104d2",
+  "patient_name": "Éric Fouquet",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.613036,
+    "lon": 3.02403
+  },
+  "observation_datetime": "2026-01-30T19:35:07.481358",
+  "saved_at": "2026-01-30T19:35:07.586371"
+}

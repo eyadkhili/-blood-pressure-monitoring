@@ -1,0 +1,21 @@
+# ============================================
+# Système de Surveillance de Pression Artérielle
+# Dépendances Python
+# ============================================
+
+# Kafka - Streaming de données
+confluent-kafka==2.3.0
+
+# Elasticsearch - Stockage et indexation
+elasticsearch==8.11.0
+
+# Génération de données
+faker==22.0.0
+
+# Machine Learning
+scikit-learn==1.3.2
+pandas==2.1.4
+joblib==1.3.2
+
+# Utilitaires
+python-dateutil==2.8.2

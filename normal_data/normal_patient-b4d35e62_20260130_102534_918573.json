@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b4d35e62",
+  "patient_name": "Antoinette Martinez",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.757691,
+    "lon": 4.794457
+  },
+  "observation_datetime": "2026-01-30T10:25:34.624785",
+  "saved_at": "2026-01-30T10:25:34.918632"
+}

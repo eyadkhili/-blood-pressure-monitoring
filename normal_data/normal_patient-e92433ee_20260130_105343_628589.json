@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e92433ee",
+  "patient_name": "René Gallet",
+  "systolic_pressure": 103,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.805028,
+    "lon": 4.811639
+  },
+  "observation_datetime": "2026-01-30T10:53:43.316309",
+  "saved_at": "2026-01-30T10:53:43.628676"
+}

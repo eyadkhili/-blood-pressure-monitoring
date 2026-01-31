@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ee3ae154",
+  "patient_name": "Anastasie du Giraud",
+  "systolic_pressure": 92,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.281746,
+    "lon": 5.370955
+  },
+  "observation_datetime": "2026-01-30T10:57:43.768585",
+  "saved_at": "2026-01-30T10:57:43.893924"
+}

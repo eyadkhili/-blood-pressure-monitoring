@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f046c43f",
+  "patient_name": "Alexandre François Le Pasquier",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.850404,
+    "lon": 2.387697
+  },
+  "observation_datetime": "2026-01-30T11:53:49.882997",
+  "saved_at": "2026-01-30T11:53:49.933792"
+}

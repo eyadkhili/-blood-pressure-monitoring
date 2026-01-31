@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-9141d56e",
+  "patient_name": "Cécile Weber",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.714788,
+    "lon": 7.239558
+  },
+  "observation_datetime": "2026-01-30T11:46:19.134372",
+  "saved_at": "2026-01-30T11:46:19.243521"
+}

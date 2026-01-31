@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-08e6f34b",
+  "patient_name": "Catherine Hamel de Lecomte",
+  "systolic_pressure": 104,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.579079,
+    "lon": 1.458631
+  },
+  "observation_datetime": "2026-01-30T11:11:45.435174",
+  "saved_at": "2026-01-30T11:11:45.551890"
+}

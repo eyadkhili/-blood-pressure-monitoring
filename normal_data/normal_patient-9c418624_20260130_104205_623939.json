@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-9c418624",
+  "patient_name": "Marcelle Bonnet de la Giraud",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.306083,
+    "lon": 5.349427
+  },
+  "observation_datetime": "2026-01-30T10:37:52.151298",
+  "saved_at": "2026-01-30T10:42:05.623977"
+}

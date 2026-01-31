@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-c56202fa",
+  "patient_name": "Brigitte Boyer-Barthelemy",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.641655,
+    "lon": 1.476985
+  },
+  "observation_datetime": "2026-01-30T12:03:50.880553",
+  "saved_at": "2026-01-30T12:03:51.141442"
+}

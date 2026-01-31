@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-003901db",
+  "patient_name": "Monique Lucas-Bouvet",
+  "systolic_pressure": 104,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.370919,
+    "lon": 5.089091
+  },
+  "observation_datetime": "2026-01-30T10:55:13.482281",
+  "saved_at": "2026-01-30T10:55:13.777817"
+}

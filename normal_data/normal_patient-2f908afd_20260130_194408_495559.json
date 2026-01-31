@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2f908afd",
+  "patient_name": "Théodore Diallo",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.26191,
+    "lon": -1.556545
+  },
+  "observation_datetime": "2026-01-30T19:44:08.385620",
+  "saved_at": "2026-01-30T19:44:08.495601"
+}

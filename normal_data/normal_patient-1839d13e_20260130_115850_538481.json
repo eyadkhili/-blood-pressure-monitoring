@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-1839d13e",
+  "patient_name": "Daniel Meunier-Jourdan",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.901855,
+    "lon": 2.379125
+  },
+  "observation_datetime": "2026-01-30T11:58:50.379443",
+  "saved_at": "2026-01-30T11:58:50.538511"
+}

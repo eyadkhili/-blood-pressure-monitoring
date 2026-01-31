@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-5d841377",
+  "patient_name": "Gabriel-Denis Arnaud",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.743373,
+    "lon": 4.86348
+  },
+  "observation_datetime": "2026-01-30T10:28:35.228548",
+  "saved_at": "2026-01-30T10:28:35.393618"
+}

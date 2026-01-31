@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8e1ddc65",
+  "patient_name": "Nicolas Hardy",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.167022,
+    "lon": 5.971639
+  },
+  "observation_datetime": "2026-01-30T11:40:18.539350",
+  "saved_at": "2026-01-30T11:40:18.646047"
+}

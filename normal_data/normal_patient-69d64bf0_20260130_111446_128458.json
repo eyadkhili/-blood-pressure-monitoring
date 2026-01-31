@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-69d64bf0",
+  "patient_name": "Catherine de la Lecomte",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.80559,
+    "lon": 4.788297
+  },
+  "observation_datetime": "2026-01-30T11:14:45.777562",
+  "saved_at": "2026-01-30T11:14:46.128528"
+}

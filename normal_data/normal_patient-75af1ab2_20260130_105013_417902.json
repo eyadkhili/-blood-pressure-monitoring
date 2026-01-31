@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-75af1ab2",
+  "patient_name": "Théophile Leleu-Benard",
+  "systolic_pressure": 93,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.314652,
+    "lon": 5.33291
+  },
+  "observation_datetime": "2026-01-30T10:50:12.934270",
+  "saved_at": "2026-01-30T10:50:13.417957"
+}

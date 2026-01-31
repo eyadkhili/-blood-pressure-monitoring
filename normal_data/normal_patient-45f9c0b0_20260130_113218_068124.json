@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-45f9c0b0",
+  "patient_name": "André Lévêque",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.617322,
+    "lon": 3.877446
+  },
+  "observation_datetime": "2026-01-30T11:32:17.739667",
+  "saved_at": "2026-01-30T11:32:18.068149"
+}

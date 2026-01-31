@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-bbc05235",
+  "patient_name": "Thibault Baron",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.866094,
+    "lon": -0.53999
+  },
+  "observation_datetime": "2026-01-30T11:59:20.430284",
+  "saved_at": "2026-01-30T11:59:20.645145"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a7b16fc3",
+  "patient_name": "Anouk Wagner",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.901806,
+    "lon": 2.360655
+  },
+  "observation_datetime": "2026-01-30T11:54:49.982397",
+  "saved_at": "2026-01-30T11:54:50.294908"
+}

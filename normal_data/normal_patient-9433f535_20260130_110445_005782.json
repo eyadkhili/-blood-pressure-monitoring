@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-9433f535",
+  "patient_name": "Corinne Rolland",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.290754,
+    "lon": 5.02661
+  },
+  "observation_datetime": "2026-01-30T11:04:44.665007",
+  "saved_at": "2026-01-30T11:04:45.005849"
+}

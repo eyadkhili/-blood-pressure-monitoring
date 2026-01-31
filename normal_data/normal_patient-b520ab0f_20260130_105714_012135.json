@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b520ab0f",
+  "patient_name": "Bertrand Le Vincent",
+  "systolic_pressure": 93,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.80739,
+    "lon": 4.864508
+  },
+  "observation_datetime": "2026-01-30T10:57:13.711871",
+  "saved_at": "2026-01-30T10:57:14.012183"
+}

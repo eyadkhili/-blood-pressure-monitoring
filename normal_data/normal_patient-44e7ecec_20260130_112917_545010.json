@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-44e7ecec",
+  "patient_name": "Honoré Colin",
+  "systolic_pressure": 111,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.15236,
+    "lon": -1.687219
+  },
+  "observation_datetime": "2026-01-30T11:29:17.440306",
+  "saved_at": "2026-01-30T11:29:17.545049"
+}

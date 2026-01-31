@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b1159146",
+  "patient_name": "Émile-Marcel Marie",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.831383,
+    "lon": -0.601425
+  },
+  "observation_datetime": "2026-01-30T19:35:37.530487",
+  "saved_at": "2026-01-30T19:35:37.580455"
+}

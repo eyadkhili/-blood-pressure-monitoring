@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-d77dadfc",
+  "patient_name": "Jacqueline Meyer-Petitjean",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.642659,
+    "lon": 3.033223
+  },
+  "observation_datetime": "2026-01-30T11:10:45.332433",
+  "saved_at": "2026-01-30T11:10:45.715901"
+}

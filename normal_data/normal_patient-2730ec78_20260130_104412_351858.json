@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2730ec78",
+  "patient_name": "Alexandre Lejeune",
+  "systolic_pressure": 110,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.66424,
+    "lon": 7.255482
+  },
+  "observation_datetime": "2026-01-30T10:44:12.199163",
+  "saved_at": "2026-01-30T10:44:12.351935"
+}

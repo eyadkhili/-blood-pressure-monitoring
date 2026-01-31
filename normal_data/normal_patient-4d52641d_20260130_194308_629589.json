@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4d52641d",
+  "patient_name": "Émile Colin",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.225201,
+    "lon": 5.736142
+  },
+  "observation_datetime": "2026-01-30T19:43:08.289778",
+  "saved_at": "2026-01-30T19:43:08.629613"
+}

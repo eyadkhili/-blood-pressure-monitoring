@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-dc1bf6a3",
+  "patient_name": "Gilles Potier",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.621455,
+    "lon": 3.868713
+  },
+  "observation_datetime": "2026-01-30T11:38:18.337274",
+  "saved_at": "2026-01-30T11:38:18.758751"
+}

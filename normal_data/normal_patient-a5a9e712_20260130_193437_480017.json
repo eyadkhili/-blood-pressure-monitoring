@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a5a9e712",
+  "patient_name": "Alexandre Cohen de Bernard",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.617407,
+    "lon": 3.861924
+  },
+  "observation_datetime": "2026-01-30T19:34:37.430808",
+  "saved_at": "2026-01-30T19:34:37.480044"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-acaf17a1",
+  "patient_name": "Alix Moulin-Da Costa",
+  "systolic_pressure": 103,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.547518,
+    "lon": 7.726571
+  },
+  "observation_datetime": "2026-01-30T11:49:49.484369",
+  "saved_at": "2026-01-30T11:49:49.535395"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-068a48ec",
+  "patient_name": "Édith Chauvin",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.22196,
+    "lon": 5.74877
+  },
+  "observation_datetime": "2026-01-30T11:42:48.786258",
+  "saved_at": "2026-01-30T11:42:48.887617"
+}

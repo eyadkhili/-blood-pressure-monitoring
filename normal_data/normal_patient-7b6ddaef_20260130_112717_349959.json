@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7b6ddaef",
+  "patient_name": "Danielle du Colas",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.526343,
+    "lon": 7.747642
+  },
+  "observation_datetime": "2026-01-30T11:27:17.239100",
+  "saved_at": "2026-01-30T11:27:17.350035"
+}

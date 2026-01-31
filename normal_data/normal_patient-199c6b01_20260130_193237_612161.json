@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-199c6b01",
+  "patient_name": "Claude Le Laroche",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.723799,
+    "lon": 7.264854
+  },
+  "observation_datetime": "2026-01-30T19:32:37.231296",
+  "saved_at": "2026-01-30T19:32:37.612184"
+}

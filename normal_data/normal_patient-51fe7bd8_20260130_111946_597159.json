@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-51fe7bd8",
+  "patient_name": "Vincent de Blin",
+  "systolic_pressure": 110,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.758034,
+    "lon": 7.265693
+  },
+  "observation_datetime": "2026-01-30T11:19:46.356007",
+  "saved_at": "2026-01-30T11:19:46.597237"
+}

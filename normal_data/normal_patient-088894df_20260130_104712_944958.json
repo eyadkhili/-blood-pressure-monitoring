@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-088894df",
+  "patient_name": "Joseph Fontaine",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.233674,
+    "lon": 5.694465
+  },
+  "observation_datetime": "2026-01-30T10:47:12.570268",
+  "saved_at": "2026-01-30T10:47:12.945002"
+}

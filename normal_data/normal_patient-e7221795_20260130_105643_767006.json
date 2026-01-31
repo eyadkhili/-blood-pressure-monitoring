@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e7221795",
+  "patient_name": "Bertrand Rousset",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.442039,
+    "lon": -0.581599
+  },
+  "observation_datetime": "2026-01-30T10:56:43.648581",
+  "saved_at": "2026-01-30T10:56:43.767082"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b6edcf17",
+  "patient_name": "Alix Morin",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.668374,
+    "lon": 7.297875
+  },
+  "observation_datetime": "2026-01-30T11:52:49.782691",
+  "saved_at": "2026-01-30T11:52:49.834011"
+}

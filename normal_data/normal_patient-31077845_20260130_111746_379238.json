@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-31077845",
+  "patient_name": "Aurélie Caron",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.573893,
+    "lon": 7.7516
+  },
+  "observation_datetime": "2026-01-30T11:17:46.118334",
+  "saved_at": "2026-01-30T11:17:46.379340"
+}

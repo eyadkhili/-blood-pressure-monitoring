@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-777b6b4b",
+  "patient_name": "Alexandria Barbier",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.185433,
+    "lon": 5.690797
+  },
+  "observation_datetime": "2026-01-30T11:07:45.013568",
+  "saved_at": "2026-01-30T11:07:45.345573"
+}

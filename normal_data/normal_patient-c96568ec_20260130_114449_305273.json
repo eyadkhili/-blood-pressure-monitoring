@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-c96568ec",
+  "patient_name": "Léon Lefebvre",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.224991,
+    "lon": -1.557313
+  },
+  "observation_datetime": "2026-01-30T11:44:48.986960",
+  "saved_at": "2026-01-30T11:44:49.305302"
+}

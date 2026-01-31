@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-99b8c7f0",
+  "patient_name": "Rémy Faure",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.55725,
+    "lon": 7.730432
+  },
+  "observation_datetime": "2026-01-30T10:38:52.477245",
+  "saved_at": "2026-01-30T10:42:06.654543"
+}

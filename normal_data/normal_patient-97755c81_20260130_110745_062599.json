@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-97755c81",
+  "patient_name": "Claire Giraud",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.588807,
+    "lon": 3.015174
+  },
+  "observation_datetime": "2026-01-30T11:07:45.005110",
+  "saved_at": "2026-01-30T11:07:45.062698"
+}

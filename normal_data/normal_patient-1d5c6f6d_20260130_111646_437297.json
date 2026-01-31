@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-1d5c6f6d",
+  "patient_name": "Julien Perez de Rémy",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.810221,
+    "lon": 2.323818
+  },
+  "observation_datetime": "2026-01-30T11:16:46.006917",
+  "saved_at": "2026-01-30T11:16:46.437371"
+}

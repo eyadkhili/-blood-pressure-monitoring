@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7e3b61c3",
+  "patient_name": "Hugues Mendès",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.246781,
+    "lon": 5.353643
+  },
+  "observation_datetime": "2026-01-30T11:15:45.891694",
+  "saved_at": "2026-01-30T11:15:46.144172"
+}

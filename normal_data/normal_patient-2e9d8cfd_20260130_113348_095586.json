@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2e9d8cfd",
+  "patient_name": "Léon Bousquet",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.196246,
+    "lon": 5.690476
+  },
+  "observation_datetime": "2026-01-30T11:33:47.886049",
+  "saved_at": "2026-01-30T11:33:48.095615"
+}

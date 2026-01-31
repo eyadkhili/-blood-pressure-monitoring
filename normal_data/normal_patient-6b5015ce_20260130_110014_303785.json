@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6b5015ce",
+  "patient_name": "Laurent Blin",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.778624,
+    "lon": 4.853195
+  },
+  "observation_datetime": "2026-01-30T11:00:14.114276",
+  "saved_at": "2026-01-30T11:00:14.303876"
+}

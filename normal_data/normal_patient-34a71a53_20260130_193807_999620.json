@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-34a71a53",
+  "patient_name": "Michelle de Mathieu",
+  "systolic_pressure": 92,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.797084,
+    "lon": 4.836762
+  },
+  "observation_datetime": "2026-01-30T19:38:07.781772",
+  "saved_at": "2026-01-30T19:38:07.999653"
+}

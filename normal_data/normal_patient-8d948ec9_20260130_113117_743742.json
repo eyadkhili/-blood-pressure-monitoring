@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8d948ec9",
+  "patient_name": "Augustin Petit",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.174986,
+    "lon": -1.572884
+  },
+  "observation_datetime": "2026-01-30T11:31:17.637230",
+  "saved_at": "2026-01-30T11:31:17.743774"
+}

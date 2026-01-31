@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-fbade3a7",
+  "patient_name": "Émile Parent",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.296479,
+    "lon": 5.014491
+  },
+  "observation_datetime": "2026-01-30T11:23:16.744828",
+  "saved_at": "2026-01-30T11:23:16.937714"
+}

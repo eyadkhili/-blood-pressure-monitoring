@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2efb7909",
+  "patient_name": "Patrick Lecoq",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.165579,
+    "lon": 5.746482
+  },
+  "observation_datetime": "2026-01-30T11:52:49.782225",
+  "saved_at": "2026-01-30T11:52:49.832530"
+}

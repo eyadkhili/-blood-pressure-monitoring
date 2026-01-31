@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8e41843e",
+  "patient_name": "Édouard de Louis",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.633574,
+    "lon": 1.43986
+  },
+  "observation_datetime": "2026-01-30T11:13:15.602715",
+  "saved_at": "2026-01-30T11:13:15.787000"
+}

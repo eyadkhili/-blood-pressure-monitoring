@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3d1271fe",
+  "patient_name": "Nath Perret",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.098811,
+    "lon": 5.896175
+  },
+  "observation_datetime": "2026-01-30T11:21:16.515629",
+  "saved_at": "2026-01-30T11:21:16.575373"
+}

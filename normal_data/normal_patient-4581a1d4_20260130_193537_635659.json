@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4581a1d4",
+  "patient_name": "Josette Briand",
+  "systolic_pressure": 98,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.214621,
+    "lon": -1.557328
+  },
+  "observation_datetime": "2026-01-30T19:35:37.531421",
+  "saved_at": "2026-01-30T19:35:37.635691"
+}

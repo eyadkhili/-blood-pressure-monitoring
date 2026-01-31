@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-bcab03f3",
+  "patient_name": "Émilie Bernier",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.086403,
+    "lon": 5.898345
+  },
+  "observation_datetime": "2026-01-30T19:39:07.880620",
+  "saved_at": "2026-01-30T19:39:07.991228"
+}

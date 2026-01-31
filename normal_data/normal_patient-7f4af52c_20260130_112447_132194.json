@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7f4af52c",
+  "patient_name": "Gilbert Fournier",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.146133,
+    "lon": 5.761412
+  },
+  "observation_datetime": "2026-01-30T11:24:46.956430",
+  "saved_at": "2026-01-30T11:24:47.132244"
+}

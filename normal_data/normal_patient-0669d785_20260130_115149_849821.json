@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0669d785",
+  "patient_name": "Xavier Rocher",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.324637,
+    "lon": 5.353289
+  },
+  "observation_datetime": "2026-01-30T11:51:49.684007",
+  "saved_at": "2026-01-30T11:51:49.849861"
+}

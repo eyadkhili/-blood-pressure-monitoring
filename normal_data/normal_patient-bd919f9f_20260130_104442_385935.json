@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-bd919f9f",
+  "patient_name": "Louise Martineau",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.495334,
+    "lon": -0.520728
+  },
+  "observation_datetime": "2026-01-30T10:44:42.258023",
+  "saved_at": "2026-01-30T10:44:42.386005"
+}

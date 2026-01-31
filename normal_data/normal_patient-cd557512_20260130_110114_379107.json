@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-cd557512",
+  "patient_name": "Claude Laurent",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.119286,
+    "lon": 5.964793
+  },
+  "observation_datetime": "2026-01-30T11:01:14.228962",
+  "saved_at": "2026-01-30T11:01:14.379172"
+}

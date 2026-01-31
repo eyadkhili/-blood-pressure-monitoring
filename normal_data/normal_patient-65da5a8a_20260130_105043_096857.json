@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-65da5a8a",
+  "patient_name": "Marine Bègue",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.121189,
+    "lon": 5.952354
+  },
+  "observation_datetime": "2026-01-30T10:50:42.980427",
+  "saved_at": "2026-01-30T10:50:43.096915"
+}

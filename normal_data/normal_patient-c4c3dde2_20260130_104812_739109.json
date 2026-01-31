@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-c4c3dde2",
+  "patient_name": "Édith Guillou",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.826178,
+    "lon": 2.353138
+  },
+  "observation_datetime": "2026-01-30T10:48:12.689336",
+  "saved_at": "2026-01-30T10:48:12.739208"
+}

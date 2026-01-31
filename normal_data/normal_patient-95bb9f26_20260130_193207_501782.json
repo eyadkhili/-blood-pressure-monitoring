@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-95bb9f26",
+  "patient_name": "Antoine Pierre",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.67276,
+    "lon": 3.022928
+  },
+  "observation_datetime": "2026-01-30T19:32:07.181559",
+  "saved_at": "2026-01-30T19:32:07.501818"
+}

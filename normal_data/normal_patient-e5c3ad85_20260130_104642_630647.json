@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e5c3ad85",
+  "patient_name": "Lucas Lejeune",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.887527,
+    "lon": 2.371767
+  },
+  "observation_datetime": "2026-01-30T10:46:42.510208",
+  "saved_at": "2026-01-30T10:46:42.630840"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0718694e",
+  "patient_name": "William de Morvan",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.164299,
+    "lon": 5.727392
+  },
+  "observation_datetime": "2026-01-30T19:40:07.978549",
+  "saved_at": "2026-01-30T19:40:08.087941"
+}

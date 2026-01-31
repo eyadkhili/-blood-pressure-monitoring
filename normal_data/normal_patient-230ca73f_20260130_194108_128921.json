@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-230ca73f",
+  "patient_name": "Nicolas Lemoine",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.834163,
+    "lon": 2.383966
+  },
+  "observation_datetime": "2026-01-30T19:41:08.078267",
+  "saved_at": "2026-01-30T19:41:08.128949"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-5a7f53e4",
+  "patient_name": "Denis Gautier",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.324168,
+    "lon": 5.418795
+  },
+  "observation_datetime": "2026-01-30T10:24:04.337801",
+  "saved_at": "2026-01-30T10:24:04.471309"
+}

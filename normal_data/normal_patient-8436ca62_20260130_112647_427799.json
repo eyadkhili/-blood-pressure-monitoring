@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8436ca62",
+  "patient_name": "Louise Renaud",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.146002,
+    "lon": -1.697937
+  },
+  "observation_datetime": "2026-01-30T11:26:47.182323",
+  "saved_at": "2026-01-30T11:26:47.427868"
+}

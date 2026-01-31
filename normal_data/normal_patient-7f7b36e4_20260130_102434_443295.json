@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7f7b36e4",
+  "patient_name": "Aimé-René Pons",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.07777,
+    "lon": -1.647517
+  },
+  "observation_datetime": "2026-01-30T10:24:34.424280",
+  "saved_at": "2026-01-30T10:24:34.443396"
+}

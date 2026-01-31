@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-28ed0e8f",
+  "patient_name": "Nicole de Bouvier",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.470634,
+    "lon": -0.532019
+  },
+  "observation_datetime": "2026-01-30T11:29:17.440673",
+  "saved_at": "2026-01-30T11:29:17.546600"
+}

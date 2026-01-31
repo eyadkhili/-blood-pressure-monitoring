@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3b1a7821",
+  "patient_name": "Adrien Noël",
+  "systolic_pressure": 97,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.344526,
+    "lon": 5.350737
+  },
+  "observation_datetime": "2026-01-30T11:46:19.136180",
+  "saved_at": "2026-01-30T11:46:19.352472"
+}

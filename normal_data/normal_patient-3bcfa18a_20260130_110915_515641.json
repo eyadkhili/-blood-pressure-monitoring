@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3bcfa18a",
+  "patient_name": "Grégoire Klein",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.592029,
+    "lon": 3.083324
+  },
+  "observation_datetime": "2026-01-30T11:09:15.169487",
+  "saved_at": "2026-01-30T11:09:15.515728"
+}

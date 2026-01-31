@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-acd8f02d",
+  "patient_name": "Éric Roche Le Morvan",
+  "systolic_pressure": 98,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.327425,
+    "lon": 5.344173
+  },
+  "observation_datetime": "2026-01-30T11:40:48.588369",
+  "saved_at": "2026-01-30T11:40:48.638388"
+}

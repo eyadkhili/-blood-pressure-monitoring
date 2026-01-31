@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-32a4bb50",
+  "patient_name": "Élise Chevallier",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.097593,
+    "lon": 5.894027
+  },
+  "observation_datetime": "2026-01-30T11:59:50.479624",
+  "saved_at": "2026-01-30T11:59:50.787785"
+}

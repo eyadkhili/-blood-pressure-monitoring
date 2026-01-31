@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-feefe074",
+  "patient_name": "Anastasie Delahaye de Guillot",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.277846,
+    "lon": 5.031115
+  },
+  "observation_datetime": "2026-01-30T10:53:43.311559",
+  "saved_at": "2026-01-30T10:53:43.366700"
+}

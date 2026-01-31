@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e064c547",
+  "patient_name": "Martin Techer",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.81282,
+    "lon": 4.824589
+  },
+  "observation_datetime": "2026-01-30T11:11:15.381632",
+  "saved_at": "2026-01-30T11:11:15.433799"
+}

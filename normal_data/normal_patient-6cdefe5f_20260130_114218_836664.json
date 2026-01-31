@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6cdefe5f",
+  "patient_name": "Nathalie-Christiane Mendès",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.68338,
+    "lon": 7.298917
+  },
+  "observation_datetime": "2026-01-30T11:42:18.736564",
+  "saved_at": "2026-01-30T11:42:18.836690"
+}

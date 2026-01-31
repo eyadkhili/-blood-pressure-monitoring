@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-699e9556",
+  "patient_name": "Antoinette Poulain-Ledoux",
+  "systolic_pressure": 93,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.567808,
+    "lon": 1.446351
+  },
+  "observation_datetime": "2026-01-30T11:32:17.739186",
+  "saved_at": "2026-01-30T11:32:18.067009"
+}

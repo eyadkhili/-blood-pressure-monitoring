@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-70a2d78c",
+  "patient_name": "François Morel",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.274616,
+    "lon": 5.362507
+  },
+  "observation_datetime": "2026-01-30T10:35:21.680446",
+  "saved_at": "2026-01-30T10:42:04.131137"
+}

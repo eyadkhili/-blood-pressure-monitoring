@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-1110c1c6",
+  "patient_name": "Margaret du Fernandes",
+  "systolic_pressure": 93,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.649393,
+    "lon": 1.472574
+  },
+  "observation_datetime": "2026-01-30T11:03:44.538845",
+  "saved_at": "2026-01-30T11:03:44.611955"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a3a0875a",
+  "patient_name": "Mathilde Girard",
+  "systolic_pressure": 110,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.87077,
+    "lon": -0.582501
+  },
+  "observation_datetime": "2026-01-30T11:32:17.738669",
+  "saved_at": "2026-01-30T11:32:18.065503"
+}

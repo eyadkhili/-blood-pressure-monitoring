@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-d7a535cc",
+  "patient_name": "Lucas Philippe",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.824802,
+    "lon": -0.532548
+  },
+  "observation_datetime": "2026-01-30T11:48:49.385807",
+  "saved_at": "2026-01-30T11:48:49.696062"
+}

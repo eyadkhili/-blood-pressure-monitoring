@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-9f4dae4f",
+  "patient_name": "Patricia Royer",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.197901,
+    "lon": 5.759686
+  },
+  "observation_datetime": "2026-01-30T10:25:34.651897",
+  "saved_at": "2026-01-30T10:25:35.040514"
+}

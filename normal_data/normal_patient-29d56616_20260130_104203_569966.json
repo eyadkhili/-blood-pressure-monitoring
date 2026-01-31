@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-29d56616",
+  "patient_name": "Gabrielle Jacquot",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.434003,
+    "lon": -0.559201
+  },
+  "observation_datetime": "2026-01-30T10:34:21.490525",
+  "saved_at": "2026-01-30T10:42:03.570075"
+}

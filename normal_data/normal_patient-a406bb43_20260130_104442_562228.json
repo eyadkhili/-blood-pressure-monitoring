@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a406bb43",
+  "patient_name": "Geneviève Roy",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.539164,
+    "lon": 7.737205
+  },
+  "observation_datetime": "2026-01-30T10:44:42.264256",
+  "saved_at": "2026-01-30T10:44:42.562264"
+}

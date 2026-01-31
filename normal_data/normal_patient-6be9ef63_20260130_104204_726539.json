@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6be9ef63",
+  "patient_name": "Thibault Delattre",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.310607,
+    "lon": 5.08337
+  },
+  "observation_datetime": "2026-01-30T10:36:21.889690",
+  "saved_at": "2026-01-30T10:42:04.726602"
+}

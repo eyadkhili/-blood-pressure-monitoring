@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-9d891ed3",
+  "patient_name": "Juliette Lombard",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.642731,
+    "lon": 1.464384
+  },
+  "observation_datetime": "2026-01-30T12:04:20.928444",
+  "saved_at": "2026-01-30T12:04:20.980882"
+}

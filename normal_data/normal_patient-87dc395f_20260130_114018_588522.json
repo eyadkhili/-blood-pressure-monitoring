@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-87dc395f",
+  "patient_name": "Michel Labbé",
+  "systolic_pressure": 110,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.753563,
+    "lon": 7.282326
+  },
+  "observation_datetime": "2026-01-30T11:40:18.537695",
+  "saved_at": "2026-01-30T11:40:18.588554"
+}

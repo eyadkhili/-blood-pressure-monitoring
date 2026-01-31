@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4bb61dc0",
+  "patient_name": "Raymond du Lefèvre",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.726738,
+    "lon": 7.287011
+  },
+  "observation_datetime": "2026-01-30T11:00:14.108779",
+  "saved_at": "2026-01-30T11:00:14.166855"
+}

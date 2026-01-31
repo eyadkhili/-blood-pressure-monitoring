@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-97690fb5",
+  "patient_name": "Stéphane Diaz",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.27942,
+    "lon": 5.357323
+  },
+  "observation_datetime": "2026-01-30T10:49:12.796507",
+  "saved_at": "2026-01-30T10:49:12.938905"
+}

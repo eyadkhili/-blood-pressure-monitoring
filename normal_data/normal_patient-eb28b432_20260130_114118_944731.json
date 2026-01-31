@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-eb28b432",
+  "patient_name": "Marcelle Pichon",
+  "systolic_pressure": 93,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.801868,
+    "lon": -0.582542
+  },
+  "observation_datetime": "2026-01-30T11:41:18.639521",
+  "saved_at": "2026-01-30T11:41:18.944769"
+}

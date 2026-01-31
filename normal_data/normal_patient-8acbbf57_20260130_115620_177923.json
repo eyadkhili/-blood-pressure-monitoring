@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8acbbf57",
+  "patient_name": "Patricia-Valérie Vallet",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.839237,
+    "lon": -0.599564
+  },
+  "observation_datetime": "2026-01-30T11:56:20.128820",
+  "saved_at": "2026-01-30T11:56:20.177951"
+}

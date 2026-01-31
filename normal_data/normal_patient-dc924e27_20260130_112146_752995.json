@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-dc924e27",
+  "patient_name": "Charles Pons du Perret",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.109333,
+    "lon": -1.643385
+  },
+  "observation_datetime": "2026-01-30T11:21:46.571174",
+  "saved_at": "2026-01-30T11:21:46.753062"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b8d0cfda",
+  "patient_name": "Vincent Da Silva-Antoine",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.156525,
+    "lon": 5.756412
+  },
+  "observation_datetime": "2026-01-30T11:38:48.386619",
+  "saved_at": "2026-01-30T11:38:48.600419"
+}

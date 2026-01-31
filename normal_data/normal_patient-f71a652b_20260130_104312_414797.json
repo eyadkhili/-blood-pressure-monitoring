@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f71a652b",
+  "patient_name": "Nathalie Le Lemoine",
+  "systolic_pressure": 98,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.109941,
+    "lon": -1.677927
+  },
+  "observation_datetime": "2026-01-30T10:43:12.094347",
+  "saved_at": "2026-01-30T10:43:12.414844"
+}

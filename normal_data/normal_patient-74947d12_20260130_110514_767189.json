@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-74947d12",
+  "patient_name": "Thérèse Martin",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.819302,
+    "lon": 2.375005
+  },
+  "observation_datetime": "2026-01-30T11:05:14.716015",
+  "saved_at": "2026-01-30T11:05:14.767255"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-28c7693a",
+  "patient_name": "Arnaude Briand",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.15648,
+    "lon": 5.760972
+  },
+  "observation_datetime": "2026-01-30T10:46:42.515038",
+  "saved_at": "2026-01-30T10:46:42.816273"
+}

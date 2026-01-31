@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-18bc6746",
+  "patient_name": "Anaïs Perrot",
+  "systolic_pressure": 111,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.610625,
+    "lon": 3.039698
+  },
+  "observation_datetime": "2026-01-30T11:07:14.934553",
+  "saved_at": "2026-01-30T11:07:15.011722"
+}

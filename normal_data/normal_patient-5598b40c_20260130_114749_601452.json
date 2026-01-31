@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-5598b40c",
+  "patient_name": "Élise Lévy",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.286802,
+    "lon": 5.059856
+  },
+  "observation_datetime": "2026-01-30T11:47:49.286414",
+  "saved_at": "2026-01-30T11:47:49.601480"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e87bba24",
+  "patient_name": "Astrid Rousseau",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.198019,
+    "lon": -1.530268
+  },
+  "observation_datetime": "2026-01-30T19:34:07.384982",
+  "saved_at": "2026-01-30T19:34:07.799777"
+}

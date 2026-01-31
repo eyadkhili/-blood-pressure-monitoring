@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ae0c329a",
+  "patient_name": "Julie Moulin",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.58665,
+    "lon": 3.07713
+  },
+  "observation_datetime": "2026-01-30T12:04:50.979459",
+  "saved_at": "2026-01-30T12:04:51.084920"
+}

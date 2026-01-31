@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b8889799",
+  "patient_name": "Cécile Fleury",
+  "systolic_pressure": 93,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.775256,
+    "lon": 4.819671
+  },
+  "observation_datetime": "2026-01-30T11:01:14.234394",
+  "saved_at": "2026-01-30T11:01:14.450993"
+}

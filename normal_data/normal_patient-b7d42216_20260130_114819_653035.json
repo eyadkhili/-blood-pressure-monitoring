@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b7d42216",
+  "patient_name": "Geneviève Bouvet",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.367034,
+    "lon": 5.011945
+  },
+  "observation_datetime": "2026-01-30T11:48:19.336728",
+  "saved_at": "2026-01-30T11:48:19.653073"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0fb4a8e9",
+  "patient_name": "Zoé Klein",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.757596,
+    "lon": 4.818153
+  },
+  "observation_datetime": "2026-01-30T11:05:14.716437",
+  "saved_at": "2026-01-30T11:05:14.769725"
+}

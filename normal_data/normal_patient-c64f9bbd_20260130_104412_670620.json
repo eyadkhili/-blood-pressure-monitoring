@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-c64f9bbd",
+  "patient_name": "Éléonore Roux",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.292739,
+    "lon": 5.41766
+  },
+  "observation_datetime": "2026-01-30T10:44:12.208089",
+  "saved_at": "2026-01-30T10:44:12.670719"
+}

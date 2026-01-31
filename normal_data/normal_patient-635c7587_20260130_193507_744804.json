@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-635c7587",
+  "patient_name": "Honoré Cousin",
+  "systolic_pressure": 93,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.801259,
+    "lon": -0.530975
+  },
+  "observation_datetime": "2026-01-30T19:35:07.482566",
+  "saved_at": "2026-01-30T19:35:07.744838"
+}

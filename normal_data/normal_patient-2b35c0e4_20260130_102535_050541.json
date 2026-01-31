@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2b35c0e4",
+  "patient_name": "Dorothée Jean-Brunet",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.155176,
+    "lon": 5.954587
+  },
+  "observation_datetime": "2026-01-30T10:25:34.659301",
+  "saved_at": "2026-01-30T10:25:35.050599"
+}

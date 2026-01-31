@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e9898ea2",
+  "patient_name": "Henriette Laine",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.609972,
+    "lon": 1.437923
+  },
+  "observation_datetime": "2026-01-30T10:45:12.318108",
+  "saved_at": "2026-01-30T10:45:12.400355"
+}

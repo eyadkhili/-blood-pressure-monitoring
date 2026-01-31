@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b218b2a4",
+  "patient_name": "Martin-Benoît Pottier",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.750788,
+    "lon": 4.846455
+  },
+  "observation_datetime": "2026-01-30T10:23:34.217770",
+  "saved_at": "2026-01-30T10:23:34.940206"
+}

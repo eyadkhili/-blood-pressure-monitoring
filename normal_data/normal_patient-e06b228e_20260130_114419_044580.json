@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e06b228e",
+  "patient_name": "Léon-René Carre",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.322313,
+    "lon": 5.016283
+  },
+  "observation_datetime": "2026-01-30T11:44:18.936934",
+  "saved_at": "2026-01-30T11:44:19.044612"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-c452153c",
+  "patient_name": "Alphonse Vallet",
+  "systolic_pressure": 97,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.848668,
+    "lon": 2.397275
+  },
+  "observation_datetime": "2026-01-30T11:06:44.879647",
+  "saved_at": "2026-01-30T11:06:45.055851"
+}

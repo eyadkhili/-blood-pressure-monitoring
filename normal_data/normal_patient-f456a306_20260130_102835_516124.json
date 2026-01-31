@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f456a306",
+  "patient_name": "Alfred Grégoire-Martinez",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.620668,
+    "lon": 3.871352
+  },
+  "observation_datetime": "2026-01-30T10:28:35.273678",
+  "saved_at": "2026-01-30T10:28:35.516205"
+}

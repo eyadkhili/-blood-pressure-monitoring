@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3ac33620",
+  "patient_name": "Agnès Giraud",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.156554,
+    "lon": 5.695384
+  },
+  "observation_datetime": "2026-01-30T10:58:43.899241",
+  "saved_at": "2026-01-30T10:58:44.148262"
+}

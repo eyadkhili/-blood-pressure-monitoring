@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f4f6864b",
+  "patient_name": "Thibaut David-Nicolas",
+  "systolic_pressure": 111,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.284845,
+    "lon": 5.014297
+  },
+  "observation_datetime": "2026-01-30T10:24:04.379464",
+  "saved_at": "2026-01-30T10:24:04.594024"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8afcd468",
+  "patient_name": "Philippine Alexandre",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.5323,
+    "lon": 7.719997
+  },
+  "observation_datetime": "2026-01-30T19:31:07.042495",
+  "saved_at": "2026-01-30T19:31:07.199021"
+}

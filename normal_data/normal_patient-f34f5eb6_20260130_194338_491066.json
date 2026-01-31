@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f34f5eb6",
+  "patient_name": "Jacqueline Bourdon",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.558752,
+    "lon": 7.738789
+  },
+  "observation_datetime": "2026-01-30T19:43:38.338107",
+  "saved_at": "2026-01-30T19:43:38.491101"
+}

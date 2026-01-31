@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6eb124b4",
+  "patient_name": "Franck Tanguy",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.485543,
+    "lon": -0.534706
+  },
+  "observation_datetime": "2026-01-30T11:54:49.981916",
+  "saved_at": "2026-01-30T11:54:50.242626"
+}

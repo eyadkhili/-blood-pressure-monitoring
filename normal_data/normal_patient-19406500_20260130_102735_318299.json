@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-19406500",
+  "patient_name": "Daniel Le Roux",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.587418,
+    "lon": 3.885141
+  },
+  "observation_datetime": "2026-01-30T10:27:35.122798",
+  "saved_at": "2026-01-30T10:27:35.318373"
+}

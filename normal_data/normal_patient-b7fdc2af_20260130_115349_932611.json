@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b7fdc2af",
+  "patient_name": "Charles Mahe-Meunier",
+  "systolic_pressure": 97,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.163287,
+    "lon": 5.750706
+  },
+  "observation_datetime": "2026-01-30T11:53:49.882581",
+  "saved_at": "2026-01-30T11:53:49.932642"
+}

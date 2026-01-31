@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-632a0444",
+  "patient_name": "Antoine du Dijoux",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.181091,
+    "lon": -1.545795
+  },
+  "observation_datetime": "2026-01-30T11:46:19.135492",
+  "saved_at": "2026-01-30T11:46:19.350297"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-9d91e75a",
+  "patient_name": "Grégoire Fabre",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.792656,
+    "lon": -0.547857
+  },
+  "observation_datetime": "2026-01-30T11:13:45.671086",
+  "saved_at": "2026-01-30T11:13:46.008155"
+}

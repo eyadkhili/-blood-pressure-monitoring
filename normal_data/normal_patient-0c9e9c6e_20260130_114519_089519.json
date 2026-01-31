@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0c9e9c6e",
+  "patient_name": "Laure Rey",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.570416,
+    "lon": 3.904836
+  },
+  "observation_datetime": "2026-01-30T11:45:19.037359",
+  "saved_at": "2026-01-30T11:45:19.089546"
+}

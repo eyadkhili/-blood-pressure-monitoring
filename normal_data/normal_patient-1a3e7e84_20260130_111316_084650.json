@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-1a3e7e84",
+  "patient_name": "Isaac Julien",
+  "systolic_pressure": 104,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.432987,
+    "lon": -0.56362
+  },
+  "observation_datetime": "2026-01-30T11:13:15.607845",
+  "saved_at": "2026-01-30T11:13:16.084705"
+}

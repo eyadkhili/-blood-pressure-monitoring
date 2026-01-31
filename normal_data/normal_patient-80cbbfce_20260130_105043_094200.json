@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-80cbbfce",
+  "patient_name": "Arthur Brunet",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.854195,
+    "lon": 2.399172
+  },
+  "observation_datetime": "2026-01-30T10:50:42.979899",
+  "saved_at": "2026-01-30T10:50:43.094255"
+}

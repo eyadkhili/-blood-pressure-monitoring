@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2c9f3269",
+  "patient_name": "Jacques Gauthier-Andre",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.596789,
+    "lon": 1.425032
+  },
+  "observation_datetime": "2026-01-30T11:42:18.738635",
+  "saved_at": "2026-01-30T11:42:19.100487"
+}

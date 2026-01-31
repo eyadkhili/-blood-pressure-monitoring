@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b80c7ecc",
+  "patient_name": "Denise Bègue",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.22097,
+    "lon": -1.514106
+  },
+  "observation_datetime": "2026-01-30T10:50:42.981603",
+  "saved_at": "2026-01-30T10:50:43.160292"
+}

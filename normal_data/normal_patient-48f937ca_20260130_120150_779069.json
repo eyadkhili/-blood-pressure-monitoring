@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-48f937ca",
+  "patient_name": "Louise Carre",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.818295,
+    "lon": -0.602588
+  },
+  "observation_datetime": "2026-01-30T12:01:50.677777",
+  "saved_at": "2026-01-30T12:01:50.779094"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-71f66f74",
+  "patient_name": "Alphonse Lopes",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.359583,
+    "lon": 5.04145
+  },
+  "observation_datetime": "2026-01-30T10:23:34.237956",
+  "saved_at": "2026-01-30T10:23:34.942122"
+}

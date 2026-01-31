@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b49390cd",
+  "patient_name": "Alexandrie Faure",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.205496,
+    "lon": -1.561154
+  },
+  "observation_datetime": "2026-01-30T10:46:12.451530",
+  "saved_at": "2026-01-30T10:46:12.647815"
+}

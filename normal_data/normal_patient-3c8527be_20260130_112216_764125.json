@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3c8527be",
+  "patient_name": "Nath Philippe",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.829356,
+    "lon": 2.366901
+  },
+  "observation_datetime": "2026-01-30T11:22:16.629372",
+  "saved_at": "2026-01-30T11:22:16.764211"
+}

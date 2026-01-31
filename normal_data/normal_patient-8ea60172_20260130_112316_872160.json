@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8ea60172",
+  "patient_name": "Jeannine de la Traore",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.357351,
+    "lon": 5.000483
+  },
+  "observation_datetime": "2026-01-30T11:23:16.743933",
+  "saved_at": "2026-01-30T11:23:16.872239"
+}

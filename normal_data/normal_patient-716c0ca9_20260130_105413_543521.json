@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-716c0ca9",
+  "patient_name": "Honoré Barbe",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.168809,
+    "lon": 5.773874
+  },
+  "observation_datetime": "2026-01-30T10:54:13.367012",
+  "saved_at": "2026-01-30T10:54:13.543576"
+}

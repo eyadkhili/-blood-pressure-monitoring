@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8a314add",
+  "patient_name": "Gilbert Benoit",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.606314,
+    "lon": 3.085537
+  },
+  "observation_datetime": "2026-01-30T11:51:49.683449",
+  "saved_at": "2026-01-30T11:51:49.794992"
+}

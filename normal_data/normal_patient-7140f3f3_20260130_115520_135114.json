@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7140f3f3",
+  "patient_name": "Victor Pinto",
+  "systolic_pressure": 98,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.625982,
+    "lon": 3.894656
+  },
+  "observation_datetime": "2026-01-30T11:55:20.028401",
+  "saved_at": "2026-01-30T11:55:20.135144"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-d4ececc2",
+  "patient_name": "Anne Pires",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.830719,
+    "lon": -0.581705
+  },
+  "observation_datetime": "2026-01-30T12:04:50.980051",
+  "saved_at": "2026-01-30T12:04:51.137379"
+}

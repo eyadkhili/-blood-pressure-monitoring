@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-9862ea77",
+  "patient_name": "Aurore Maury",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.704686,
+    "lon": 7.268367
+  },
+  "observation_datetime": "2026-01-30T10:36:52.022426",
+  "saved_at": "2026-01-30T10:42:05.250568"
+}

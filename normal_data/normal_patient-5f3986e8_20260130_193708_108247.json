@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-5f3986e8",
+  "patient_name": "Raymond-Raymond Voisin",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.657068,
+    "lon": 3.897714
+  },
+  "observation_datetime": "2026-01-30T19:37:07.681329",
+  "saved_at": "2026-01-30T19:37:08.108269"
+}

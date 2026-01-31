@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a373e80d",
+  "patient_name": "Robert Pelletier",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.621895,
+    "lon": 7.771495
+  },
+  "observation_datetime": "2026-01-30T10:34:51.583052",
+  "saved_at": "2026-01-30T10:42:03.882651"
+}

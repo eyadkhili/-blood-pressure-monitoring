@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3c3f35e0",
+  "patient_name": "Sébastien-Philippe Maillard",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.595604,
+    "lon": 3.911583
+  },
+  "observation_datetime": "2026-01-30T11:47:49.285757",
+  "saved_at": "2026-01-30T11:47:49.547220"
+}

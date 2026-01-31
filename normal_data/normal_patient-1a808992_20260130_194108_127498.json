@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-1a808992",
+  "patient_name": "Marguerite-Océane Samson",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.105892,
+    "lon": 5.965282
+  },
+  "observation_datetime": "2026-01-30T19:41:08.077778",
+  "saved_at": "2026-01-30T19:41:08.127529"
+}

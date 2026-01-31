@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-d0e8a4e2",
+  "patient_name": "Frédérique-Frédérique Clément",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.61859,
+    "lon": 7.768712
+  },
+  "observation_datetime": "2026-01-30T10:27:04.990634",
+  "saved_at": "2026-01-30T10:27:05.235098"
+}

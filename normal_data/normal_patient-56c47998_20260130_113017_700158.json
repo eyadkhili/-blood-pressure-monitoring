@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-56c47998",
+  "patient_name": "Alphonse Courtois-Renard",
+  "systolic_pressure": 103,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.164714,
+    "lon": 5.926001
+  },
+  "observation_datetime": "2026-01-30T11:30:17.539611",
+  "saved_at": "2026-01-30T11:30:17.700186"
+}

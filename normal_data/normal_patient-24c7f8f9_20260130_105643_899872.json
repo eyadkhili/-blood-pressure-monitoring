@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-24c7f8f9",
+  "patient_name": "Anne Le Étienne",
+  "systolic_pressure": 92,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.866636,
+    "lon": -0.531674
+  },
+  "observation_datetime": "2026-01-30T10:56:43.651426",
+  "saved_at": "2026-01-30T10:56:43.899957"
+}

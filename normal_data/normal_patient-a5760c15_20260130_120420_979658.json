@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a5760c15",
+  "patient_name": "Jérôme-Eugène Henry",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.662434,
+    "lon": 3.076565
+  },
+  "observation_datetime": "2026-01-30T12:04:20.928144",
+  "saved_at": "2026-01-30T12:04:20.979689"
+}

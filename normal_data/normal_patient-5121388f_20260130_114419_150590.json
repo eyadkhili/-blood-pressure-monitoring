@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-5121388f",
+  "patient_name": "Nath Riou",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.623158,
+    "lon": 3.854086
+  },
+  "observation_datetime": "2026-01-30T11:44:18.937907",
+  "saved_at": "2026-01-30T11:44:19.150631"
+}

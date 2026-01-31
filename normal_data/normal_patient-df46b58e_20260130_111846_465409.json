@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-df46b58e",
+  "patient_name": "Noël Arnaud",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.365248,
+    "lon": 5.036321
+  },
+  "observation_datetime": "2026-01-30T11:18:46.240203",
+  "saved_at": "2026-01-30T11:18:46.465507"
+}

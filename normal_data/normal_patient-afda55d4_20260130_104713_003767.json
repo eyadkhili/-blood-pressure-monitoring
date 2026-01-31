@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-afda55d4",
+  "patient_name": "Arnaude Andre de la Lopez",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.584453,
+    "lon": 7.767559
+  },
+  "observation_datetime": "2026-01-30T10:47:12.576389",
+  "saved_at": "2026-01-30T10:47:13.003819"
+}

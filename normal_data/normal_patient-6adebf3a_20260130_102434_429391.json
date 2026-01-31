@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6adebf3a",
+  "patient_name": "Chantal-Françoise Poirier",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.118085,
+    "lon": -1.698196
+  },
+  "observation_datetime": "2026-01-30T10:24:34.412767",
+  "saved_at": "2026-01-30T10:24:34.429465"
+}

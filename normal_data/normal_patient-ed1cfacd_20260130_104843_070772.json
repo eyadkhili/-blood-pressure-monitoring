@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ed1cfacd",
+  "patient_name": "Jérôme Maréchal",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.525835,
+    "lon": 7.782343
+  },
+  "observation_datetime": "2026-01-30T10:48:42.745192",
+  "saved_at": "2026-01-30T10:48:43.070998"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-45c20c12",
+  "patient_name": "Maryse Dupont",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.610546,
+    "lon": 7.726363
+  },
+  "observation_datetime": "2026-01-30T10:44:12.204304",
+  "saved_at": "2026-01-30T10:44:12.552986"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-207a1439",
+  "patient_name": "Nicolas Gautier",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.254838,
+    "lon": 5.342631
+  },
+  "observation_datetime": "2026-01-30T11:45:19.036105",
+  "saved_at": "2026-01-30T11:45:19.085684"
+}

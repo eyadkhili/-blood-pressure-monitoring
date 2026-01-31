@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ea89517d",
+  "patient_name": "Stéphane Gauthier",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.735419,
+    "lon": 4.838345
+  },
+  "observation_datetime": "2026-01-30T10:48:42.743760",
+  "saved_at": "2026-01-30T10:48:42.995831"
+}

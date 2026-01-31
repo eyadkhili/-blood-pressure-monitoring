@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-fe888948",
+  "patient_name": "Nathalie-Bernadette Meunier",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.184747,
+    "lon": 5.69742
+  },
+  "observation_datetime": "2026-01-30T11:01:14.229896",
+  "saved_at": "2026-01-30T11:01:14.381848"
+}

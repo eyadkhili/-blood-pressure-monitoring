@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4fc1ae3d",
+  "patient_name": "Honoré Hernandez",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.584924,
+    "lon": 1.424726
+  },
+  "observation_datetime": "2026-01-30T10:30:35.599073",
+  "saved_at": "2026-01-30T10:30:35.609257"
+}

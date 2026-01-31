@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-d459071a",
+  "patient_name": "Emmanuel Bouvier de la Lenoir",
+  "systolic_pressure": 97,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.459628,
+    "lon": -0.539212
+  },
+  "observation_datetime": "2026-01-30T19:41:38.129496",
+  "saved_at": "2026-01-30T19:41:38.295937"
+}

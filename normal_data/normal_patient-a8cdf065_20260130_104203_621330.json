@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a8cdf065",
+  "patient_name": "Maggie Costa",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.75825,
+    "lon": 7.278447
+  },
+  "observation_datetime": "2026-01-30T10:34:21.508217",
+  "saved_at": "2026-01-30T10:42:03.621391"
+}

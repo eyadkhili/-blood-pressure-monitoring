@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2b5967f6",
+  "patient_name": "Madeleine Moreno",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.193863,
+    "lon": 5.722171
+  },
+  "observation_datetime": "2026-01-30T10:55:43.541607",
+  "saved_at": "2026-01-30T10:55:43.799032"
+}

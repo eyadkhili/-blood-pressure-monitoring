@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-fbe8e234",
+  "patient_name": "Françoise Baudry",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.636824,
+    "lon": 3.036171
+  },
+  "observation_datetime": "2026-01-30T11:20:46.461550",
+  "saved_at": "2026-01-30T11:20:46.515487"
+}

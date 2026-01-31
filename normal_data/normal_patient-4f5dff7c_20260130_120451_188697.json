@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4f5dff7c",
+  "patient_name": "Daniel Fleury",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.140855,
+    "lon": -1.708404
+  },
+  "observation_datetime": "2026-01-30T12:04:50.980433",
+  "saved_at": "2026-01-30T12:04:51.188734"
+}

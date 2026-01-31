@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7f250f13",
+  "patient_name": "Manon Goncalves",
+  "systolic_pressure": 98,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.614572,
+    "lon": 1.481582
+  },
+  "observation_datetime": "2026-01-30T11:16:15.955806",
+  "saved_at": "2026-01-30T11:16:16.385510"
+}

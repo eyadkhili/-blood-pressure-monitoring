@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0df78725",
+  "patient_name": "Théodore Courtois",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.578686,
+    "lon": 1.429964
+  },
+  "observation_datetime": "2026-01-30T19:31:37.127252",
+  "saved_at": "2026-01-30T19:31:37.284122"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-5cec02ae",
+  "patient_name": "Benjamin Vasseur",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.498073,
+    "lon": -0.523616
+  },
+  "observation_datetime": "2026-01-30T11:39:18.435729",
+  "saved_at": "2026-01-30T11:39:18.485512"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-785d6952",
+  "patient_name": "Monique Martineau de Munoz",
+  "systolic_pressure": 92,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.51865,
+    "lon": -0.610112
+  },
+  "observation_datetime": "2026-01-30T10:26:04.726395",
+  "saved_at": "2026-01-30T10:26:04.960610"
+}

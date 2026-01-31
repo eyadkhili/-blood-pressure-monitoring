@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0ac7b15c",
+  "patient_name": "Adrien Pereira-Albert",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.585873,
+    "lon": 3.886165
+  },
+  "observation_datetime": "2026-01-30T10:56:13.595576",
+  "saved_at": "2026-01-30T10:56:13.646992"
+}

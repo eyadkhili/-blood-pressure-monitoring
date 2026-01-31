@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e6e3acf6",
+  "patient_name": "Laurent Riou",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.148776,
+    "lon": 5.92259
+  },
+  "observation_datetime": "2026-01-30T19:43:08.289050",
+  "saved_at": "2026-01-30T19:43:08.566872"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-65df1b22",
+  "patient_name": "Isaac Petit",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.461827,
+    "lon": -0.524667
+  },
+  "observation_datetime": "2026-01-30T11:59:20.428576",
+  "saved_at": "2026-01-30T11:59:20.532512"
+}

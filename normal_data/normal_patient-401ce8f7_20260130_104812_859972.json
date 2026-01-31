@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-401ce8f7",
+  "patient_name": "Émilie-Dominique Collet",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.290581,
+    "lon": 5.331163
+  },
+  "observation_datetime": "2026-01-30T10:48:12.690909",
+  "saved_at": "2026-01-30T10:48:12.860026"
+}

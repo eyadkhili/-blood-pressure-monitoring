@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-db67060f",
+  "patient_name": "Frédérique Millet",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.641457,
+    "lon": 3.053912
+  },
+  "observation_datetime": "2026-01-30T11:45:19.038130",
+  "saved_at": "2026-01-30T11:45:19.091739"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-d6c976cd",
+  "patient_name": "Claire Salmon",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.274674,
+    "lon": 5.366508
+  },
+  "observation_datetime": "2026-01-30T10:31:35.738760",
+  "saved_at": "2026-01-30T10:31:35.971190"
+}

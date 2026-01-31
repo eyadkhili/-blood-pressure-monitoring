@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2fdffd6b",
+  "patient_name": "Élise Pages",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.735809,
+    "lon": 7.218597
+  },
+  "observation_datetime": "2026-01-30T19:32:07.180997",
+  "saved_at": "2026-01-30T19:32:07.446512"
+}

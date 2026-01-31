@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-cbb6f9c6",
+  "patient_name": "Marine Martin",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.819895,
+    "lon": 2.392435
+  },
+  "observation_datetime": "2026-01-30T11:03:44.537601",
+  "saved_at": "2026-01-30T11:03:44.609232"
+}

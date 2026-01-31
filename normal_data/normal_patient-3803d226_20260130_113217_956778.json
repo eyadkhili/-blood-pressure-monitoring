@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3803d226",
+  "patient_name": "Philippe Colin de la Marchand",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.626333,
+    "lon": 3.080693
+  },
+  "observation_datetime": "2026-01-30T11:32:17.737664",
+  "saved_at": "2026-01-30T11:32:17.956814"
+}

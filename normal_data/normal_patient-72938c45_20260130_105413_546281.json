@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-72938c45",
+  "patient_name": "Gérard Wagner",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.487599,
+    "lon": -0.575004
+  },
+  "observation_datetime": "2026-01-30T10:54:13.367511",
+  "saved_at": "2026-01-30T10:54:13.546360"
+}

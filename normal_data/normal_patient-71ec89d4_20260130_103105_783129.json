@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-71ec89d4",
+  "patient_name": "Hortense Voisin",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.119211,
+    "lon": 5.953688
+  },
+  "observation_datetime": "2026-01-30T10:31:05.671203",
+  "saved_at": "2026-01-30T10:31:05.783167"
+}

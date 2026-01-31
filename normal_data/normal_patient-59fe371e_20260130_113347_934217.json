@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-59fe371e",
+  "patient_name": "Andrée Poirier-Petit",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.285031,
+    "lon": 5.328453
+  },
+  "observation_datetime": "2026-01-30T11:33:47.884804",
+  "saved_at": "2026-01-30T11:33:47.934257"
+}

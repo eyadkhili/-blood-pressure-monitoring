@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-12b8a76e",
+  "patient_name": "Claire Gilbert",
+  "systolic_pressure": 103,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.830139,
+    "lon": -0.590048
+  },
+  "observation_datetime": "2026-01-30T19:42:38.233868",
+  "saved_at": "2026-01-30T19:42:38.446815"
+}

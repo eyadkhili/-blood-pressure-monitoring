@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7bb6baaf",
+  "patient_name": "Manon Pinto",
+  "systolic_pressure": 92,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.132935,
+    "lon": 5.918717
+  },
+  "observation_datetime": "2026-01-30T10:46:12.454828",
+  "saved_at": "2026-01-30T10:46:12.801830"
+}

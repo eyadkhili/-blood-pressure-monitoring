@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-69ead31b",
+  "patient_name": "Honoré Hamon",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.814021,
+    "lon": 2.366938
+  },
+  "observation_datetime": "2026-01-30T11:26:47.179513",
+  "saved_at": "2026-01-30T11:26:47.301931"
+}

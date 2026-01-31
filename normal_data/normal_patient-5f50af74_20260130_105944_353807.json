@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-5f50af74",
+  "patient_name": "Alfred Jacquot-Blondel",
+  "systolic_pressure": 110,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.820491,
+    "lon": 2.32257
+  },
+  "observation_datetime": "2026-01-30T10:59:44.029181",
+  "saved_at": "2026-01-30T10:59:44.353906"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f63c1578",
+  "patient_name": "William Rossi",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.629632,
+    "lon": 3.840419
+  },
+  "observation_datetime": "2026-01-30T10:23:34.151277",
+  "saved_at": "2026-01-30T10:23:34.757740"
+}

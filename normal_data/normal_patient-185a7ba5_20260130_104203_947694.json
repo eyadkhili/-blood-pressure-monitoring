@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-185a7ba5",
+  "patient_name": "Thierry-Pierre Moulin",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.20261,
+    "lon": 5.714243
+  },
+  "observation_datetime": "2026-01-30T10:34:51.606721",
+  "saved_at": "2026-01-30T10:42:03.947751"
+}

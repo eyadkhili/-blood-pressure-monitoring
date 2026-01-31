@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-207531a2",
+  "patient_name": "Virginie Menard",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.333751,
+    "lon": 5.033624
+  },
+  "observation_datetime": "2026-01-30T10:40:22.658005",
+  "saved_at": "2026-01-30T10:42:07.167268"
+}

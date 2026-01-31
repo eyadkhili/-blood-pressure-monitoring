@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-94e767ec",
+  "patient_name": "Michèle Pires",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.134177,
+    "lon": -1.669075
+  },
+  "observation_datetime": "2026-01-30T10:34:51.566237",
+  "saved_at": "2026-01-30T10:42:03.878589"
+}

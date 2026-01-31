@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b18fe26e",
+  "patient_name": "Aurélie Pruvost",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.513525,
+    "lon": -0.566634
+  },
+  "observation_datetime": "2026-01-30T19:32:07.179693",
+  "saved_at": "2026-01-30T19:32:07.334393"
+}

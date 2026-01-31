@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7a99cae6",
+  "patient_name": "Arthur Lopes",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.497496,
+    "lon": -0.585497
+  },
+  "observation_datetime": "2026-01-30T12:00:50.579618",
+  "saved_at": "2026-01-30T12:00:50.733285"
+}

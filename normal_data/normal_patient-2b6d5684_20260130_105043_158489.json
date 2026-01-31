@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2b6d5684",
+  "patient_name": "Joséphine Blondel de la Sanchez",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.883618,
+    "lon": -0.567537
+  },
+  "observation_datetime": "2026-01-30T10:50:42.981210",
+  "saved_at": "2026-01-30T10:50:43.158540"
+}

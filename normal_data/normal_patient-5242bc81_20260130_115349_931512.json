@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-5242bc81",
+  "patient_name": "Hélène Chauveau",
+  "systolic_pressure": 104,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.627652,
+    "lon": 3.829819
+  },
+  "observation_datetime": "2026-01-30T11:53:49.882107",
+  "saved_at": "2026-01-30T11:53:49.931540"
+}

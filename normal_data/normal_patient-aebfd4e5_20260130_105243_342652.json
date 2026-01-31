@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-aebfd4e5",
+  "patient_name": "Margot Fournier Le Vincent",
+  "systolic_pressure": 111,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.767326,
+    "lon": 4.859704
+  },
+  "observation_datetime": "2026-01-30T10:52:43.198106",
+  "saved_at": "2026-01-30T10:52:43.342733"
+}

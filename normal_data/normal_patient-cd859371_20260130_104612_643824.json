@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-cd859371",
+  "patient_name": "Robert Salmon",
+  "systolic_pressure": 97,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.752107,
+    "lon": 4.869142
+  },
+  "observation_datetime": "2026-01-30T10:46:12.450885",
+  "saved_at": "2026-01-30T10:46:12.643916"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-06ac7ce1",
+  "patient_name": "Thibaut Ferrand",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.30553,
+    "lon": 5.395991
+  },
+  "observation_datetime": "2026-01-30T10:55:13.480073",
+  "saved_at": "2026-01-30T10:55:13.669409"
+}

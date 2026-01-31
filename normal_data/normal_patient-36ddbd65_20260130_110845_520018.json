@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-36ddbd65",
+  "patient_name": "Martin Marques",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.518041,
+    "lon": -0.52482
+  },
+  "observation_datetime": "2026-01-30T11:08:45.117167",
+  "saved_at": "2026-01-30T11:08:45.520046"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6847ee2a",
+  "patient_name": "Éric Petitjean Le Charrier",
+  "systolic_pressure": 93,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.086877,
+    "lon": 5.922009
+  },
+  "observation_datetime": "2026-01-30T11:08:45.113589",
+  "saved_at": "2026-01-30T11:08:45.326594"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7e62ce74",
+  "patient_name": "Xavier Hebert-Germain",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.679777,
+    "lon": 7.256967
+  },
+  "observation_datetime": "2026-01-30T10:48:42.740371",
+  "saved_at": "2026-01-30T10:48:42.868703"
+}

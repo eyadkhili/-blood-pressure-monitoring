@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4800306e",
+  "patient_name": "Laurent Courtois",
+  "systolic_pressure": 103,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.687076,
+    "lon": 7.261502
+  },
+  "observation_datetime": "2026-01-30T11:02:14.352685",
+  "saved_at": "2026-01-30T11:02:14.418130"
+}

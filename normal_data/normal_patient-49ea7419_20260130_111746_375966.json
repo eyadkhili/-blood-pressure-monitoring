@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-49ea7419",
+  "patient_name": "Benoît Marques",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.463533,
+    "lon": -0.54851
+  },
+  "observation_datetime": "2026-01-30T11:17:46.117347",
+  "saved_at": "2026-01-30T11:17:46.376031"
+}

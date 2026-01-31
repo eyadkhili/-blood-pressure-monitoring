@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-feddd887",
+  "patient_name": "Jeanne Leroy",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.681092,
+    "lon": 7.24488
+  },
+  "observation_datetime": "2026-01-30T11:20:46.463025",
+  "saved_at": "2026-01-30T11:20:46.524032"
+}

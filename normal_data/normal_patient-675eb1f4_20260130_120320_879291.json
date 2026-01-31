@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-675eb1f4",
+  "patient_name": "Patricia Morin",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.294932,
+    "lon": 5.003648
+  },
+  "observation_datetime": "2026-01-30T12:03:20.828568",
+  "saved_at": "2026-01-30T12:03:20.879318"
+}

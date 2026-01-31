@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2ed3c841",
+  "patient_name": "Antoine Grégoire Le Pruvost",
+  "systolic_pressure": 104,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.35358,
+    "lon": 4.997428
+  },
+  "observation_datetime": "2026-01-30T10:59:44.031648",
+  "saved_at": "2026-01-30T10:59:44.417588"
+}

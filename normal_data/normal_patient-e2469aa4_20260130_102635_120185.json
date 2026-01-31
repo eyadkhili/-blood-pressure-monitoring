@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e2469aa4",
+  "patient_name": "Isaac Brunet",
+  "systolic_pressure": 93,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.786065,
+    "lon": 4.860301
+  },
+  "observation_datetime": "2026-01-30T10:26:34.870411",
+  "saved_at": "2026-01-30T10:26:35.120250"
+}

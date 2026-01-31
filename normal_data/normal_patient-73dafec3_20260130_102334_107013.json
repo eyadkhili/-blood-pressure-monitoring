@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-73dafec3",
+  "patient_name": "Élise Traore",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.7252,
+    "lon": 7.306036
+  },
+  "observation_datetime": "2026-01-30T10:23:34.092207",
+  "saved_at": "2026-01-30T10:23:34.109319"
+}

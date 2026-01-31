@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-376e0263",
+  "patient_name": "Susan Alves",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.639691,
+    "lon": 1.419941
+  },
+  "observation_datetime": "2026-01-30T11:40:18.538363",
+  "saved_at": "2026-01-30T11:40:18.591208"
+}

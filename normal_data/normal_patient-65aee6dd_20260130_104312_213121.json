@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-65aee6dd",
+  "patient_name": "Françoise Lacombe",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.805931,
+    "lon": -0.609568
+  },
+  "observation_datetime": "2026-01-30T10:43:12.079310",
+  "saved_at": "2026-01-30T10:43:12.213214"
+}

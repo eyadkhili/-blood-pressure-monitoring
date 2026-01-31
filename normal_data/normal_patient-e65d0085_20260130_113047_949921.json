@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e65d0085",
+  "patient_name": "Margot Blanc",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.086182,
+    "lon": -1.712324
+  },
+  "observation_datetime": "2026-01-30T11:30:47.589048",
+  "saved_at": "2026-01-30T11:30:47.949953"
+}

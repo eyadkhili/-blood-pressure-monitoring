@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-14a39713",
+  "patient_name": "Arthur Pruvost",
+  "systolic_pressure": 103,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.669713,
+    "lon": 7.237067
+  },
+  "observation_datetime": "2026-01-30T11:02:14.358006",
+  "saved_at": "2026-01-30T11:02:14.747241"
+}

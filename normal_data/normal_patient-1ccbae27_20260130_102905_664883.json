@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-1ccbae27",
+  "patient_name": "Juliette Cordier",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.703997,
+    "lon": 7.254835
+  },
+  "observation_datetime": "2026-01-30T10:29:05.396160",
+  "saved_at": "2026-01-30T10:29:05.664941"
+}

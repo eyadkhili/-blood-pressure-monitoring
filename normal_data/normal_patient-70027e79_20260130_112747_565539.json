@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-70027e79",
+  "patient_name": "Maurice Descamps",
+  "systolic_pressure": 97,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.131457,
+    "lon": -1.666447
+  },
+  "observation_datetime": "2026-01-30T11:27:47.298371",
+  "saved_at": "2026-01-30T11:27:47.565568"
+}

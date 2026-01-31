@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-32ab674f",
+  "patient_name": "Georges Carlier",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.205076,
+    "lon": -1.525781
+  },
+  "observation_datetime": "2026-01-30T11:47:49.286631",
+  "saved_at": "2026-01-30T11:47:49.602775"
+}

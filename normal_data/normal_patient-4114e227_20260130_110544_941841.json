@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4114e227",
+  "patient_name": "Odette Dupuis",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.176715,
+    "lon": -1.538799
+  },
+  "observation_datetime": "2026-01-30T11:05:44.770197",
+  "saved_at": "2026-01-30T11:05:44.941917"
+}

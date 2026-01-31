@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-bc61b001",
+  "patient_name": "Michelle Meyer de la Colin",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.153307,
+    "lon": 5.716496
+  },
+  "observation_datetime": "2026-01-30T11:01:14.225247",
+  "saved_at": "2026-01-30T11:01:14.288949"
+}

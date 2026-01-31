@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-9d54ae04",
+  "patient_name": "Julien Masse",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.161365,
+    "lon": 5.960587
+  },
+  "observation_datetime": "2026-01-30T11:24:16.884423",
+  "saved_at": "2026-01-30T11:24:17.185304"
+}

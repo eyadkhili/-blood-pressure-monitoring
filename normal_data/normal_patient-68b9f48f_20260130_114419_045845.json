@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-68b9f48f",
+  "patient_name": "Nathalie Martinez",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.152307,
+    "lon": 5.908853
+  },
+  "observation_datetime": "2026-01-30T11:44:18.937207",
+  "saved_at": "2026-01-30T11:44:19.045872"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e232a58e",
+  "patient_name": "Luc Bernier",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.18682,
+    "lon": -1.543276
+  },
+  "observation_datetime": "2026-01-30T10:46:42.516282",
+  "saved_at": "2026-01-30T10:46:42.833409"
+}

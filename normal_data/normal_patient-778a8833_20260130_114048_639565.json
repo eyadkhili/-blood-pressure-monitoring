@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-778a8833",
+  "patient_name": "Georges Blanc",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.620688,
+    "lon": 7.722658
+  },
+  "observation_datetime": "2026-01-30T11:40:48.588849",
+  "saved_at": "2026-01-30T11:40:48.639589"
+}

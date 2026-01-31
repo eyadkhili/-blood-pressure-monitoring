@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-441fb642",
+  "patient_name": "Jérôme Delaunay",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.640505,
+    "lon": 3.047384
+  },
+  "observation_datetime": "2026-01-30T10:42:11.957604",
+  "saved_at": "2026-01-30T10:42:12.133842"
+}

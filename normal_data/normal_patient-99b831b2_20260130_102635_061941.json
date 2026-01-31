@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-99b831b2",
+  "patient_name": "Margot Le Colas",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.594051,
+    "lon": 3.098412
+  },
+  "observation_datetime": "2026-01-30T10:26:34.850341",
+  "saved_at": "2026-01-30T10:26:35.062000"
+}

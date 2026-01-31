@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-52544e08",
+  "patient_name": "Catherine-Suzanne Boyer",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.561083,
+    "lon": 1.446812
+  },
+  "observation_datetime": "2026-01-30T10:51:13.028434",
+  "saved_at": "2026-01-30T10:51:13.137732"
+}

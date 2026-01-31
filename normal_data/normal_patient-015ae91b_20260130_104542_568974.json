@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-015ae91b",
+  "patient_name": "Véronique Simon",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.593291,
+    "lon": 1.396063
+  },
+  "observation_datetime": "2026-01-30T10:45:42.398468",
+  "saved_at": "2026-01-30T10:45:42.569010"
+}

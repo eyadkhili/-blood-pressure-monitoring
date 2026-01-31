@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-9c620ca3",
+  "patient_name": "Emmanuel Rousset",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.322258,
+    "lon": 5.406778
+  },
+  "observation_datetime": "2026-01-30T10:27:35.079928",
+  "saved_at": "2026-01-30T10:27:35.185113"
+}

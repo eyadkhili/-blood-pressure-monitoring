@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-5b992400",
+  "patient_name": "Charles-Zacharie Prévost",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.336085,
+    "lon": 5.041515
+  },
+  "observation_datetime": "2026-01-30T11:09:45.222416",
+  "saved_at": "2026-01-30T11:09:45.468312"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-d91a40a5",
+  "patient_name": "Louis Maillard",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.676467,
+    "lon": 3.067512
+  },
+  "observation_datetime": "2026-01-30T11:21:16.520268",
+  "saved_at": "2026-01-30T11:21:16.826515"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ab0dd138",
+  "patient_name": "Hortense Dumont",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.160011,
+    "lon": -1.722032
+  },
+  "observation_datetime": "2026-01-30T10:54:13.368981",
+  "saved_at": "2026-01-30T10:54:13.606120"
+}

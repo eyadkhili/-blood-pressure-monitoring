@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8dfc8d49",
+  "patient_name": "Louis Hervé",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.092386,
+    "lon": 5.966259
+  },
+  "observation_datetime": "2026-01-30T11:48:49.385604",
+  "saved_at": "2026-01-30T11:48:49.694960"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7434684b",
+  "patient_name": "Lucy Chrétien",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.168977,
+    "lon": -1.57796
+  },
+  "observation_datetime": "2026-01-30T10:47:42.632478",
+  "saved_at": "2026-01-30T10:47:42.884459"
+}

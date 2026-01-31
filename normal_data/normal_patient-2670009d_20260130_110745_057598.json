@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2670009d",
+  "patient_name": "Adrien Launay",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.260782,
+    "lon": 5.409899
+  },
+  "observation_datetime": "2026-01-30T11:07:45.003689",
+  "saved_at": "2026-01-30T11:07:45.057685"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-5ca448a6",
+  "patient_name": "Alfred Cohen",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.657598,
+    "lon": 3.091184
+  },
+  "observation_datetime": "2026-01-30T11:55:50.079403",
+  "saved_at": "2026-01-30T11:55:50.229696"
+}

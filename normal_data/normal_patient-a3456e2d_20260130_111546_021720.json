@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a3456e2d",
+  "patient_name": "Andrée Lemaire-Blondel",
+  "systolic_pressure": 111,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.259123,
+    "lon": 5.357682
+  },
+  "observation_datetime": "2026-01-30T11:15:45.889568",
+  "saved_at": "2026-01-30T11:15:46.021806"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7b0ef8cb",
+  "patient_name": "Rémy Hoarau",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.657157,
+    "lon": 3.8486
+  },
+  "observation_datetime": "2026-01-30T11:45:49.087207",
+  "saved_at": "2026-01-30T11:45:49.455977"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-53361b2c",
+  "patient_name": "Élise Gomez",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.719884,
+    "lon": 7.279947
+  },
+  "observation_datetime": "2026-01-30T19:31:07.044434",
+  "saved_at": "2026-01-30T19:31:07.415599"
+}

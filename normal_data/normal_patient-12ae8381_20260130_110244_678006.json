@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-12ae8381",
+  "patient_name": "William Charpentier",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.561913,
+    "lon": 1.402359
+  },
+  "observation_datetime": "2026-01-30T11:02:44.419038",
+  "saved_at": "2026-01-30T11:02:44.678083"
+}

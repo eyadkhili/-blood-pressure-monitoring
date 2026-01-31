@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-aa90f029",
+  "patient_name": "Benoît Le Lefort",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.325296,
+    "lon": 5.409846
+  },
+  "observation_datetime": "2026-01-30T10:49:12.795916",
+  "saved_at": "2026-01-30T10:49:12.934247"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e2727e6c",
+  "patient_name": "Martin du Perret",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.81988,
+    "lon": 2.316019
+  },
+  "observation_datetime": "2026-01-30T11:12:45.551875",
+  "saved_at": "2026-01-30T11:12:45.873124"
+}

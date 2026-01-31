@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e954c137",
+  "patient_name": "Guillaume Toussaint",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.744409,
+    "lon": 7.284141
+  },
+  "observation_datetime": "2026-01-30T11:13:45.662348",
+  "saved_at": "2026-01-30T11:13:45.718130"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4a83a23d",
+  "patient_name": "Thomas Lesage",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.847116,
+    "lon": 2.343925
+  },
+  "observation_datetime": "2026-01-30T19:32:37.230083",
+  "saved_at": "2026-01-30T19:32:37.395864"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-aa71318d",
+  "patient_name": "Cécile Fleury",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.136715,
+    "lon": -1.707679
+  },
+  "observation_datetime": "2026-01-30T19:35:07.482377",
+  "saved_at": "2026-01-30T19:35:07.743419"
+}

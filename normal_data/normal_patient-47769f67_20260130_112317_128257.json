@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-47769f67",
+  "patient_name": "William Vidal",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.588018,
+    "lon": 3.101621
+  },
+  "observation_datetime": "2026-01-30T11:23:16.746826",
+  "saved_at": "2026-01-30T11:23:17.128307"
+}

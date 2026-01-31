@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6b847a0b",
+  "patient_name": "Tristan Normand",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.296118,
+    "lon": 5.001733
+  },
+  "observation_datetime": "2026-01-30T19:31:07.044215",
+  "saved_at": "2026-01-30T19:31:07.414391"
+}

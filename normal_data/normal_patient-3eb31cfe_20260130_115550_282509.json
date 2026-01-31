@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3eb31cfe",
+  "patient_name": "Nicolas Navarro",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.24642,
+    "lon": -1.590029
+  },
+  "observation_datetime": "2026-01-30T11:55:50.080132",
+  "saved_at": "2026-01-30T11:55:50.282535"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6b4aafc7",
+  "patient_name": "Hugues Dufour",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.654735,
+    "lon": 3.891816
+  },
+  "observation_datetime": "2026-01-30T11:48:49.383410",
+  "saved_at": "2026-01-30T11:48:49.434682"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-02f4a5ff",
+  "patient_name": "Thibault Colin",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.527309,
+    "lon": 7.790593
+  },
+  "observation_datetime": "2026-01-30T12:00:20.528302",
+  "saved_at": "2026-01-30T12:00:20.679984"
+}

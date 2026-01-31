@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-9e8cfded",
+  "patient_name": "Alfred Brunel",
+  "systolic_pressure": 97,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.60006,
+    "lon": 3.01059
+  },
+  "observation_datetime": "2026-01-30T10:59:13.974456",
+  "saved_at": "2026-01-30T10:59:14.285751"
+}

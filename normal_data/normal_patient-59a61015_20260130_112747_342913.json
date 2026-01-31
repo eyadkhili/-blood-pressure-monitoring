@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-59a61015",
+  "patient_name": "Emmanuel Fontaine-Bouchet",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.599743,
+    "lon": 7.754846
+  },
+  "observation_datetime": "2026-01-30T11:27:47.295987",
+  "saved_at": "2026-01-30T11:27:47.342950"
+}

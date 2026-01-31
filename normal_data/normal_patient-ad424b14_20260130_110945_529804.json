@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ad424b14",
+  "patient_name": "Jacques-Benoît Dos Santos",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.817011,
+    "lon": 2.368387
+  },
+  "observation_datetime": "2026-01-30T11:09:45.226535",
+  "saved_at": "2026-01-30T11:09:45.529870"
+}

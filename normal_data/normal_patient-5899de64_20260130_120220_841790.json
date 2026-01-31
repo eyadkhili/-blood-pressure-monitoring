@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-5899de64",
+  "patient_name": "Frédéric Labbé",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.234952,
+    "lon": -1.533415
+  },
+  "observation_datetime": "2026-01-30T12:02:20.728761",
+  "saved_at": "2026-01-30T12:02:20.841816"
+}

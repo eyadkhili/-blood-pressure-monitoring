@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ae8c59f0",
+  "patient_name": "Léon Barbe-Lucas",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.084827,
+    "lon": 5.882308
+  },
+  "observation_datetime": "2026-01-30T11:27:17.241012",
+  "saved_at": "2026-01-30T11:27:17.414451"
+}

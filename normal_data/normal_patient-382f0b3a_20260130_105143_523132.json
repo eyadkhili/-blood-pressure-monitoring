@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-382f0b3a",
+  "patient_name": "Catherine Le Pruvost",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.584767,
+    "lon": 1.397671
+  },
+  "observation_datetime": "2026-01-30T10:51:43.088068",
+  "saved_at": "2026-01-30T10:51:43.523192"
+}

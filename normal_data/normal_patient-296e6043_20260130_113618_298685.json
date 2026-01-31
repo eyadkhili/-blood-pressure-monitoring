@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-296e6043",
+  "patient_name": "Guy-Richard Hebert",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.728607,
+    "lon": 4.81117
+  },
+  "observation_datetime": "2026-01-30T11:36:18.134287",
+  "saved_at": "2026-01-30T11:36:18.298722"
+}

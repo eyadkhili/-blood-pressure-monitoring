@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a8d48836",
+  "patient_name": "Marcelle Rivière",
+  "systolic_pressure": 104,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.138957,
+    "lon": 5.964422
+  },
+  "observation_datetime": "2026-01-30T10:49:42.857742",
+  "saved_at": "2026-01-30T10:49:43.224108"
+}

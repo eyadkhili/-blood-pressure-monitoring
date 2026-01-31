@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6a5f5abd",
+  "patient_name": "Hugues Hoarau",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.739854,
+    "lon": 7.220405
+  },
+  "observation_datetime": "2026-01-30T10:36:51.957740",
+  "saved_at": "2026-01-30T10:42:04.925343"
+}

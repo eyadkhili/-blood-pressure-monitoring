@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-431e11c5",
+  "patient_name": "Michèle-Andrée Pelletier",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.177202,
+    "lon": 5.677543
+  },
+  "observation_datetime": "2026-01-30T10:35:21.660196",
+  "saved_at": "2026-01-30T10:42:04.126646"
+}

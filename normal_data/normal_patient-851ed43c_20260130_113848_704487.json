@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-851ed43c",
+  "patient_name": "Véronique Bonneau de la Delannoy",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.527722,
+    "lon": 7.726209
+  },
+  "observation_datetime": "2026-01-30T11:38:48.387614",
+  "saved_at": "2026-01-30T11:38:48.704510"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-c8b63eec",
+  "patient_name": "Anastasie Albert",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.311285,
+    "lon": 5.007552
+  },
+  "observation_datetime": "2026-01-30T11:37:18.236416",
+  "saved_at": "2026-01-30T11:37:18.406991"
+}

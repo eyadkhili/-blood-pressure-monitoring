@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3bf84a07",
+  "patient_name": "Franck Devaux",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.837217,
+    "lon": 2.375997
+  },
+  "observation_datetime": "2026-01-30T10:45:42.400428",
+  "saved_at": "2026-01-30T10:45:42.741448"
+}

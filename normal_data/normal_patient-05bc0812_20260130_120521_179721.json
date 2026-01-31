@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-05bc0812",
+  "patient_name": "Adèle Pages-Bodin",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.658598,
+    "lon": 3.878785
+  },
+  "observation_datetime": "2026-01-30T12:05:21.029446",
+  "saved_at": "2026-01-30T12:05:21.179755"
+}

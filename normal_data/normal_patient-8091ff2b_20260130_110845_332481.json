@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8091ff2b",
+  "patient_name": "Juliette Payet",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.646501,
+    "lon": 3.855232
+  },
+  "observation_datetime": "2026-01-30T11:08:45.114115",
+  "saved_at": "2026-01-30T11:08:45.332577"
+}

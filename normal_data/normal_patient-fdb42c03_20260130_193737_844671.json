@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-fdb42c03",
+  "patient_name": "Nicolas Pruvost",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.182319,
+    "lon": -1.570424
+  },
+  "observation_datetime": "2026-01-30T19:37:37.730429",
+  "saved_at": "2026-01-30T19:37:37.844700"
+}

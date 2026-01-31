@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-5f2089b7",
+  "patient_name": "Patricia-Henriette Faivre",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.283885,
+    "lon": 5.355054
+  },
+  "observation_datetime": "2026-01-30T10:40:52.735038",
+  "saved_at": "2026-01-30T10:42:07.517971"
+}

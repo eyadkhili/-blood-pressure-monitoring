@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-dfc24b7b",
+  "patient_name": "Augustin Potier",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.358378,
+    "lon": 4.994549
+  },
+  "observation_datetime": "2026-01-30T19:42:38.232380",
+  "saved_at": "2026-01-30T19:42:38.340864"
+}

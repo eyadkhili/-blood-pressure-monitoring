@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-d6f819a7",
+  "patient_name": "Daniel Maurice",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.599579,
+    "lon": 7.778889
+  },
+  "observation_datetime": "2026-01-30T11:37:48.287566",
+  "saved_at": "2026-01-30T11:37:48.551430"
+}

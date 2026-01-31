@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-77e926fc",
+  "patient_name": "Zacharie Petit",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.464853,
+    "lon": -0.595278
+  },
+  "observation_datetime": "2026-01-30T10:34:51.551400",
+  "saved_at": "2026-01-30T10:42:03.873577"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-43aa87ff",
+  "patient_name": "Élise Bigot",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.286982,
+    "lon": 5.324103
+  },
+  "observation_datetime": "2026-01-30T11:09:45.218275",
+  "saved_at": "2026-01-30T11:09:45.404591"
+}

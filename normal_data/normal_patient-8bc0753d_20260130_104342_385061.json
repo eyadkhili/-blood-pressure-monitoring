@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8bc0753d",
+  "patient_name": "Emmanuel Tanguy Le Normand",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.839875,
+    "lon": 2.359934
+  },
+  "observation_datetime": "2026-01-30T10:43:42.147768",
+  "saved_at": "2026-01-30T10:43:42.385109"
+}

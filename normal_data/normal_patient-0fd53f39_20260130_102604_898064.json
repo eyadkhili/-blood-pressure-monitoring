@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0fd53f39",
+  "patient_name": "Théophile-Christophe Thomas",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.885574,
+    "lon": 2.319873
+  },
+  "observation_datetime": "2026-01-30T10:26:04.710177",
+  "saved_at": "2026-01-30T10:26:04.898119"
+}

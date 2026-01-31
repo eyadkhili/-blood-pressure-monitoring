@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-817d8a3d",
+  "patient_name": "Émile Besnard",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.276684,
+    "lon": 5.089891
+  },
+  "observation_datetime": "2026-01-30T12:03:50.878852",
+  "saved_at": "2026-01-30T12:03:50.981945"
+}

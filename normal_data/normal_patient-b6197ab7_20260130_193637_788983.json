@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b6197ab7",
+  "patient_name": "Stéphane Martins",
+  "systolic_pressure": 111,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.661731,
+    "lon": 3.05248
+  },
+  "observation_datetime": "2026-01-30T19:36:37.631379",
+  "saved_at": "2026-01-30T19:36:37.789010"
+}

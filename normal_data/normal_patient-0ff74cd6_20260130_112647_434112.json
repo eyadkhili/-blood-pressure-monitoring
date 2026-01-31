@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0ff74cd6",
+  "patient_name": "Daniel Fischer",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.489499,
+    "lon": -0.559318
+  },
+  "observation_datetime": "2026-01-30T11:26:47.183727",
+  "saved_at": "2026-01-30T11:26:47.434194"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-779a2a1b",
+  "patient_name": "Stéphane Leroy",
+  "systolic_pressure": 110,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.189886,
+    "lon": -1.530832
+  },
+  "observation_datetime": "2026-01-30T11:02:44.416699",
+  "saved_at": "2026-01-30T11:02:44.545334"
+}

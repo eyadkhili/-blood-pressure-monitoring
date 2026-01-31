@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-39a01ba0",
+  "patient_name": "Gilles Lemaire",
+  "systolic_pressure": 111,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.204558,
+    "lon": -1.52137
+  },
+  "observation_datetime": "2026-01-30T19:43:08.288838",
+  "saved_at": "2026-01-30T19:43:08.565520"
+}

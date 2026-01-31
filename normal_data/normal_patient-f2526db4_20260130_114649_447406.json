@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f2526db4",
+  "patient_name": "Sabine de Duval",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.655561,
+    "lon": 3.893542
+  },
+  "observation_datetime": "2026-01-30T11:46:49.187037",
+  "saved_at": "2026-01-30T11:46:49.447432"
+}

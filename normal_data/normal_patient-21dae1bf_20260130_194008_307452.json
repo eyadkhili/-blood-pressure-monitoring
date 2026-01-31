@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-21dae1bf",
+  "patient_name": "Auguste Goncalves",
+  "systolic_pressure": 110,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.432463,
+    "lon": -0.611953
+  },
+  "observation_datetime": "2026-01-30T19:40:07.980809",
+  "saved_at": "2026-01-30T19:40:08.307488"
+}

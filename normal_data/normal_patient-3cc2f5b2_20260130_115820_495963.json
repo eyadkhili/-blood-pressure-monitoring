@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3cc2f5b2",
+  "patient_name": "Virginie-Arnaude Guichard",
+  "systolic_pressure": 111,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.624963,
+    "lon": 3.023554
+  },
+  "observation_datetime": "2026-01-30T11:58:20.328672",
+  "saved_at": "2026-01-30T11:58:20.496002"
+}

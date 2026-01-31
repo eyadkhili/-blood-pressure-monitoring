@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-786b6c0b",
+  "patient_name": "Marcel Lacombe-Raynaud",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.304998,
+    "lon": 5.006528
+  },
+  "observation_datetime": "2026-01-30T11:47:19.235920",
+  "saved_at": "2026-01-30T11:47:19.563420"
+}

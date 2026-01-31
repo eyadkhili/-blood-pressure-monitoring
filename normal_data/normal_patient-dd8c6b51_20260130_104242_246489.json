@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-dd8c6b51",
+  "patient_name": "Isaac Breton",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.609852,
+    "lon": 3.043874
+  },
+  "observation_datetime": "2026-01-30T10:42:42.025634",
+  "saved_at": "2026-01-30T10:42:42.246529"
+}

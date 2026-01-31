@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ed344fb5",
+  "patient_name": "Sébastien Huet",
+  "systolic_pressure": 97,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.570915,
+    "lon": 7.726347
+  },
+  "observation_datetime": "2026-01-30T11:52:49.784188",
+  "saved_at": "2026-01-30T11:52:49.896915"
+}

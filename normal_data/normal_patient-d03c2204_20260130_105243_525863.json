@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-d03c2204",
+  "patient_name": "Pénélope Leconte",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.331515,
+    "lon": 5.007202
+  },
+  "observation_datetime": "2026-01-30T10:52:43.202627",
+  "saved_at": "2026-01-30T10:52:43.525941"
+}

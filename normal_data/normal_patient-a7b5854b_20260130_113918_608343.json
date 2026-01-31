@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a7b5854b",
+  "patient_name": "Aimée Hebert",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.583521,
+    "lon": 3.04925
+  },
+  "observation_datetime": "2026-01-30T11:39:18.437103",
+  "saved_at": "2026-01-30T11:39:18.608373"
+}

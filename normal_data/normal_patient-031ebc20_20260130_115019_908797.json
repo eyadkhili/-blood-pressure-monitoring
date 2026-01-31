@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-031ebc20",
+  "patient_name": "Josette Raynaud",
+  "systolic_pressure": 98,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.513598,
+    "lon": -0.585912
+  },
+  "observation_datetime": "2026-01-30T11:50:19.536630",
+  "saved_at": "2026-01-30T11:50:19.908822"
+}

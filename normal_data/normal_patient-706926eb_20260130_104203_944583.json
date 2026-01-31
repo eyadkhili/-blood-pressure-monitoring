@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-706926eb",
+  "patient_name": "Anaïs de la Bertrand",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.35891,
+    "lon": 5.054912
+  },
+  "observation_datetime": "2026-01-30T10:34:51.599185",
+  "saved_at": "2026-01-30T10:42:03.944678"
+}

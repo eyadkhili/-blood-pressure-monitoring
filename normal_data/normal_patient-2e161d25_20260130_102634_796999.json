@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2e161d25",
+  "patient_name": "Claudine-Charlotte Bousquet",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.748022,
+    "lon": 7.268985
+  },
+  "observation_datetime": "2026-01-30T10:26:34.782753",
+  "saved_at": "2026-01-30T10:26:34.797084"
+}

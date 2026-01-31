@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8a15012f",
+  "patient_name": "Pierre Diaz",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.229685,
+    "lon": 5.703815
+  },
+  "observation_datetime": "2026-01-30T10:45:12.316981",
+  "saved_at": "2026-01-30T10:45:12.383669"
+}

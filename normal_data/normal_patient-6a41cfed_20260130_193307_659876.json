@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6a41cfed",
+  "patient_name": "Georges Monnier-Dupuy",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.799878,
+    "lon": 4.817134
+  },
+  "observation_datetime": "2026-01-30T19:33:07.281810",
+  "saved_at": "2026-01-30T19:33:07.659899"
+}

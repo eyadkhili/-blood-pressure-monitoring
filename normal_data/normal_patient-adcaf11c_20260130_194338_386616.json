@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-adcaf11c",
+  "patient_name": "Grégoire Munoz de la Vidal",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.509163,
+    "lon": -0.55029
+  },
+  "observation_datetime": "2026-01-30T19:43:38.336693",
+  "saved_at": "2026-01-30T19:43:38.386646"
+}

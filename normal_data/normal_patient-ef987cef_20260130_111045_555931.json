@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ef987cef",
+  "patient_name": "Margaret Fournier",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.880208,
+    "lon": 2.306355
+  },
+  "observation_datetime": "2026-01-30T11:10:45.330755",
+  "saved_at": "2026-01-30T11:10:45.555970"
+}

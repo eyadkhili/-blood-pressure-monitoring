@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-be854d79",
+  "patient_name": "Sabine Benoit",
+  "systolic_pressure": 110,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.710001,
+    "lon": 7.291281
+  },
+  "observation_datetime": "2026-01-30T10:55:43.542268",
+  "saved_at": "2026-01-30T10:55:43.803631"
+}

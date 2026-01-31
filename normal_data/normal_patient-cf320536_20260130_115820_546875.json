@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-cf320536",
+  "patient_name": "Christine Guilbert-Allard",
+  "systolic_pressure": 92,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.143267,
+    "lon": 5.729057
+  },
+  "observation_datetime": "2026-01-30T11:58:20.329270",
+  "saved_at": "2026-01-30T11:58:20.546898"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-d2194bf1",
+  "patient_name": "Emmanuelle de Renault",
+  "systolic_pressure": 92,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.109979,
+    "lon": -1.653773
+  },
+  "observation_datetime": "2026-01-30T11:58:20.329792",
+  "saved_at": "2026-01-30T11:58:20.549490"
+}

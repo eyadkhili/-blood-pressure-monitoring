@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-59fdf05e",
+  "patient_name": "François du Étienne",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.833761,
+    "lon": 2.30329
+  },
+  "observation_datetime": "2026-01-30T10:36:21.934218",
+  "saved_at": "2026-01-30T10:42:04.853208"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b2c416b5",
+  "patient_name": "Aimée-Adèle Evrard",
+  "systolic_pressure": 97,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.172821,
+    "lon": 5.878776
+  },
+  "observation_datetime": "2026-01-30T11:13:45.659385",
+  "saved_at": "2026-01-30T11:13:45.713959"
+}

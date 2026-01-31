@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-84aa9978",
+  "patient_name": "Joseph Valette",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.603993,
+    "lon": 1.451316
+  },
+  "observation_datetime": "2026-01-30T19:38:37.831995",
+  "saved_at": "2026-01-30T19:38:38.052444"
+}

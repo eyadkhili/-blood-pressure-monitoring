@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7731a94b",
+  "patient_name": "Adrien Cohen",
+  "systolic_pressure": 98,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.482057,
+    "lon": -0.584658
+  },
+  "observation_datetime": "2026-01-30T11:26:17.114404",
+  "saved_at": "2026-01-30T11:26:17.240445"
+}

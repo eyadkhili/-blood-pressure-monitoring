@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0f7fd137",
+  "patient_name": "Olivier Le Roux",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.743035,
+    "lon": 7.300065
+  },
+  "observation_datetime": "2026-01-30T10:30:35.585796",
+  "saved_at": "2026-01-30T10:30:35.593376"
+}

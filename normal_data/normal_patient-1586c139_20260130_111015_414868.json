@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-1586c139",
+  "patient_name": "Bertrand de Guilbert",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.465086,
+    "lon": -0.520817
+  },
+  "observation_datetime": "2026-01-30T11:10:15.277238",
+  "saved_at": "2026-01-30T11:10:15.414933"
+}

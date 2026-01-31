@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-803822f7",
+  "patient_name": "Marc de Couturier",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.776161,
+    "lon": 4.822522
+  },
+  "observation_datetime": "2026-01-30T10:26:04.758432",
+  "saved_at": "2026-01-30T10:26:05.029032"
+}

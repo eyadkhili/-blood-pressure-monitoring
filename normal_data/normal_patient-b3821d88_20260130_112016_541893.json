@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b3821d88",
+  "patient_name": "Charlotte-Clémence Chauvin",
+  "systolic_pressure": 97,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.713349,
+    "lon": 7.277762
+  },
+  "observation_datetime": "2026-01-30T11:20:16.411098",
+  "saved_at": "2026-01-30T11:20:16.541968"
+}

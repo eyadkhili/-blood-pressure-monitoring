@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ade9d0ec",
+  "patient_name": "Clémence-Geneviève Fabre",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.101947,
+    "lon": -1.651203
+  },
+  "observation_datetime": "2026-01-30T11:19:46.361155",
+  "saved_at": "2026-01-30T11:19:46.714355"
+}

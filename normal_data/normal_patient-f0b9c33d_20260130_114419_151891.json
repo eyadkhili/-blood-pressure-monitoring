@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f0b9c33d",
+  "patient_name": "André-Alfred Hubert",
+  "systolic_pressure": 110,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.293008,
+    "lon": 5.03374
+  },
+  "observation_datetime": "2026-01-30T11:44:18.938184",
+  "saved_at": "2026-01-30T11:44:19.151927"
+}

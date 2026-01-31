@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-31a63a76",
+  "patient_name": "Denis Techer-Bonnin",
+  "systolic_pressure": 98,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.210894,
+    "lon": -1.57662
+  },
+  "observation_datetime": "2026-01-30T10:44:42.257490",
+  "saved_at": "2026-01-30T10:44:42.383153"
+}

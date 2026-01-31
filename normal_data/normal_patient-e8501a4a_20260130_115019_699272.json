@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e8501a4a",
+  "patient_name": "Laure Verdier",
+  "systolic_pressure": 104,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.237335,
+    "lon": 5.713616
+  },
+  "observation_datetime": "2026-01-30T11:50:19.535330",
+  "saved_at": "2026-01-30T11:50:19.699306"
+}

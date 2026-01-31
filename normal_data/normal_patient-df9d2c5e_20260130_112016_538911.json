@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-df9d2c5e",
+  "patient_name": "Victor Bernard",
+  "systolic_pressure": 92,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.452999,
+    "lon": -0.562962
+  },
+  "observation_datetime": "2026-01-30T11:20:16.410510",
+  "saved_at": "2026-01-30T11:20:16.538987"
+}

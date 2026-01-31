@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-044bd22d",
+  "patient_name": "Roger Le Albert",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.172602,
+    "lon": 5.880931
+  },
+  "observation_datetime": "2026-01-30T11:46:49.187788",
+  "saved_at": "2026-01-30T11:46:49.499121"
+}

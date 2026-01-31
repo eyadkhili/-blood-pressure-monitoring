@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8673b0b0",
+  "patient_name": "Victoire Bègue",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.491098,
+    "lon": -0.583956
+  },
+  "observation_datetime": "2026-01-30T19:34:07.383824",
+  "saved_at": "2026-01-30T19:34:07.640185"
+}

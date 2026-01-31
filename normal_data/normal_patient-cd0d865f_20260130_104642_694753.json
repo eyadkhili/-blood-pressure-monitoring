@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-cd0d865f",
+  "patient_name": "Amélie Bonnin",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.150231,
+    "lon": 5.933291
+  },
+  "observation_datetime": "2026-01-30T10:46:42.511770",
+  "saved_at": "2026-01-30T10:46:42.694810"
+}

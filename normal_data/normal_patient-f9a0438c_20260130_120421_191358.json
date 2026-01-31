@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f9a0438c",
+  "patient_name": "Marguerite Pires",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.172111,
+    "lon": 5.723064
+  },
+  "observation_datetime": "2026-01-30T12:04:20.929756",
+  "saved_at": "2026-01-30T12:04:21.191393"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-9594e20a",
+  "patient_name": "Denise Bouchet",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.086551,
+    "lon": -1.691004
+  },
+  "observation_datetime": "2026-01-30T12:03:50.880812",
+  "saved_at": "2026-01-30T12:03:51.142628"
+}

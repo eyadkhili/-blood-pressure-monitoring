@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-98cf1288",
+  "patient_name": "Anaïs Becker",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.197624,
+    "lon": 5.747247
+  },
+  "observation_datetime": "2026-01-30T11:56:50.180783",
+  "saved_at": "2026-01-30T11:56:50.453697"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ae9e42f7",
+  "patient_name": "Vincent Allain",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.183672,
+    "lon": 5.731881
+  },
+  "observation_datetime": "2026-01-30T11:17:16.061160",
+  "saved_at": "2026-01-30T11:17:16.495446"
+}

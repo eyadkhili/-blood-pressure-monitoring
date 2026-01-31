@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-00deb2eb",
+  "patient_name": "Augustin de la Antoine",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.877959,
+    "lon": 2.342633
+  },
+  "observation_datetime": "2026-01-30T10:48:42.743051",
+  "saved_at": "2026-01-30T10:48:42.992804"
+}

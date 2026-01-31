@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-83190eb4",
+  "patient_name": "François Monnier du Martel",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.337068,
+    "lon": 5.067483
+  },
+  "observation_datetime": "2026-01-30T11:28:17.344235",
+  "saved_at": "2026-01-30T11:28:17.609071"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b1873ad9",
+  "patient_name": "Zoé Leduc",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.842115,
+    "lon": -0.61831
+  },
+  "observation_datetime": "2026-01-30T19:34:37.433551",
+  "saved_at": "2026-01-30T19:34:37.699363"
+}

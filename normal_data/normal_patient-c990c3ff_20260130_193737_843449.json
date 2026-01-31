@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-c990c3ff",
+  "patient_name": "Pauline Ledoux",
+  "systolic_pressure": 97,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.523264,
+    "lon": -0.515427
+  },
+  "observation_datetime": "2026-01-30T19:37:37.730171",
+  "saved_at": "2026-01-30T19:37:37.843479"
+}

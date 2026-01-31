@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b1895252",
+  "patient_name": "Raymond Morel Le Hubert",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.848356,
+    "lon": -0.590013
+  },
+  "observation_datetime": "2026-01-30T11:01:44.302169",
+  "saved_at": "2026-01-30T11:01:44.901018"
+}

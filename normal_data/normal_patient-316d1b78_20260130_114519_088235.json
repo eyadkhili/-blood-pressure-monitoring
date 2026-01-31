@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-316d1b78",
+  "patient_name": "Caroline-Audrey David",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.849065,
+    "lon": 2.324866
+  },
+  "observation_datetime": "2026-01-30T11:45:19.036916",
+  "saved_at": "2026-01-30T11:45:19.088266"
+}

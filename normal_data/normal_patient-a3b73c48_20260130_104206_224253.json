@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a3b73c48",
+  "patient_name": "Tristan Boutin",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.640013,
+    "lon": 3.863547
+  },
+  "observation_datetime": "2026-01-30T10:38:22.359309",
+  "saved_at": "2026-01-30T10:42:06.224302"
+}

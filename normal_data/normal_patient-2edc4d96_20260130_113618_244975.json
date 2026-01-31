@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2edc4d96",
+  "patient_name": "Christophe Meunier",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.229465,
+    "lon": -1.517292
+  },
+  "observation_datetime": "2026-01-30T11:36:18.133444",
+  "saved_at": "2026-01-30T11:36:18.245000"
+}

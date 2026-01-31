@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ed7e9b1f",
+  "patient_name": "Stéphane Vallée",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.623639,
+    "lon": 3.925947
+  },
+  "observation_datetime": "2026-01-30T10:39:22.503902",
+  "saved_at": "2026-01-30T10:42:06.768186"
+}

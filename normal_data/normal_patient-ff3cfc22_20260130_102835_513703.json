@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ff3cfc22",
+  "patient_name": "Anastasie Le Jacquot",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.363167,
+    "lon": 5.011055
+  },
+  "observation_datetime": "2026-01-30T10:28:35.264994",
+  "saved_at": "2026-01-30T10:28:35.513760"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a8898e24",
+  "patient_name": "Colette Lebrun",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.141317,
+    "lon": 5.721196
+  },
+  "observation_datetime": "2026-01-30T11:59:20.429950",
+  "saved_at": "2026-01-30T11:59:20.644050"
+}

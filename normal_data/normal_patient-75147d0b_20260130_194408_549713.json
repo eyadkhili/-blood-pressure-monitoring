@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-75147d0b",
+  "patient_name": "Henri Joseph",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.458737,
+    "lon": -0.527267
+  },
+  "observation_datetime": "2026-01-30T19:44:08.385933",
+  "saved_at": "2026-01-30T19:44:08.549748"
+}

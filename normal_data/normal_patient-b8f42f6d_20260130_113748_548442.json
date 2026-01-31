@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b8f42f6d",
+  "patient_name": "Philippine Rolland",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.303177,
+    "lon": 4.99951
+  },
+  "observation_datetime": "2026-01-30T11:37:48.286996",
+  "saved_at": "2026-01-30T11:37:48.548467"
+}

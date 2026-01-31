@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-41188c8c",
+  "patient_name": "Alphonse Allard",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.112319,
+    "lon": -1.65831
+  },
+  "observation_datetime": "2026-01-30T12:05:21.028367",
+  "saved_at": "2026-01-30T12:05:21.128103"
+}

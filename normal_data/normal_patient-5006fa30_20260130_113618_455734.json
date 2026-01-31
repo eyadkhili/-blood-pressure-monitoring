@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-5006fa30",
+  "patient_name": "Édouard François",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.78625,
+    "lon": 4.84335
+  },
+  "observation_datetime": "2026-01-30T11:36:18.135612",
+  "saved_at": "2026-01-30T11:36:18.455768"
+}

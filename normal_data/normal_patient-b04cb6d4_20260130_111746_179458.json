@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b04cb6d4",
+  "patient_name": "Céline Leclercq",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.869693,
+    "lon": 2.338448
+  },
+  "observation_datetime": "2026-01-30T11:17:46.113218",
+  "saved_at": "2026-01-30T11:17:46.179543"
+}

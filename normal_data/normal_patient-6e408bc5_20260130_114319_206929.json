@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6e408bc5",
+  "patient_name": "Frédérique Aubry",
+  "systolic_pressure": 111,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.633099,
+    "lon": 1.434423
+  },
+  "observation_datetime": "2026-01-30T11:43:18.839026",
+  "saved_at": "2026-01-30T11:43:19.206966"
+}

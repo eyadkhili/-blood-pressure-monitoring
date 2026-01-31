@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e552f174",
+  "patient_name": "Étienne Sauvage",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.169021,
+    "lon": 5.73747
+  },
+  "observation_datetime": "2026-01-30T11:28:17.345346",
+  "saved_at": "2026-01-30T11:28:17.662639"
+}

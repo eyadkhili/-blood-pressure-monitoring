@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3a1e8b69",
+  "patient_name": "Honoré de la Jourdan",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.64473,
+    "lon": 1.459818
+  },
+  "observation_datetime": "2026-01-30T11:12:45.547477",
+  "saved_at": "2026-01-30T11:12:45.745322"
+}

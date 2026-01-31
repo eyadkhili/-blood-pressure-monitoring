@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f6dbbd36",
+  "patient_name": "Jean-François Marty",
+  "systolic_pressure": 92,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.791654,
+    "lon": -0.556251
+  },
+  "observation_datetime": "2026-01-30T11:06:14.828500",
+  "saved_at": "2026-01-30T11:06:15.279347"
+}

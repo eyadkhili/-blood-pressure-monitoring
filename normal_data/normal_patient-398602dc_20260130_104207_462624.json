@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-398602dc",
+  "patient_name": "Juliette Lemaître",
+  "systolic_pressure": 92,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.812046,
+    "lon": 4.845091
+  },
+  "observation_datetime": "2026-01-30T10:40:52.720647",
+  "saved_at": "2026-01-30T10:42:07.462670"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-43ae201c",
+  "patient_name": "Audrey-Zoé Ferreira",
+  "systolic_pressure": 98,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.649847,
+    "lon": 3.074618
+  },
+  "observation_datetime": "2026-01-30T11:39:18.435402",
+  "saved_at": "2026-01-30T11:39:18.484065"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-bcacb6fc",
+  "patient_name": "Étienne Millet",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.757371,
+    "lon": 7.277382
+  },
+  "observation_datetime": "2026-01-30T11:05:14.719374",
+  "saved_at": "2026-01-30T11:05:15.110674"
+}

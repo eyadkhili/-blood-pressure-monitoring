@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2fdb3682",
+  "patient_name": "Tristan Torres",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.155614,
+    "lon": 5.727835
+  },
+  "observation_datetime": "2026-01-30T10:42:11.959499",
+  "saved_at": "2026-01-30T10:42:12.362626"
+}

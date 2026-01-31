@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-81b54158",
+  "patient_name": "Théodore Leclercq-Mendès",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.669752,
+    "lon": 3.068374
+  },
+  "observation_datetime": "2026-01-30T10:23:34.285169",
+  "saved_at": "2026-01-30T10:23:34.943947"
+}

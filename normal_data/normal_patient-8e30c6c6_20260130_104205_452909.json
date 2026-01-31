@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8e30c6c6",
+  "patient_name": "Matthieu Laurent Le Imbert",
+  "systolic_pressure": 103,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.2951,
+    "lon": 5.34781
+  },
+  "observation_datetime": "2026-01-30T10:37:22.099037",
+  "saved_at": "2026-01-30T10:42:05.452976"
+}

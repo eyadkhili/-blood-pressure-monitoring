@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-fbc92456",
+  "patient_name": "Audrey-Aurélie Masse",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.674357,
+    "lon": 3.037762
+  },
+  "observation_datetime": "2026-01-30T11:10:45.329776",
+  "saved_at": "2026-01-30T11:10:45.499409"
+}

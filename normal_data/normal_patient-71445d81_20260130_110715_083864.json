@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-71445d81",
+  "patient_name": "Nicole Le Paris",
+  "systolic_pressure": 92,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.565917,
+    "lon": 7.737263
+  },
+  "observation_datetime": "2026-01-30T11:07:14.936314",
+  "saved_at": "2026-01-30T11:07:15.083934"
+}

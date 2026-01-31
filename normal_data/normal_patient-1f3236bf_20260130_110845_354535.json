@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-1f3236bf",
+  "patient_name": "Isaac Langlois Le Poirier",
+  "systolic_pressure": 110,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.142631,
+    "lon": 5.765884
+  },
+  "observation_datetime": "2026-01-30T11:08:45.114978",
+  "saved_at": "2026-01-30T11:08:45.354585"
+}

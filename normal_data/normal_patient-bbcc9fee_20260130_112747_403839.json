@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-bbcc9fee",
+  "patient_name": "Simone Duhamel",
+  "systolic_pressure": 103,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.237666,
+    "lon": -1.555443
+  },
+  "observation_datetime": "2026-01-30T11:27:47.296846",
+  "saved_at": "2026-01-30T11:27:47.403866"
+}

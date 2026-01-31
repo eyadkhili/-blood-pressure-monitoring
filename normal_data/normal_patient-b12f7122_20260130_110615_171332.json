@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b12f7122",
+  "patient_name": "Alphonse Bouvet",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.742434,
+    "lon": 7.272007
+  },
+  "observation_datetime": "2026-01-30T11:06:14.825877",
+  "saved_at": "2026-01-30T11:06:15.171362"
+}

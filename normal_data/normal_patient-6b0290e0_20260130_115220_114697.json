@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6b0290e0",
+  "patient_name": "William Aubry",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.226923,
+    "lon": -1.576685
+  },
+  "observation_datetime": "2026-01-30T11:52:19.735732",
+  "saved_at": "2026-01-30T11:52:20.114727"
+}

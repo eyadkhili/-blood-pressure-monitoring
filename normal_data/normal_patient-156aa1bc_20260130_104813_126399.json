@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-156aa1bc",
+  "patient_name": "André Bonnin",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.87338,
+    "lon": 2.352393
+  },
+  "observation_datetime": "2026-01-30T10:48:12.693812",
+  "saved_at": "2026-01-30T10:48:13.126448"
+}

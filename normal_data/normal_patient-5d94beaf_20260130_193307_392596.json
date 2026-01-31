@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-5d94beaf",
+  "patient_name": "Stéphanie Brunel-Barthelemy",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.214394,
+    "lon": 5.750063
+  },
+  "observation_datetime": "2026-01-30T19:33:07.279938",
+  "saved_at": "2026-01-30T19:33:07.392622"
+}

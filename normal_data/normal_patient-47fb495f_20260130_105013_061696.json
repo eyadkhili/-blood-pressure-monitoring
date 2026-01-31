@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-47fb495f",
+  "patient_name": "Denise de Charrier",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.6997,
+    "lon": 7.270082
+  },
+  "observation_datetime": "2026-01-30T10:50:12.923956",
+  "saved_at": "2026-01-30T10:50:13.061783"
+}

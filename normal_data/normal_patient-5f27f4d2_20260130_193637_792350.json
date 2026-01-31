@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-5f27f4d2",
+  "patient_name": "Inès-Jeannine Neveu",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.228328,
+    "lon": -1.568811
+  },
+  "observation_datetime": "2026-01-30T19:36:37.632263",
+  "saved_at": "2026-01-30T19:36:37.792380"
+}

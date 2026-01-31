@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-33467cc8",
+  "patient_name": "Laurent Lopes",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.148679,
+    "lon": 5.94467
+  },
+  "observation_datetime": "2026-01-30T11:31:17.637561",
+  "saved_at": "2026-01-30T11:31:17.800974"
+}

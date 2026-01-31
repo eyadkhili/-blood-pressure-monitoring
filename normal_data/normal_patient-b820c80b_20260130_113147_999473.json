@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b820c80b",
+  "patient_name": "Anaïs Jacquot",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.274036,
+    "lon": 5.09101
+  },
+  "observation_datetime": "2026-01-30T11:31:47.690107",
+  "saved_at": "2026-01-30T11:31:47.999503"
+}

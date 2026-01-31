@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-eed4b1be",
+  "patient_name": "Nath Benard",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.318512,
+    "lon": 5.386779
+  },
+  "observation_datetime": "2026-01-30T11:34:47.984543",
+  "saved_at": "2026-01-30T11:34:48.156200"
+}

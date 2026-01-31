@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4692d395",
+  "patient_name": "Thérèse de Bouchet",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.615598,
+    "lon": 7.794934
+  },
+  "observation_datetime": "2026-01-30T11:03:14.471916",
+  "saved_at": "2026-01-30T11:03:14.604441"
+}

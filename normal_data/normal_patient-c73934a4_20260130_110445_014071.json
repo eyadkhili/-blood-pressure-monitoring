@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-c73934a4",
+  "patient_name": "Noël Martinez",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.879551,
+    "lon": -0.533105
+  },
+  "observation_datetime": "2026-01-30T11:04:44.666389",
+  "saved_at": "2026-01-30T11:04:45.014134"
+}

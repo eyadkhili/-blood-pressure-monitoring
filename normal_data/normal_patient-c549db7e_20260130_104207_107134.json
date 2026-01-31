@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-c549db7e",
+  "patient_name": "Patrick Reynaud",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.589525,
+    "lon": 3.923201
+  },
+  "observation_datetime": "2026-01-30T10:40:22.620519",
+  "saved_at": "2026-01-30T10:42:07.107179"
+}

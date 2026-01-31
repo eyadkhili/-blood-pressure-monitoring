@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e1ddb44c",
+  "patient_name": "Françoise Pelletier",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.265933,
+    "lon": 5.365737
+  },
+  "observation_datetime": "2026-01-30T11:48:49.384784",
+  "saved_at": "2026-01-30T11:48:49.590821"
+}

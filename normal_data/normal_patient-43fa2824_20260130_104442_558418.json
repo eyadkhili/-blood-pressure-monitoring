@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-43fa2824",
+  "patient_name": "Timothée Faivre",
+  "systolic_pressure": 116,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.161175,
+    "lon": 5.900467
+  },
+  "observation_datetime": "2026-01-30T10:44:42.260501",
+  "saved_at": "2026-01-30T10:44:42.558454"
+}

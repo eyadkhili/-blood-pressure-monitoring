@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-672547bc",
+  "patient_name": "Auguste Loiseau",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.794558,
+    "lon": 4.847783
+  },
+  "observation_datetime": "2026-01-30T11:56:20.129208",
+  "saved_at": "2026-01-30T11:56:20.179076"
+}

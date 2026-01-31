@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4fb9ffe7",
+  "patient_name": "Emmanuel Vaillant",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.471281,
+    "lon": -0.523105
+  },
+  "observation_datetime": "2026-01-30T19:42:08.186127",
+  "saved_at": "2026-01-30T19:42:08.501868"
+}

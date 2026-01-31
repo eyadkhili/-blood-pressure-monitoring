@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ce8f0d8b",
+  "patient_name": "Marie Barthelemy",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.21243,
+    "lon": -1.516449
+  },
+  "observation_datetime": "2026-01-30T11:54:49.982646",
+  "saved_at": "2026-01-30T11:54:50.296380"
+}

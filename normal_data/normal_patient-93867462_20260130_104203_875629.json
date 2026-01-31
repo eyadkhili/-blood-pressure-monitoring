@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-93867462",
+  "patient_name": "Aurore Martins-Pons",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.642052,
+    "lon": 3.872593
+  },
+  "observation_datetime": "2026-01-30T10:34:51.558224",
+  "saved_at": "2026-01-30T10:42:03.875706"
+}

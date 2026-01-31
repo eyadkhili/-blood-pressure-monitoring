@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-5a040956",
+  "patient_name": "Caroline de la Texier",
+  "systolic_pressure": 111,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.857579,
+    "lon": 2.311278
+  },
+  "observation_datetime": "2026-01-30T12:02:20.729881",
+  "saved_at": "2026-01-30T12:02:21.062732"
+}

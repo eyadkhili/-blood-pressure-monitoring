@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-410dc4ae",
+  "patient_name": "Bertrand Lacroix",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.822668,
+    "lon": 2.3879
+  },
+  "observation_datetime": "2026-01-30T11:56:50.179989",
+  "saved_at": "2026-01-30T11:56:50.449738"
+}

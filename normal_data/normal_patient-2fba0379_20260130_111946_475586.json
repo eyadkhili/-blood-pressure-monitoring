@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2fba0379",
+  "patient_name": "Martine de Gillet",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.657155,
+    "lon": 3.037913
+  },
+  "observation_datetime": "2026-01-30T11:19:46.353535",
+  "saved_at": "2026-01-30T11:19:46.475643"
+}

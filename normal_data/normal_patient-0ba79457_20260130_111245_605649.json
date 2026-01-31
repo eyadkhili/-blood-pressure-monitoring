@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0ba79457",
+  "patient_name": "Danielle du Sauvage",
+  "systolic_pressure": 97,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.191618,
+    "lon": -1.531786
+  },
+  "observation_datetime": "2026-01-30T11:12:45.545135",
+  "saved_at": "2026-01-30T11:12:45.605761"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6fd45d64",
+  "patient_name": "Tristan-Michel Hamel",
+  "systolic_pressure": 111,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.121295,
+    "lon": 5.944442
+  },
+  "observation_datetime": "2026-01-30T10:27:04.963621",
+  "saved_at": "2026-01-30T10:27:05.172801"
+}

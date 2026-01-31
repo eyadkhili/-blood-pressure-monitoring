@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-171c3de4",
+  "patient_name": "Benjamin Boyer",
+  "systolic_pressure": 97,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.7917,
+    "lon": 4.877209
+  },
+  "observation_datetime": "2026-01-30T11:53:19.834999",
+  "saved_at": "2026-01-30T11:53:20.212534"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-04abbb19",
+  "patient_name": "Sébastien Reynaud",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.197555,
+    "lon": 5.704291
+  },
+  "observation_datetime": "2026-01-30T19:40:07.979375",
+  "saved_at": "2026-01-30T19:40:08.090776"
+}

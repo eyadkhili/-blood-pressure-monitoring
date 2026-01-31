@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ac104d1f",
+  "patient_name": "Yves Ledoux",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.559871,
+    "lon": 1.441526
+  },
+  "observation_datetime": "2026-01-30T11:21:16.516334",
+  "saved_at": "2026-01-30T11:21:16.577986"
+}

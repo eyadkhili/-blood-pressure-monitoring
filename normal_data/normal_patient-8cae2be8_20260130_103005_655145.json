@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8cae2be8",
+  "patient_name": "Gabriel Bazin",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.09854,
+    "lon": 5.945869
+  },
+  "observation_datetime": "2026-01-30T10:30:05.525607",
+  "saved_at": "2026-01-30T10:30:05.655197"
+}

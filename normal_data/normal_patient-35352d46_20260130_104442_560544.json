@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-35352d46",
+  "patient_name": "Benoît Leconte",
+  "systolic_pressure": 93,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.820822,
+    "lon": 2.362472
+  },
+  "observation_datetime": "2026-01-30T10:44:42.261047",
+  "saved_at": "2026-01-30T10:44:42.560590"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-60e33c7a",
+  "patient_name": "Franck de la Cousin",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.489782,
+    "lon": -0.579196
+  },
+  "observation_datetime": "2026-01-30T12:03:20.829080",
+  "saved_at": "2026-01-30T12:03:20.880439"
+}

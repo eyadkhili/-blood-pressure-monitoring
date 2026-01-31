@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-309fe874",
+  "patient_name": "Christophe-Robert Jacques",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.780241,
+    "lon": 4.816833
+  },
+  "observation_datetime": "2026-01-30T11:44:18.938434",
+  "saved_at": "2026-01-30T11:44:19.153453"
+}

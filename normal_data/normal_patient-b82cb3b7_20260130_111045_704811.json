@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b82cb3b7",
+  "patient_name": "Jeannine Lebrun-Cohen",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.318854,
+    "lon": 5.05158
+  },
+  "observation_datetime": "2026-01-30T11:10:45.332042",
+  "saved_at": "2026-01-30T11:10:45.704859"
+}

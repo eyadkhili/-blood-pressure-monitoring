@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-11105f18",
+  "patient_name": "Agathe Goncalves",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.8593,
+    "lon": 2.322572
+  },
+  "observation_datetime": "2026-01-30T11:34:17.935860",
+  "saved_at": "2026-01-30T11:34:18.145723"
+}

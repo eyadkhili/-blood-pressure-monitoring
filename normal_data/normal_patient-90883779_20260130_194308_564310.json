@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-90883779",
+  "patient_name": "Bertrand-Frédéric Hamon",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.637771,
+    "lon": 3.02576
+  },
+  "observation_datetime": "2026-01-30T19:43:08.288629",
+  "saved_at": "2026-01-30T19:43:08.564336"
+}

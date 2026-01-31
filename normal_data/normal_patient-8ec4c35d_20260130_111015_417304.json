@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8ec4c35d",
+  "patient_name": "Marguerite Adam",
+  "systolic_pressure": 97,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.233878,
+    "lon": 5.736145
+  },
+  "observation_datetime": "2026-01-30T11:10:15.277699",
+  "saved_at": "2026-01-30T11:10:15.417363"
+}

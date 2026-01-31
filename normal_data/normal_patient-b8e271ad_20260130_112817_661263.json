@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b8e271ad",
+  "patient_name": "Lucie Robin",
+  "systolic_pressure": 92,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.736505,
+    "lon": 4.835241
+  },
+  "observation_datetime": "2026-01-30T11:28:17.344936",
+  "saved_at": "2026-01-30T11:28:17.661300"
+}

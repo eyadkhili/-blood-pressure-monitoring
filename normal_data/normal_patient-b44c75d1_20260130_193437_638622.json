@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b44c75d1",
+  "patient_name": "Rémy de la Joseph",
+  "systolic_pressure": 94,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.539918,
+    "lon": 7.761735
+  },
+  "observation_datetime": "2026-01-30T19:34:37.433061",
+  "saved_at": "2026-01-30T19:34:37.638644"
+}

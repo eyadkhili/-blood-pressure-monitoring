@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-eb691dd9",
+  "patient_name": "Bertrand de la Coste",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.759186,
+    "lon": 4.802446
+  },
+  "observation_datetime": "2026-01-30T11:02:44.415805",
+  "saved_at": "2026-01-30T11:02:44.542302"
+}

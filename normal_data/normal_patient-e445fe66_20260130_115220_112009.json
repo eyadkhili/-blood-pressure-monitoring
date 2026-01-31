@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e445fe66",
+  "patient_name": "Susan-Astrid Lagarde",
+  "systolic_pressure": 93,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.845055,
+    "lon": -0.59932
+  },
+  "observation_datetime": "2026-01-30T11:52:19.735042",
+  "saved_at": "2026-01-30T11:52:20.112044"
+}

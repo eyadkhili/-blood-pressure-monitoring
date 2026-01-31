@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-dd5fae73",
+  "patient_name": "Hugues Chevallier",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.267357,
+    "lon": 5.362621
+  },
+  "observation_datetime": "2026-01-30T19:38:37.831277",
+  "saved_at": "2026-01-30T19:38:37.996586"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-968d0aa1",
+  "patient_name": "Alexandrie-Corinne Mallet",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.875872,
+    "lon": -0.606316
+  },
+  "observation_datetime": "2026-01-30T11:00:44.174392",
+  "saved_at": "2026-01-30T11:00:44.686336"
+}

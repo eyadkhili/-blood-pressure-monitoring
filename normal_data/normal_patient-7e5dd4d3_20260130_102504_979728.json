@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7e5dd4d3",
+  "patient_name": "Paul Durand",
+  "systolic_pressure": 97,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.232359,
+    "lon": -1.561587
+  },
+  "observation_datetime": "2026-01-30T10:25:04.568726",
+  "saved_at": "2026-01-30T10:25:04.979767"
+}

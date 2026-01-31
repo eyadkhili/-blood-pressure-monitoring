@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a9fd9718",
+  "patient_name": "Luc Garnier-Gomez",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.524498,
+    "lon": 7.769339
+  },
+  "observation_datetime": "2026-01-30T11:15:45.888232",
+  "saved_at": "2026-01-30T11:15:46.015329"
+}

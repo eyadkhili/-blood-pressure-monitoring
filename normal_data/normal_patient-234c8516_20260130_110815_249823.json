@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-234c8516",
+  "patient_name": "Henriette Dumont",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 75,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.666399,
+    "lon": 3.020471
+  },
+  "observation_datetime": "2026-01-30T11:08:15.061222",
+  "saved_at": "2026-01-30T11:08:15.249881"
+}

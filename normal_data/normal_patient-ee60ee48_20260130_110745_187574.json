@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-ee60ee48",
+  "patient_name": "Lucas David",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.545354,
+    "lon": 7.731658
+  },
+  "observation_datetime": "2026-01-30T11:07:45.008255",
+  "saved_at": "2026-01-30T11:07:45.187661"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2b647bad",
+  "patient_name": "Victoire Da Silva",
+  "systolic_pressure": 95,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.561239,
+    "lon": 7.723902
+  },
+  "observation_datetime": "2026-01-30T19:41:38.127878",
+  "saved_at": "2026-01-30T19:41:38.236858"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-55666423",
+  "patient_name": "Bertrand Bouvier Le Weber",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.318079,
+    "lon": 4.999574
+  },
+  "observation_datetime": "2026-01-30T12:03:20.828186",
+  "saved_at": "2026-01-30T12:03:20.877909"
+}

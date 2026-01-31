@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-1cdaea68",
+  "patient_name": "Michelle Weiss",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Grenoble",
+    "lat": 45.168882,
+    "lon": 5.727545
+  },
+  "observation_datetime": "2026-01-30T19:40:38.027295",
+  "saved_at": "2026-01-30T19:40:38.077502"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-54301fe8",
+  "patient_name": "Danielle Lombard",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.717981,
+    "lon": 4.796071
+  },
+  "observation_datetime": "2026-01-30T11:40:48.589206",
+  "saved_at": "2026-01-30T11:40:48.640675"
+}

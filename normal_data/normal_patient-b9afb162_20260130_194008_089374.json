@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b9afb162",
+  "patient_name": "Alexandre Peltier",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 65,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.716177,
+    "lon": 7.258642
+  },
+  "observation_datetime": "2026-01-30T19:40:07.978954",
+  "saved_at": "2026-01-30T19:40:08.089404"
+}

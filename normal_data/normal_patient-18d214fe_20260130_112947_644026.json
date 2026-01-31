@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-18d214fe",
+  "patient_name": "Simone Rodrigues",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.1594,
+    "lon": 5.927238
+  },
+  "observation_datetime": "2026-01-30T11:29:47.489705",
+  "saved_at": "2026-01-30T11:29:47.644052"
+}

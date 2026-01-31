@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-bcde5540",
+  "patient_name": "Anaïs-Émilie Fernandes",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.579503,
+    "lon": 3.856596
+  },
+  "observation_datetime": "2026-01-30T10:52:13.144930",
+  "saved_at": "2026-01-30T10:52:13.553408"
+}

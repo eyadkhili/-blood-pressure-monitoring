@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-95f72564",
+  "patient_name": "Auguste Muller",
+  "systolic_pressure": 110,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.652775,
+    "lon": 1.488125
+  },
+  "observation_datetime": "2026-01-30T10:38:22.367463",
+  "saved_at": "2026-01-30T10:42:06.226285"
+}

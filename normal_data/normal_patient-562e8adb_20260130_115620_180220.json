@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-562e8adb",
+  "patient_name": "Grégoire De Sousa",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.442701,
+    "lon": -0.604191
+  },
+  "observation_datetime": "2026-01-30T11:56:20.129586",
+  "saved_at": "2026-01-30T11:56:20.180245"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2432d13c",
+  "patient_name": "Louise Coulon Le Thibault",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.519776,
+    "lon": -0.553094
+  },
+  "observation_datetime": "2026-01-30T11:52:49.783032",
+  "saved_at": "2026-01-30T11:52:49.835351"
+}

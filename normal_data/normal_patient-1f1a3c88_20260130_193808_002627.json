@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-1f1a3c88",
+  "patient_name": "Alain Pottier-Lemonnier",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.582494,
+    "lon": 3.845772
+  },
+  "observation_datetime": "2026-01-30T19:38:07.782555",
+  "saved_at": "2026-01-30T19:38:08.002664"
+}

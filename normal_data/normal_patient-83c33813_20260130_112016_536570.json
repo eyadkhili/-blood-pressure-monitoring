@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-83c33813",
+  "patient_name": "Nathalie Roussel",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 61,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.153924,
+    "lon": -1.667366
+  },
+  "observation_datetime": "2026-01-30T11:20:16.409992",
+  "saved_at": "2026-01-30T11:20:16.536616"
+}

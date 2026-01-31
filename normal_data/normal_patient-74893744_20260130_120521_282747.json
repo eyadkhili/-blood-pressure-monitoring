@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-74893744",
+  "patient_name": "Théophile Joly de Marin",
+  "systolic_pressure": 119,
+  "diastolic_pressure": 77,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lille",
+    "lat": 50.607443,
+    "lon": 3.054108
+  },
+  "observation_datetime": "2026-01-30T12:05:21.030452",
+  "saved_at": "2026-01-30T12:05:21.282773"
+}

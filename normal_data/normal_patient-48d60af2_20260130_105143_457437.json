@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-48d60af2",
+  "patient_name": "Clémence Fouquet",
+  "systolic_pressure": 99,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.719401,
+    "lon": 4.833122
+  },
+  "observation_datetime": "2026-01-30T10:51:43.085235",
+  "saved_at": "2026-01-30T10:51:43.457528"
+}

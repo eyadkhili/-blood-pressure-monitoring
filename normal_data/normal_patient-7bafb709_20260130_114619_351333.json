@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7bafb709",
+  "patient_name": "Olivier Klein",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.618267,
+    "lon": 7.743194
+  },
+  "observation_datetime": "2026-01-30T11:46:19.135752",
+  "saved_at": "2026-01-30T11:46:19.351359"
+}

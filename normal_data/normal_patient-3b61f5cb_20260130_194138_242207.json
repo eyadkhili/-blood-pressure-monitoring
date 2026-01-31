@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-3b61f5cb",
+  "patient_name": "Suzanne de Fournier",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.72713,
+    "lon": 7.251056
+  },
+  "observation_datetime": "2026-01-30T19:41:38.129064",
+  "saved_at": "2026-01-30T19:41:38.242237"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-32d1ed5e",
+  "patient_name": "Tristan Ferrand de Diaz",
+  "systolic_pressure": 92,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Angers",
+    "lat": 47.451202,
+    "lon": -0.568755
+  },
+  "observation_datetime": "2026-01-30T19:39:37.932083",
+  "saved_at": "2026-01-30T19:39:38.303944"
+}

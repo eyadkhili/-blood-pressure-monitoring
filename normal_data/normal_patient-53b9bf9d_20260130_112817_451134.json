@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-53b9bf9d",
+  "patient_name": "Antoine Raynaud",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.250643,
+    "lon": 5.387205
+  },
+  "observation_datetime": "2026-01-30T11:28:17.343056",
+  "saved_at": "2026-01-30T11:28:17.451169"
+}

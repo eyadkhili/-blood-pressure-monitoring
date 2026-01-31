@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e466acf1",
+  "patient_name": "Margaud Berthelot",
+  "systolic_pressure": 109,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.310485,
+    "lon": 5.324675
+  },
+  "observation_datetime": "2026-01-30T11:54:19.931721",
+  "saved_at": "2026-01-30T11:54:20.084227"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8a6e4337",
+  "patient_name": "Raymond Barbe",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.335391,
+    "lon": 5.400397
+  },
+  "observation_datetime": "2026-01-30T11:29:17.440915",
+  "saved_at": "2026-01-30T11:29:17.548058"
+}

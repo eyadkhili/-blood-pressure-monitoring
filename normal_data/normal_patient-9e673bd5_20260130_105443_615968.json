@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-9e673bd5",
+  "patient_name": "Marcel Raynaud",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.257252,
+    "lon": -1.602593
+  },
+  "observation_datetime": "2026-01-30T10:54:43.422908",
+  "saved_at": "2026-01-30T10:54:43.616012"
+}

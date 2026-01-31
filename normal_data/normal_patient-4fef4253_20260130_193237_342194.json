@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4fef4253",
+  "patient_name": "Roland Bruneau",
+  "systolic_pressure": 101,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.835509,
+    "lon": -0.569902
+  },
+  "observation_datetime": "2026-01-30T19:32:37.229059",
+  "saved_at": "2026-01-30T19:32:37.342229"
+}

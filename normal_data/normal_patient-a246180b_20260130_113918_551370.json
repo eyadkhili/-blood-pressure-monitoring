@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-a246180b",
+  "patient_name": "Manon-Marthe De Sousa",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Strasbourg",
+    "lat": 48.56492,
+    "lon": 7.747858
+  },
+  "observation_datetime": "2026-01-30T11:39:18.436577",
+  "saved_at": "2026-01-30T11:39:18.551398"
+}

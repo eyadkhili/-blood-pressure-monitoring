@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-2e200f72",
+  "patient_name": "Xavier-Eugène Ferreira",
+  "systolic_pressure": 114,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.173866,
+    "lon": 5.91575
+  },
+  "observation_datetime": "2026-01-30T11:35:18.037396",
+  "saved_at": "2026-01-30T11:35:18.457161"
+}

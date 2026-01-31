@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-b3f803f2",
+  "patient_name": "Louise-Anaïs Collet",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.798186,
+    "lon": 4.826842
+  },
+  "observation_datetime": "2026-01-30T11:34:17.936866",
+  "saved_at": "2026-01-30T11:34:18.251706"
+}

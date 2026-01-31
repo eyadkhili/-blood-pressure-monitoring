@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-35e99d07",
+  "patient_name": "Denis Bailly-Fouquet",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.250425,
+    "lon": 5.326742
+  },
+  "observation_datetime": "2026-01-30T19:41:08.080745",
+  "saved_at": "2026-01-30T19:41:08.354679"
+}

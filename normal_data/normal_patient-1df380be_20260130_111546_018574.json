@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-1df380be",
+  "patient_name": "Yves Bouvet",
+  "systolic_pressure": 105,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.317823,
+    "lon": 5.396018
+  },
+  "observation_datetime": "2026-01-30T11:15:45.888919",
+  "saved_at": "2026-01-30T11:15:46.018652"
+}

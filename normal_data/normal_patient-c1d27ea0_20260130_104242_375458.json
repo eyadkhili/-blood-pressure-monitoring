@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-c1d27ea0",
+  "patient_name": "Véronique Prévost",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 62,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.892894,
+    "lon": 2.339549
+  },
+  "observation_datetime": "2026-01-30T10:42:42.029225",
+  "saved_at": "2026-01-30T10:42:42.375506"
+}

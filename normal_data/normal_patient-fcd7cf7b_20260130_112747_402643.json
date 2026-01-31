@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-fcd7cf7b",
+  "patient_name": "Michelle Bonnet de Clément",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.148364,
+    "lon": -1.635386
+  },
+  "observation_datetime": "2026-01-30T11:27:47.296499",
+  "saved_at": "2026-01-30T11:27:47.402673"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-79c0ad43",
+  "patient_name": "Élise Le Lecoq",
+  "systolic_pressure": 92,
+  "diastolic_pressure": 70,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulouse",
+    "lat": 43.595004,
+    "lon": 1.450729
+  },
+  "observation_datetime": "2026-01-30T11:49:49.484158",
+  "saved_at": "2026-01-30T11:49:49.534390"
+}

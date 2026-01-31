@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-699e188e",
+  "patient_name": "Marianne Aubert",
+  "systolic_pressure": 97,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.332846,
+    "lon": 5.058399
+  },
+  "observation_datetime": "2026-01-30T11:05:44.773711",
+  "saved_at": "2026-01-30T11:05:45.012672"
+}

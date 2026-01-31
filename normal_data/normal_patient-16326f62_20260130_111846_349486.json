@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-16326f62",
+  "patient_name": "Océane Pascal",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.562809,
+    "lon": 3.833809
+  },
+  "observation_datetime": "2026-01-30T11:18:46.238403",
+  "saved_at": "2026-01-30T11:18:46.349532"
+}

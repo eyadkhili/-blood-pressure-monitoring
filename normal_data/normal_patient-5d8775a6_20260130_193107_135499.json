@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-5d8775a6",
+  "patient_name": "Margaux Techer-Leduc",
+  "systolic_pressure": 118,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.784162,
+    "lon": 4.860903
+  },
+  "observation_datetime": "2026-01-30T19:31:07.041957",
+  "saved_at": "2026-01-30T19:31:07.135553"
+}

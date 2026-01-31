@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4e524179",
+  "patient_name": "Suzanne Blanc-Carpentier",
+  "systolic_pressure": 104,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.78375,
+    "lon": 4.877795
+  },
+  "observation_datetime": "2026-01-30T19:43:38.338590",
+  "saved_at": "2026-01-30T19:43:38.493491"
+}

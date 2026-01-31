@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-35eb0435",
+  "patient_name": "Xavier-François Lagarde",
+  "systolic_pressure": 96,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.831763,
+    "lon": 2.369507
+  },
+  "observation_datetime": "2026-01-30T11:16:15.947745",
+  "saved_at": "2026-01-30T11:16:16.196189"
+}

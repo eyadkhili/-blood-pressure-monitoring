@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-57671030",
+  "patient_name": "Alexandrie-Adélaïde Goncalves",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 67,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.205281,
+    "lon": -1.555123
+  },
+  "observation_datetime": "2026-01-30T11:08:15.061649",
+  "saved_at": "2026-01-30T11:08:15.254632"
+}

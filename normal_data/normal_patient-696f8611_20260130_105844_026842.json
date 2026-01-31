@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-696f8611",
+  "patient_name": "Olivier Ledoux-Chevalier",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Dijon",
+    "lat": 47.363471,
+    "lon": 5.007846
+  },
+  "observation_datetime": "2026-01-30T10:58:43.893937",
+  "saved_at": "2026-01-30T10:58:44.026901"
+}

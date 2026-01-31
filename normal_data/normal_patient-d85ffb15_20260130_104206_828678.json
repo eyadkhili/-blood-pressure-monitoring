@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-d85ffb15",
+  "patient_name": "Margaret Marin",
+  "systolic_pressure": 108,
+  "diastolic_pressure": 66,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Bordeaux",
+    "lat": 44.805468,
+    "lon": -0.611912
+  },
+  "observation_datetime": "2026-01-30T10:39:22.522993",
+  "saved_at": "2026-01-30T10:42:06.828719"
+}

@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-e7921ef4",
+  "patient_name": "Anouk Mendès",
+  "systolic_pressure": 107,
+  "diastolic_pressure": 64,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.754073,
+    "lon": 4.845751
+  },
+  "observation_datetime": "2026-01-30T11:34:17.934603",
+  "saved_at": "2026-01-30T11:34:17.983377"
+}

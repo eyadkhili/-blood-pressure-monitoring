@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-7e7b0e41",
+  "patient_name": "Martin Boyer",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.1596,
+    "lon": 5.905581
+  },
+  "observation_datetime": "2026-01-30T10:52:43.196306",
+  "saved_at": "2026-01-30T10:52:43.263292"
+}

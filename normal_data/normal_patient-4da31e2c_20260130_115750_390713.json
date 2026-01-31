@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4da31e2c",
+  "patient_name": "Jacques Loiseau",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.099926,
+    "lon": -1.716298
+  },
+  "observation_datetime": "2026-01-30T11:57:50.278408",
+  "saved_at": "2026-01-30T11:57:50.390754"
+}

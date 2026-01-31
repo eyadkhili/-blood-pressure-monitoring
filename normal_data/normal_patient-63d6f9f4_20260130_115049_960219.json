@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-63d6f9f4",
+  "patient_name": "Émile Perret du Brun",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 63,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Lyon",
+    "lat": 45.810614,
+    "lon": 4.822924
+  },
+  "observation_datetime": "2026-01-30T11:50:49.587105",
+  "saved_at": "2026-01-30T11:50:49.960248"
+}

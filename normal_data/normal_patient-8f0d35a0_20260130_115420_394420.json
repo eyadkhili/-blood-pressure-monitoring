@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8f0d35a0",
+  "patient_name": "Monique Leclerc de la Étienne",
+  "systolic_pressure": 98,
+  "diastolic_pressure": 60,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.324824,
+    "lon": 5.331912
+  },
+  "observation_datetime": "2026-01-30T11:54:19.933391",
+  "saved_at": "2026-01-30T11:54:20.394458"
+}

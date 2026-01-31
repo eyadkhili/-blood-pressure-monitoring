@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-1aafc2d0",
+  "patient_name": "Lucie Dumas",
+  "systolic_pressure": 112,
+  "diastolic_pressure": 72,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.105731,
+    "lon": 5.913032
+  },
+  "observation_datetime": "2026-01-30T11:56:50.179381",
+  "saved_at": "2026-01-30T11:56:50.396653"
+}

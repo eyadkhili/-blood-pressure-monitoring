@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-4a20ec4b",
+  "patient_name": "Gilbert Perrot du Gérard",
+  "systolic_pressure": 100,
+  "diastolic_pressure": 69,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Rennes",
+    "lat": 48.134507,
+    "lon": -1.716383
+  },
+  "observation_datetime": "2026-01-30T11:20:46.462415",
+  "saved_at": "2026-01-30T11:20:46.519940"
+}

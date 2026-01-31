@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-f276ee0e",
+  "patient_name": "Suzanne Pruvost",
+  "systolic_pressure": 117,
+  "diastolic_pressure": 73,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Marseille",
+    "lat": 43.342009,
+    "lon": 5.403188
+  },
+  "observation_datetime": "2026-01-30T10:47:12.565672",
+  "saved_at": "2026-01-30T10:47:12.623812"
+}

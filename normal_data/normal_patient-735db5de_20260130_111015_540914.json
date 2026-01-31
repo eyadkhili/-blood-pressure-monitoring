@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-735db5de",
+  "patient_name": "Christophe Carre",
+  "systolic_pressure": 111,
+  "diastolic_pressure": 68,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.574315,
+    "lon": 3.874722
+  },
+  "observation_datetime": "2026-01-30T11:10:15.280324",
+  "saved_at": "2026-01-30T11:10:15.540978"
+}

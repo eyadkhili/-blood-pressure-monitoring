@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-5276940c",
+  "patient_name": "Zacharie Bouvet",
+  "systolic_pressure": 102,
+  "diastolic_pressure": 79,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.184434,
+    "lon": -1.538696
+  },
+  "observation_datetime": "2026-01-30T11:14:45.775016",
+  "saved_at": "2026-01-30T11:14:45.936234"
+}

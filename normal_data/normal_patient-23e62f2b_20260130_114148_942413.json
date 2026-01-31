@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-23e62f2b",
+  "patient_name": "Charles-Olivier Carre",
+  "systolic_pressure": 91,
+  "diastolic_pressure": 71,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Paris",
+    "lat": 48.822808,
+    "lon": 2.379586
+  },
+  "observation_datetime": "2026-01-30T11:41:48.689469",
+  "saved_at": "2026-01-30T11:41:48.942453"
+}

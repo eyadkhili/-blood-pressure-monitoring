@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-8c2bc665",
+  "patient_name": "Luc Colas",
+  "systolic_pressure": 113,
+  "diastolic_pressure": 74,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Toulon",
+    "lat": 43.133135,
+    "lon": 5.929197
+  },
+  "observation_datetime": "2026-01-30T10:53:43.314886",
+  "saved_at": "2026-01-30T10:53:43.558343"
+}

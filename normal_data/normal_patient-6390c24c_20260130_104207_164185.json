@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-6390c24c",
+  "patient_name": "Georges-Benjamin Rousset",
+  "systolic_pressure": 106,
+  "diastolic_pressure": 76,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nice",
+    "lat": 43.755374,
+    "lon": 7.224172
+  },
+  "observation_datetime": "2026-01-30T10:40:22.642745",
+  "saved_at": "2026-01-30T10:42:07.164228"
+}

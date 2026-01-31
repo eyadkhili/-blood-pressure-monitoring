@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-66656d86",
+  "patient_name": "Antoine Guillet Le Pineau",
+  "systolic_pressure": 115,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Nantes",
+    "lat": 47.232614,
+    "lon": -1.575652
+  },
+  "observation_datetime": "2026-01-30T19:33:07.280827",
+  "saved_at": "2026-01-30T19:33:07.497458"
+}

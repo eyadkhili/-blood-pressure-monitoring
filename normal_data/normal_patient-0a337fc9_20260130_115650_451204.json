@@ -1,0 +1,15 @@
+{
+  "patient_id": "patient-0a337fc9",
+  "patient_name": "Michèle Aubert du Fernandes",
+  "systolic_pressure": 90,
+  "diastolic_pressure": 78,
+  "category": "normal",
+  "risk_level": "low",
+  "location": {
+    "city": "Montpellier",
+    "lat": 43.596707,
+    "lon": 3.842281
+  },
+  "observation_datetime": "2026-01-30T11:56:50.180206",
+  "saved_at": "2026-01-30T11:56:50.451230"
+}
