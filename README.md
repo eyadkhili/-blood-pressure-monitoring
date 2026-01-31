@@ -442,10 +442,4 @@ blood-pressure-monitoring/
 
 ## 📝 Auteurs
 
-Projet réalisé dans le cadre du cours **Big Data / Systèmes Distribués**
-
----
-
-## 📄 Licence
-
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Projet réalisé par Eya DKHILI et Lysa HALLI
